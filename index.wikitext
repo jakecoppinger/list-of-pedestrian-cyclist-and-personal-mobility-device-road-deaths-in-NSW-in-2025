@@ -37,8 +37,7 @@ Recently there have been several misleading media articles (in reputable sources
 |date=2023-07-21
 |title=Victim blaming has made cars the biggest killer of children in Australia
 |publisher=Crikey
-}}</ref> people riding bicycles without helmets for their deaths<ref>''Note: This article includes a [https://www.istockphoto.com/photo/bike-messengers-in-nyc-gm534698191-57057462 stock image] from NYC where helmets are not mandatory.''
-{{cite web
+}}</ref> people riding bicycles without helmets for their deaths<ref>{{cite web
 |title=Use your head, cyclists – before it hits the pavement
 |date=2025-11-08
 |archive-url=https://web.archive.org/web/20251108041110/https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html
@@ -47,8 +46,10 @@ Recently there have been several misleading media articles (in reputable sources
 |url=https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html
 |publisher=Sydney Morning Herald
 |author=Katrina Strickland
-}}</ref>, comparing this behaviour to [https://web.archive.org/web/20251108041110/https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html#:~:text=a%20bit%20like-,smoking,-%E2%80%93%20reckless%2C%20bad%2Dfor smoking] and suggesting we portray them like those who [https://web.archive.org/web/20251108041110/https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html#:~:text=drink%2C%20drive%2C%20bloody%20idiot drive a car while drunk] -
-no mention of an [[Bicycle helmet laws by country|international perspective]] or the most important step in the hierarchy of risk control measures when discussing PPE: ''elimination'' of risk<ref>''"Eliminating the hazard is the most effective way to manage risks"'': {{cite web |url=https://www.safework.nsw.gov.au/__data/assets/pdf_file/0006/446028/hierarchy-of-controls-SW09182.pdf
+}}
+''Note: This article includes a [https://www.istockphoto.com/photo/bike-messengers-in-nyc-gm534698191-57057462 stock image] from NYC where helmets are not mandatory while riding a bicycle (or while walking, or while driving a car).''
+</ref>, comparing this behaviour to [https://web.archive.org/web/20251108041110/https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html#:~:text=a%20bit%20like-,smoking,-%E2%80%93%20reckless%2C%20bad%2Dfor smoking] and suggesting we portray them like those who [https://web.archive.org/web/20251108041110/https://www.smh.com.au/lifestyle/health-and-wellness/use-your-head-cyclists-before-it-hits-the-pavement-20251105-p5n816.html#:~:text=drink%2C%20drive%2C%20bloody%20idiot drive a car while drunk] -
+no mention of an [[Bicycle helmet laws by country|international perspective]] or the most important step in the hierarchy of risk control measures when discussing PPE: ''elimination'' of risk.<ref>''"Eliminating the hazard is the most effective way to manage risks"'': {{cite web |url=https://www.safework.nsw.gov.au/__data/assets/pdf_file/0006/446028/hierarchy-of-controls-SW09182.pdf
 |title=Hierarchy of Risk Control Measures
 |author=SafeWork NSW
 |publisher=NSW Government
@@ -57,7 +58,7 @@ no mention of an [[Bicycle helmet laws by country|international perspective]] or
 |url=https://www.safeworkaustralia.gov.au/safety-topic/managing-health-and-safety/identify-assess-and-control-hazards/managing-risks
 |title=Identify, assess and control hazards - Managing risks
 |author=Safe Work Australia
-}}</ref>  People driving motor vehicles cause the overwhelming majority of road deaths and serious injuries in Australia and internationally.<ref name="BitreMonthlyRoadDeaths"/><ref>{{cite web
+}}</ref> Motor vehicles cause the overwhelming majority of road deaths and serious injuries in Australia and internationally.<ref name="BitreMonthlyRoadDeaths"/><ref>{{cite web
 |title=Annual trauma
 |publisher=Bureau of Infrastructure and Transport Research Economics
 |url=https://datahub.roadsafety.gov.au/progress-reporting/annual-trauma
@@ -86,7 +87,12 @@ The intention of this reference is to assist journalists, advocates and the wide
 
 For the avoidance of any doubt, the intent of this page is not to highlight or blame individuals involved in crashes, but to highlight the prevalence of these crashes and their commonalities, and the need for systematic change to address this road safety 'blind spot'.
 
-If you have any concerns, feedback, corrections or additions, please contact me at [mailto:jake@jakecoppinger.com jake@jakecoppinger.com]. You can also make a pull request against the [https://en.wikipedia.org/wiki/Help:Wikitext Wikitext] source [https://github.com/jakecoppinger/list-of-pedestrian-cyclist-and-personal-mobility-device-road-deaths-in-NSW-in-2025 git repository] to edit this page.
+If you have any concerns, feedback, corrections or additions, please contact me at [mailto:jake@jakecoppinger.com jake@jakecoppinger.com]. You can also make a pull request on the [https://github.com/jakecoppinger/list-of-pedestrian-cyclist-and-personal-mobility-device-road-deaths-in-NSW-in-2025 git repository] (which contains the [https://en.wikipedia.org/wiki/Help:Wikitext Wikitext] source) to edit this page.
+
+<html>
+  <img class="wp-image-9999" src="https://jakecoppinger.com/wp-content/uploads/2025/11/2025-11-10-nsw-road-fatalities-12-month-moving-total.png" alt="NSW Road Fatalities 12-month moving total, 2020 to 2025-11-10. Published in the Daily report on the NSW Centre for Road Safety website daily - this one will quickly become outdated." />
+  <p><i>Image: NSW Road Fatalities 12-month moving total, 2020 to 2025-11-10. Published in the Daily report on the <a href="https://www.transport.nsw.gov.au/roadsafety/statistics" target="_blank">NSW Centre for Road Safety website</a> - this one will quickly become outdated.</a></i></p>
+</html>
 
 __TOC__
 
@@ -109,7 +115,7 @@ The Transport for NSW 2026 Road Safety Action Plan has a target of 50% reduction
 |url-status=live
 |access-date=2025-11-02
 |publisher=New South Wales Government
-}}</ref>{{rp|11}} Eliminating road trauma is the number one priority listed in the Connecting NSW Strategy.<ref name="ConnectingNSWStrategy2025"/>{{rp|5}}
+}}</ref>{{rp|11}} Eliminating road trauma is the number one priority listed in the Connecting NSW Strategy.<ref name="ConnectingNSWStrategy2025"/>{{rp|5}} The NSW Government has just started a review of the Road Safety Action Plan.{{efn|Personal correspondence}}
 
 By 11 November 2025, pedestrian fatalities in New South Wales had increased by '''''over 46% year-on-year{{efn|39 deaths in 12 months to 2024-11-10 to 57 deaths in 12 months to 2025-11-10}}''''' (compared to 4% for driver fatalities{{efn|159 to 166 deaths}}) and pedal cyclist fatalities have more than doubled{{efn|4 to 11 deaths}} (2025 prelim to 2024 final, 12-month period ending 10 November).<ref name="RoadTollDailyIncluding20251110"/> Pedestrian road deaths in Australia have risen nearly 50% in the last four years (to July 2025).<ref>{{cite web
 |url=https://zagdaily.com/places/pedestrian-road-deaths-in-australia-rise-by-50-in-4-years/
@@ -149,7 +155,10 @@ More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<
 |doi=10.64628/AA.ntnra7rt3
 }}</ref> on local roads - and over 100 Australian academics have called on Australia to allow the same.<ref>{{cite web
 |url=https://cdn.theconversation.com/static_files/files/3420/Call_on_govt_with_signatures.pdf
-|title=Australia’s transport and urban researchers call on government to reduce default road speeds
+|archive-url=http://web.archive.org/web/20241121132841/https://cdn.theconversation.com/static_files/files/3420/Call_on_govt_with_signatures.pdf
+|url-status=live
+|archive-date=2024-11-21
+|title=Australia's transport and urban researchers call on government to reduce default road speeds
 |date=August 2024
 |publisher=The Conversation
 |author=Dr Jennifer L. Kent, Prof. Marco Amati, Prof. Hannah Badland, Prof. Michael Bell, Prof. David Bissel, Prof. Matthew Burke, Prof. Graham Currie, Prof. Melanie Davern, Prof. Hussein Dia, Prof. Melody Ding, Prof. Jago Dodson, Prof. Rae Dufty-Jones, Prof. Stephen Greaves, Prof. Nicole Gurran, Prof. David Hensher, Prof. Taha Hossein Rashidi, Prof. Joe Hurley, Prof. Kurt Iveson, Prof. David Levinson, Prof. Sue McNeil, Prof. Jaime Miranda, Prof. John Nelson, Prof. John Newman, Prof. Alexander Paz, Prof. Christopher Pettit, Prof. Philayrath Phongsavan, Prof. Libby Porter, Prof. Carlo Prato, Prof. Jason Prior, Prof. Chris Rissel, Prof. Geoffrey Rose, Prof. Teresa Senserrick, Prof. Michael Small, Prof. Mark Stevenson, Prof. Susan Thompson, Prof. Zudo Zheng, Emeritus Prof. Michael Regan, Emeritus Prof. Barry Watson, Adjunct Prof. Judy Fleiter, Assoc. Prof. Tooran Alizadeh, Assoc. Prof. Phillippa Carnemolla, Assoc. Prof. Selby Coxon, Assoc. Prof. Alexa Delbosc, Assoc. Prof. Sarah Foster, Assoc. Prof. Adrienne Keane, Assoc. Prof. Crystal Legacy, Assoc. Prof. Nancy Marshall, Assoc. Prof. Robbie Napper, Assoc. Prof. Doina Olaru, Assoc. Prof. Mohsen Ramezani, Assoc. Prof. Deena Ridenour, Assoc. Prof. Paul Roberts, Assoc. Prof. Maeed Saberi, Assoc. Prof. Paul Tranter, Dr. Amanda Alderton, Dr. Courtney Babb, Dr. Maryam Bostanara, Dr. Jane Bryant, Dr. Caitlin Buckle, Dr. Linji Chen, Dr. Rebecca Clements, Dr. Chris De Gruyter, Dr. Kasun De Silva Wijayaratna, Dr. Chirag Deb, Dr. Andres Fielbaum, Dr. Elliot Fishman, Dr. Klaus Gebel, Dr. Milad Ghasrikhouzani, Dr. Catherine Gilbert, Dr. Hulya Gilbert, Dr. Giles Giles Thomson, Dr. Ori Gudes, Dr. Patrick Harris, Dr. Kristi Heesch, Dr. Elnaz Irannezhad, Dr. Afshin Jafari, Dr. Edward Jegasothy, Dr. Annette Kroen, Dr. Edgar Liu, Dr. Melanie Lowe, Dr. Miguel Loyola Borja, Dr. Xiao Ma, Dr. Sophia Maalsen, Dr. Erica McIntyre, Dr. Jamie McKenzie, Dr. Lara Mottee, Dr. Emily Moylan, Dr. Ali Najmi, Dr. Zahra Nasreen, Dr. Deepti Prasad, Dr. Lee Roberts, Dr. Rumana Sarker, Dr. Jan Scheurer, Dr. Chris Standen, Dr. John Stone, Dr. Chao Sun, Dr. Long Truong, Dr. Greta Wener, Dr. Ian Woodcock, Dr. Yuting Zhang, Mrs. Laya Hossein Rashidi, Ms. Laura Goh, Ms. Tracy Nau, Ms. Rebecca Weiner, Mr. Nathan Pittman
@@ -165,7 +174,7 @@ More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<
 Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes.<ref>{{cite web |author=Petra Stock |date=2025-10-15 |title=Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes, research finds |url=https://www.theguardian.com/environment/2025/oct/15/switching-50kmh-speed-limits-to-30kmh-would-protect-cyclists-while-barely-affecting-commutes-research-finds |publisher=The Guardian}}</ref><ref>{{cite journal|url=https://www.sciencedirect.com/science/article/pii/S2950105925000294?via%3Dihub|author1=Afshin Jafari|author2=Steve Pemberton|author3=Sapan Tiwari|author4=Tayebeh Saghapour|author5=Nikhil Chand|author6=Belen Zapata-Diomedi|author7=Billie Giles-Corti|doi=10.1016/j.jcmr.2025.100085|date=2025-08-29|journal=Journal of Cycling and Micromobility Research
 |title=Modelling the impact of lower speed limits on residential streets for cyclist level of traffic stress and car travel time in Greater Melbourne
 |volume=6}}</ref> Transport for NSW does not permit local councils to independently reduce speed limits to safe speeds on any streets, including local residential, high streets or outside schools.<ref>{{cite web
-|url=https://standards.transport.nsw.gov.au/_entity/annotation/a731a491-3198-f011-b41c-7c1e5262ceb8?utm_source=chatgpt.com
+|url=https://standards.transport.nsw.gov.au/_entity/annotation/a731a491-3198-f011-b41c-7c1e5262ceb8
 |page=4
 |title=NSW Speed Zoning Standard
 |ref=TS 03631:2.0
@@ -706,6 +715,10 @@ On 2025-06-05 a man walking, believed to be in his 40s, was struck by a light ra
 |date=2025-06-05
 |publisher=NSW Police
 |url-status=dead
+}}
+{{
+|fix-attempted=yes
+|date=November 2025
 }}</ref><ref>{{cite web
 |url=https://www.miragenews.com/fatal-light-rail-incident-surry-hills-1472793/
 |title=Fatal Light Rail Incident - Surry Hills
@@ -1063,7 +1076,7 @@ in article is stated to be before the incident date which is impossible) -->
 |date=2025-10-28
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251028-2_0.pdf
 }}
-</ref><ref name="RoadTollDailyIncluding20251028"/> (no change in pedestrian fatalities {{efn|The daily report states "The crash must have occurred within the surveyed road reserve" to be included in daily statistics. BITRE monthly bulletins state "...a death is classified as resulting from a road crash if the crash occurred on a public road..."}}) || On 2025-10-28 police were told a 55-year-old woman walking was struck by a four-wheel drive. The woman walking died at the scene. A 50-year-old man was arrested and charged.<ref name="UlmarraFatalCrash20251028">{{cite web
+</ref><ref name="RoadTollDailyIncluding20251028"/> (no change in pedestrian fatalities {{efn|The daily report states "The crash must have occurred within the surveyed road reserve" to be included in daily statistics. BITRE monthly bulletins state "...a death is classified as resulting from a road crash if the crash occurred on a public road..."}}) || On 2025-10-28 police were told a 55-year-old woman walking was struck by a four-wheel drive at a showground on Coldstream Street, [[Ulmarra]] – about 15km north of [[Grafton, New South Wales|Grafton]]. The woman walking died at the scene. A 50-year-old man was arrested and charged.<ref name="UlmarraFatalCrash20251028">{{cite web
 |archive-url=https://web.archive.org/web/20251103015941/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNjAxLmh0bWwmYWxsPTE%3D
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNjAxLmh0bWwmYWxsPTE%3D
 |title=Man charged following fatal crash - Ulmarra
@@ -1256,8 +1269,8 @@ archived in archive.is if needed.
 }}</ref>
 |-
 | 2025-11-11 || 2 || 0 || 0 || <ref name="RoadTollDailyIncluding20251106"/><ref name="RoadTollDailyIncluding20251110">{{cite web
-|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-1.pdf
-|archive-url=http://web.archive.org/web/20251111002522/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-1.pdf
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-2.pdf
+|archive-url=https://web.archive.org/web/20251111014005/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-2.pdf
 |archive-date=2025-11-11
 |title=Road Fatalities for NSW up to and including Monday, 10 November 2025
 |publisher=Transport for NSW
@@ -1448,7 +1461,7 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 
 ====Use of the term 'road toll'====
 
-'Road toll' is a legacy term used in Australia. While the term is still sometime used, most agencies instead using the phase "road deaths"<ref name="BitreMonthlyRoadDeaths">{{cite web
+'Road toll' is a legacy term. While the term is still sometime used, most agencies instead using the phase "road deaths"<ref name="BitreMonthlyRoadDeaths">{{cite web
 |url=https://datahub.roadsafety.gov.au/progress-reporting/monthly-road-deaths
 |title=Monthly road deaths
 |author=Bureau of Infrastructure and Transport Research Economics
