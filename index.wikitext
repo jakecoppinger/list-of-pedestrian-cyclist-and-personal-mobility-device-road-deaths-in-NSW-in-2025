@@ -117,7 +117,7 @@ The Transport for NSW 2026 Road Safety Action Plan has a target of 50% reduction
 |publisher=New South Wales Government
 }}</ref>{{rp|11}} Eliminating road trauma is the number one priority listed in the Connecting NSW Strategy.<ref name="ConnectingNSWStrategy2025"/>{{rp|5}} The NSW Government has just started a review of the Road Safety Action Plan.{{efn|Personal correspondence}}
 
-By 11 November 2025, pedestrian fatalities in New South Wales had increased by '''''over 46% year-on-year{{efn|39 deaths in 12 months to 2024-11-10 to 57 deaths in 12 months to 2025-11-10}}''''' (compared to 4% for driver fatalities{{efn|159 to 166 deaths}}) and pedal cyclist fatalities have more than doubled{{efn|4 to 11 deaths}} (2025 prelim to 2024 final, 12-month period ending 10 November).<ref name="RoadTollDailyIncluding20251110"/> Pedestrian road deaths in Australia have risen nearly 50% in the last four years (to July 2025).<ref>{{cite web
+By 11 November 2025, pedestrian fatalities in New South Wales had increased by '''''over 52% year-on-year{{efn|38 deaths in 12 months to 2024-11-11 to 58 deaths in 12 months to 2025-11-11}}''''' (compared to 5% for driver fatalities{{efn|158 to 166 deaths}}) and pedal cyclist fatalities have tripled{{efn|4 to 12 deaths}} (2025 prelim to 2024 final, 12-month period ending 11 November).<ref name="RoadTollDailyIncluding20251111"/> Pedestrian road deaths in Australia have risen nearly 50% in the last four years (to July 2025).<ref>{{cite web
 |url=https://zagdaily.com/places/pedestrian-road-deaths-in-australia-rise-by-50-in-4-years/
 |author=Sela Musa
 |publisher=Zag Daily
@@ -256,7 +256,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics.
 
 ===List of deaths in 2025===
-As of 2025-11-02, 44 pedestrians and 10 pedal cyclists were killed in the calendar year to midnight (November 2nd).<ref name="RoadTollDailyIncluding20251102"/>
+As of 2025-11-11, 48 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 11th).<ref name="RoadTollDailyIncluding20251110"/>
 
 <!-- Note:
 As of 2025-11, NSW Police press releases are deleted/disappear after some time.
@@ -273,6 +273,7 @@ and type in `road-toll` to find daily road toll statistics. It appears filenames
 in this list.
 -->
 {| class="wikitable sortable"
+|-
 ! Date
 ! Pedestrian Fatalities
 ! Cyclist Fatalities
@@ -1268,7 +1269,7 @@ archived in archive.is if needed.
 |publisher=ABC News
 }}</ref>
 |-
-| 2025-11-11 || 2 || 0 || 0 || <ref name="RoadTollDailyIncluding20251106"/><ref name="RoadTollDailyIncluding20251110">{{cite web
+| 2025-11-10 || 2 || 0 || 0 || <ref name="RoadTollDailyIncluding20251106"/><ref name="RoadTollDailyIncluding20251110">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-2.pdf
 |archive-url=https://web.archive.org/web/20251111014005/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251111-2.pdf
 |archive-date=2025-11-11
@@ -1285,6 +1286,34 @@ archived in archive.is if needed.
 |title=Woman dies following crash - Mt Druitt
 |date=2025-11-10
 |publisher=NSW Police
+}}</ref>
+|-
+| 2025-11-11 || 1 || 1 || 0 || <ref name="RoadTollDailyIncluding20251110"/><ref name="RoadTollDailyIncluding20251112">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251112-2.pdf
+|archive-url=https://web.archive.org/web/20251112013245/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251112-2.pdf
+|archive-date=2025-11-12
+|url-status=dead
+|title=Road Fatalities for NSW up to and including Tuesday, 11 November 2025
+|publisher=Transport for NSW
+|date=2025-11-12
+}}</ref> || On 2025-11-11 a 33-year-old man driving a truck allegedly struck a 50-year-old man walking at the intersection of Copeland Street and Elizabeth Drive, [[Liverpool, New South Wales|Liverpool]]. The man walking died at the scene.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODUyLmh0bWwmYWxsPTE%3D
+|title=Pedestrian dies following crash - Liverpool
+|date=2025-11-11
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251112010721/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODUyLmh0bWwmYWxsPTE%3D
+|url-status=live
+|archive-date=2025-11-12
+}}</ref>
+
+On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles in a group, collided at Kangaloon Road, East Kangaloon, about 4km northeast of [[Robertson, New South Wales|Robertson]]. The 51-year-old man suffered minor injuries and a possible concussion. On 2025-11-11, police were notified that the 54-year-old man had died.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODQ3Lmh0bWwmYWxsPTE%3D
+|title=Man dies following bicycle crash - Southern Highlands
+|date=2025-11-11
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251112014857/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODQ3Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-12
+|url-status=live
 }}</ref>
 |}
 
