@@ -91,7 +91,7 @@ If you have any concerns, feedback, corrections or additions, please contact me 
 
 <html>
   <img class="wp-image-9999" src="https://jakecoppinger.com/wp-content/uploads/2025/11/2025-11-10-nsw-road-fatalities-12-month-moving-total.png" alt="NSW Road Fatalities 12-month moving total, 2020 to 2025-11-10. Published in the Daily report on the NSW Centre for Road Safety website daily - this one will quickly become outdated." />
-  <p><i>Image: NSW Road Fatalities 12-month moving total, 2020 to 2025-11-10. Published in the Daily report on the <a href="https://www.transport.nsw.gov.au/roadsafety/statistics" target="_blank">NSW Centre for Road Safety website</a> - this one will quickly become outdated.</a></i></p>
+  <p><i>Image: NSW Road Fatalities 12-month moving total, 2020 to 2025-11-10. Published in the Daily report on the <a href="https://www.transport.nsw.gov.au/roadsafety/statistics" target="_blank">NSW Centre for Road Safety website</a> - this one will quickly become outdated.</i></p>
 </html>
 
 __TOC__
@@ -336,7 +336,7 @@ in this list.
 |publisher=9News
 }}</ref>
 |-
-| 2025-01-17 || 1 || - ||  -  || -  || On 2025-01-17 a woman in her 50s driving a car struck a 54-year-old walking at the Princes Highway, Nowra. The man later died.<ref>{{cite web
+| 2025-01-17 || 1 || - ||  -  || -  || On 2025-01-17 a woman in her 50s driving a car struck a 54-year-old man walking at the Princes Highway, Nowra. The man later died.<ref>{{cite web
 |title=Fatal Pedestrian Crash At Nowra 17 January
 |url=https://www.miragenews.com/fatal-pedestrian-crash-at-nowra-17-january-1392791/
 |archive-url=https://web.archive.org/web/20251102043039/https://www.miragenews.com/fatal-pedestrian-crash-at-nowra-17-january-1392791/
@@ -389,7 +389,7 @@ in this list.
 }}
 </ref>
 |-
-| 2025-02-07 || 1 || - ||  -  || -  || On 2025-02-05 a 25-year-old  driving a motor vehicle struck an 80-year-old man walking at John Street, Cabramatta West. The man walking later died.<ref>{{cite web
+| 2025-02-05 || 1 || - ||  -  || -  || On 2025-02-05 a 25-year-old  driving a motor vehicle struck an 80-year-old man walking at John Street, Cabramatta West. The man walking later died.<ref>{{cite web
 |archive-url=http://web.archive.org/web/20250207150053/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzOi8vZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdS9tZWRpYS8xMTY3MzguaHRtbCZhbGw9MQ==
 |archive-date=2025-02-07
 |title=Pedestrian dies after crash - Cabramatta West
@@ -717,7 +717,7 @@ On 2025-06-05 a man walking, believed to be in his 40s, was struck by a light ra
 |publisher=NSW Police
 |url-status=dead
 }}
-{{
+{{Dead link
 |fix-attempted=yes
 |date=November 2025
 }}</ref><ref>{{cite web
@@ -765,7 +765,6 @@ On 2025-06-05 a man walking, believed to be in his 40s, was struck by a light ra
 |url-status=dead
 }}</ref>
 |-
-
 | 2025-06-24 || 1 || - ||  -  || -  || On 2025-06-24 a 60-year-old man driving a truck struck a 22-year-old man near [[Beresfield, New South Wales|Beresfield]] on the [[Pacific Motorway (Sydney–Newcastle)|M1 motorway]] on Tuesday night. The man walking died at the scene.<ref>{{cite web
 |url=https://www.news.com.au/national/nsw-act/news/nsw-m1-highway-blocked-at-beresfield-after-serious-truck-crash/news-story/31f6e8ffb69a883d72bdefdd32dfb7f3
 |archive-url=https://archive.is/cUpZF
@@ -1009,6 +1008,38 @@ in article is stated to be before the incident date which is impossible) -->
 }}
 </ref>
 |-
+| 2025-09-22 || 1 || - || - || - || On 2025-09-22 a 19-year-old man driving a car struck a 60-year-old man at Peter Brock Drive, [[Oran Park, New South Wales|Oran Park]]. The man walking died at the scene. It was alleged the man who died was inspecting a car which had just been hit by another car.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMzU5Lmh0bWwmYWxsPTE%3D
+|archive-url=http://web.archive.org/web/20251112004846/https://www.police.nsw.gov.au/news/news_article?sq_content_src=+dXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMzU5Lmh0bWwmYWxsPTE=
+|archive-date=2025-11-12
+|title=Driver charged after fatal crash - Oran Park
+|date=2025-10-16
+|publisher=NSW Police
+}}
+</ref><ref>{{cite web
+|url=https://www.miragenews.com/police-charge-driver-after-fatal-crash-oran-park-1552331/
+|title=Police Charge Driver After Fatal Crash - Oran Park
+|date=2025-10-16
+|publisher=Mirage News
+}}</ref>
+|-
+| 2025-09-26 || - || 1 || - || - || On 2025-09-26 a 66-year-old man driving a street sweeper truck collided with a man riding a bike, believed to be in his 70s, at the intersection of Boonah street, Noorebah Avenue and Kooba Street, [[Griffith, New South Wales|Griffith]]. The man riding the bicycle died at the scene.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMDEwLmh0bWwmYWxsPTE%3D
+|title=Man Dies After Bike And Truck Crash - Near Griffith
+|date=2025-09-26
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/man-dies-after-bike-and-truck-crash-near-1541429/
+|title=Man Dies After Bike And Truck Crash - Near Griffith
+|date=2025-09-26
+|publisher=Mirage News
+}}</ref>
+|-
 | 2025-09-30 || 1 || - || - || - || On 2025-09-29 a 57-year-old man driving a SUV struck a 66-year-old woman riding a bicycle at Barnstaple Road, [[Five Dock]]. The woman cycling later died.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMDcxLmh0bWwmYWxsPTE%3D
 |title=UPDATE: Woman dies following crash - Five Dock
@@ -1040,6 +1071,15 @@ in article is stated to be before the incident date which is impossible) -->
 |publisher=NSW Police
 }}
 </ref>
+|-
+| 2025-10-11 || - || 1 || - || - || On 2025-10-10, police were told a 63-year-old woman was riding a bicycle down a steep hill and crashed. The woman died at the scene.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMjc4Lmh0bWwmYWxsPTE%3D
+|title=Woman dies following bicycle crash - Albury
+|archive-url=https://web.archive.org/web/20251112025149/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxMjc4Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-12
+|publisher=NSW Police
+|date=2025-10-11
+}}</ref>
 |-
 | 2025-10-24 || 1 || - ||  -  || -  || On 2025-10-22, a 65-year-old man was struck by an "E-bike" on Settlers Walk, near Greenmeadows Crescent, Toongabbie. The man later died. The rider allegedly left the scene following the crash. Following inquiries, the alleged rider (a 45-year-old man) was arrested, and "has since been released without charge pending further inquiries".<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNDk2Lmh0bWwmYWxsPTE%3D
@@ -1253,7 +1293,7 @@ archived in archive.is if needed.
 |date=2025-11-07
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251107-2.pdf
 }}
-</ref> || On 2025-11-06, a man driving a material transfer vehicle struck a 45 year old man on a construction site on New England Highway, [[Tarro, New South Wales|Tarro]]. The man standing died at the scene.<ref>{{cite web
+</ref> || On 2025-11-06, a man driving a material transfer vehicle struck a 45-year-old man on a construction site on New England Highway, [[Tarro, New South Wales|Tarro]]. The man standing died at the scene.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNzc2Lmh0bWwmYWxsPTE%3D
 |title=Man dies after workplace incident - Tarro
 |date=2025-11-07
@@ -1288,7 +1328,7 @@ archived in archive.is if needed.
 |publisher=NSW Police
 }}</ref>
 |-
-| 2025-11-11 || 1 || 1 || 0 || <ref name="RoadTollDailyIncluding20251110"/><ref name="RoadTollDailyIncluding20251112">{{cite web
+| 2025-11-11 || 1 || 1 || 0 || <ref name="RoadTollDailyIncluding20251110"/><ref name="RoadTollDailyIncluding20251111">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251112-2.pdf
 |archive-url=https://web.archive.org/web/20251112013245/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251112-2.pdf
 |archive-date=2025-11-12
@@ -1319,6 +1359,36 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 
 ==Serious Injuries of pedestrians, cyclists and personal mobility devices reported by NSW Police==
 
+* 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
+|url-status=dead
+|archive-url=http://web.archive.org/web/20250326030103/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
+|archive-date=2025-03-26
+|title=Child critical following crash - Mt Pritchard
+|date=2025-02-18
+|publisher=NSW Police
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/child-critical-after-crash-mt-pritchard-1410071/
+|title=Child Critical After Crash - Mt Pritchard
+|date=2025-02-18
+|publisher=Mirage News
+}}</ref>
+* 2025-02-24: On 2025-02-24 a car struck a 63-year-old man riding a bicycle at the intersection of Sackville Street and Hamilton Road, [[Fairfield, New South Wales|Fairfield]]. The car left the scene following the crash. A 69-year-old woman was later arrested. The man riding the bicycle was taken to hospital in a crticial condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE3MDM0Lmh0bWwmYWxsPTE%3D
+|title=Push Bike Rider Seriously Injured In Crash At Fairfield
+|publisher=NSW Police
+|date=2025-02-25
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/push-bike-rider-seriously-injured-in-crash-at-1413865/
+|title=Push Bike Rider Seriously Injured In Crash At Fairfield
+|publisher=Mirage News
+|date=2025-02-25
+}}</ref>
 * 2025-04-14: A woman standing was hospitalised (and a man driving was killed) after he was parking their car near the boat ramp at Manns Point in Greenwich. The car struck the woman and then entered the water.<ref>{{cite web
 |url=https://www.smh.com.au/national/nsw/divers-search-parramatta-river-for-man-who-drove-into-water-at-popular-fishing-spot-20250414-p5lrp8.html
 |archive-url=http://web.archive.org/web/20250723022650/https://www.smh.com.au/national/nsw/divers-search-parramatta-river-for-man-who-drove-into-water-at-popular-fishing-spot-20250414-p5lrp8.html
@@ -1339,6 +1409,57 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-date=2025-05-23
 |url-status=live
 |access-date=2025-11-02
+}}</ref>
+* 2025-05-04: A woman, believed to be in her 20s, was struck by a car at Maxwells Avenue, [[Ashcroft, New South Wales|Ashcroft]]. The car had left the scene. The woman was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE4MjU4Lmh0bWwmYWxsPTE%3D
+|title=Pedestrian Seriously Injured In Crash At Ashcroft
+|date=2025-05-05
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/police-seek-leads-after-ashcroft-pedestrian-hit-1454166/
+|title=Police Seek Leads After Ashcroft Pedestrian Hit
+|date=2025-05-05
+|publisher=Mirage News
+}}</ref>
+* 2025-06-01: On 2025-06-01 a 34-year-old man driving a truck struck a 40-year-old man riding a bicycle at the intersection of Bourke Street and Rainford Street, [[Surry Hills]]. The man riding the bicycle was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE4Nzc5Lmh0bWwmYWxsPTE%3D
+|title=Cyclist Seriously Injured In Crash - Surry Hills
+|date=2025-06-02
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/cyclist-critically-injured-in-surry-hills-crash-1470167/
+|title=Cyclist Critically Injured in Surry Hills Crash
+|date=2025-06-02
+|publisher=Mirage News
+}}</ref>
+* 2025-07-01: On 2025-07-01 a 45-year-old man driving a car struck a 58-year-old man walking at Cabramatta Road, [[Mount Pritchard]]. The man walking was found unconscious and was taken to hospital in a critical condition.<ref>{{cite web
+|title=Pedestrian critical following crash - Mount Pritchard
+|url=https://www.facebook.com/FairfieldCityPAC/posts/pfbid0QSg6mpmLNo9U429fMAgij1nmbvPBn3zvmVEkpGP8qcqKB9DX92t1wWJQyaAiua1il
+|archive-url=https://archive.is/Xr4je
+|url-status=live
+|archive-date=2025-11-02
+|author=Fairfield City Police Area Command
+|publisher=Facebook
+|date=2025-07-02
+}}</ref><ref>{{cite web
+|title=Pedestrian fighting for life after being hit by car in Mount Pritchard
+|date=2025-07-02
+|author=Sarah Keszler
+|publisher=7News
+|url=https://7news.com.au/news/police-investigation-launched-as-pedestrian-fights-for-life-after-mount-pritchard-crash--c-19219389
+|url-status=live
+|archive-url=http://web.archive.org/web/20250702104030/https://7news.com.au/news/police-investigation-launched-as-pedestrian-fights-for-life-after-mount-pritchard-crash--c-19219389
+|archive-date=2025-07-02
 }}</ref>
 * 2025-07-14: A person riding an e-bike was struck by a car at the intersection of Clinton and Dalton Streets, [[Orange, New South Wales|Orange]]. A 19-year-old woman was arrested and a car from the same location was seized for investigation.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE5NjEzLmh0bWwmYWxsPTE%3D
@@ -1380,6 +1501,44 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |access-date=2025-11-02
 |publisher=NSW Police
 }}</ref>
+* 2025-08-07: On 2025-08-07 a 32-year-old man driving a car struck a 29-year-old man walking. Police were told the vehicle was allegedly performing burnouts. The man walking was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwMzQ3Lmh0bWwmYWxsPTE%3D
+|title=Driver Charged After Pedestrian Injured in Mt Druitt
+|date=2025-08-23
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/driver-charged-after-pedestrian-injured-in-mt-1520168/
+|title=Driver Charged After Pedestrian Injured in Mt Druitt
+|date=2025-08-23
+|publisher=Mirage News
+}}</ref>
+* 2025-09-25: On 2025-09-25 a 56-year-old man driving a car struck a 61-year-old man crossing Victoria Road, [[Rozelle]]. The man walking was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwOTkzLmh0bWwmYWxsPTE%3D
+|title=Pedestrian Struck by Taxi in Rozelle, Police Probe
+|date=2025-09-26
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}
+</ref><ref>{{cite web
+|url=https://www.miragenews.com/pedestrian-struck-by-taxi-in-rozelle-police-1541070/
+|title=Pedestrian Struck by Taxi in Rozelle, Police Probe
+|date=2025-09-26
+|publisher=Mirage News
+}}</ref>
+* 2025-10-03: On 2025-10-03 a 28-year-old man driving a motorcycle struck a 53-year-old man crossing the road at Condamine Street, [[Manly Vale]], near Koorala Street. The man walking was in a critical condition and placed into an induced coma. The man driving the motorcycle had minor injuries.<ref>{{cite web
+|title=Pedestrian hit at Manly Vale
+|date=2025-10-04
+|url=https://www.northernbeachesadvocate.com.au/2025/10/04/pedestrian-hit-at-manly-vale/
+}}</ref>
 * 2025-10-28: A 36-year-old man driving an A-Double truck struck a 12-year-old boy riding a bicycle at King Street, [[Warrawong, New South Wales|Warrawong]].<ref>{{cite web
 |title=Appeal for information following bicycle crash- South of Wollongong
 |date=2025-10-28
@@ -1389,7 +1548,7 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |url-status=live
 |access-date=2025-11-02
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNTc3Lmh0bWwmYWxsPTE%3D
-}}</ref> ABC News reported that the truck was a B-Double and was treated for injuries to his head, hand and pelvis before being airlifted to a hospital.<ref>{{cite web
+}}</ref> ABC News reported that the truck was a B-Double and the boy was treated for injuries to his head, hand and pelvis before being airlifted to a hospital.<ref>{{cite web
 |date=2025-10-28
 |title=Young cyclist collides with truck at Warrawong critical in hospital
 |author=ABC Illawarra
@@ -1410,7 +1569,7 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=NSW Police
 |date=2025-10-23
 }}</ref>
-* 2025-11-05: On 2025-11-05 a 59-year-woman driving an SUV struck a 24-year-old woman and a 47-year-old man on the footpath outside the entrance of Concord Hospital on Hospital Road, Concord. They were both seriously injured. They were both employees of Concord Hospital.<ref>{{cite web
+* 2025-11-05: On 2025-11-05 a 59-year-old woman driving an SUV struck a 24-year-old woman and a 47-year-old man on the footpath outside the entrance of Concord Hospital on Hospital Road, Concord. They were both seriously injured. They were both employees of Concord Hospital.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNzI0Lmh0bWwmYWxsPTE%3D
 |archive-url=https://web.archive.org/web/20251106234409/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNzI0Lmh0bWwmYWxsPTE%3D
 |archive-date=2025-11-06
