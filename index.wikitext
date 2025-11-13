@@ -1624,15 +1624,15 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-date=2025-11-13
 }}</ref>
 
-===NSW Centre for Road Safety Statistics===
-====Eligibility of fatalities reporting in daily statistics====
+==NSW Centre for Road Safety Statistics==
+===Eligibility of fatalities reporting in daily statistics===
 Fatalities are removed from daily NSW Centre for Road Safety statistics<ref>{{cite web
 |url=https://www.transport.nsw.gov.au/roadsafety/statistics
 |title=NSW Centre for Road Safety Statistics
 |publisher=Transport for NSW
 }}</ref> if subsequent police or coronial investigation shows that they did not fall within National reporting guidelines. Fatalities are added from a crash occurring prior to the day's date where a person subsequently dies within 30 days or the crash is reported late. Fatalities are deaths which occurred within 30 days of a crash as a result of injuries received in the crash. The crash must have occurred within the surveyed road reserve.<ref name="RoadTollDailyIncluding20251030"/>{{rp|1}}
 
-====Daily publication of statistics====
+===Daily publication of statistics===
 Daily road fatality statistics are deleted daily. Updates are published in the morning and afternoon. Morning statistics documents are one page long.<ref>{{cite web
 |archive-url=https://web.archive.org/web/20250918233359/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20250919-1.pdf
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20250919-1.pdf
@@ -1643,10 +1643,10 @@ Daily road fatality statistics are deleted daily. Updates are published in the m
 |page=1
 }}</ref> Additional information about the change in fatalities across all modes, such as road user class, age group, gender and urbanisation (metropolitan vs regional) is included in documents published in the afternoon.<ref name="RoadTollDailyIncluding20251030"/>{{rp|5}}
 
-===Publication of Police press releases===
+==Publication of Police press releases==
 As of November 2025, NSW Police press releases are deleted or disappear after some months, and return "Oops, we appear to be experiencing technical difficulties".<ref name="WaterfallCyclistDeath20250114"/><ref name="NSWPoliceFatalPedestrianCrashAtNowra20250117"/><ref name="NSWPoliceFatalPedestrianCrashAtGlenugie20250118"/><ref name="NSWPoliceFatalPedestrianCrashAtLiverpool20250523"/> NSW Police press releases are republished by other news organisations. For example, Mirage News articles republishing these press releases include a link to the original press release, and where NSW Police press releases are still available, the body text is identical.<ref name="MirageNewsUlmarraFatalCrash20251028"/><ref name="UlmarraFatalCrash20251028"/>
 
-===Language===
+==Language==
 
 It is my goal to use accurate, factually correct and appropriate language in this page. I have followed Australian and international road safety communication guidelines.<ref>{{cite web
 |url=https://acrs.org.au/wp-content/uploads/Appropriate-Language-in-RS-Comms.pdf
@@ -1674,7 +1674,7 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 |date=2023-09-07
 }}</ref> Any corrections or suggestions on language are much appreciated.
 
-====Use of the term 'road toll'====
+===Use of the term 'road toll'===
 
 'Road toll' is a legacy term. While the term is still sometime used, most agencies instead using the phase "road deaths"<ref name="BitreMonthlyRoadDeaths">{{cite web
 |url=https://datahub.roadsafety.gov.au/progress-reporting/monthly-road-deaths
