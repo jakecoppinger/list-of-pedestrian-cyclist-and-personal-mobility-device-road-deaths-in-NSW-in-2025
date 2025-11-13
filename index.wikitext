@@ -256,7 +256,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics.
 
 ===List of deaths in 2025===
-As of 2025-11-11, 48 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 11th).<ref name="RoadTollDailyIncluding20251110"/>
+As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-13.
 
 <!-- Note:
 As of 2025-11, NSW Police press releases are deleted/disappear after some time.
@@ -1354,6 +1354,24 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-url=https://web.archive.org/web/20251112014857/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODQ3Lmh0bWwmYWxsPTE%3D
 |archive-date=2025-11-12
 |url-status=live
+}}</ref>
+|-
+| 2025-11-12 || 1 || 0 || 0 || <ref name="RoadTollDailyIncluding20251111"/><ref name="RoadTollDailyIncluding20251112">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251113-2.pdf
+|archive-url=https://web.archive.org/web/20251113030101/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251113-2.pdf
+|title=Road Fatalities for NSW up to and including Wednesday, 12 November 2025
+|archive-date=2025-11-13
+|publisher=Transport for NSW
+|date=2025-11-13
+|url-status=dead
+|page=1
+}}</ref> || On 2025-11-10 a 63-year-old man driving a school bus struck an 87-year-old man walking at the intersection of Kingsway and Miranda Road, [[Miranda, New South Wales|Miranda]]. The man walking was taken to hospital in a serious condition. Police were informed on 2025-11-12 that the man walking had died.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODYyLmh0bWwmYWxsPTE%3D
+|title=Pedestrian dies after bus crash - Miranda
+|date=2025-11-12
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251113033046/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODYyLmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-13
 }}</ref>
 |}
 
