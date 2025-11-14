@@ -163,12 +163,21 @@ More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<
 |publisher=The Conversation
 |author=Dr Jennifer L. Kent, Prof. Marco Amati, Prof. Hannah Badland, Prof. Michael Bell, Prof. David Bissel, Prof. Matthew Burke, Prof. Graham Currie, Prof. Melanie Davern, Prof. Hussein Dia, Prof. Melody Ding, Prof. Jago Dodson, Prof. Rae Dufty-Jones, Prof. Stephen Greaves, Prof. Nicole Gurran, Prof. David Hensher, Prof. Taha Hossein Rashidi, Prof. Joe Hurley, Prof. Kurt Iveson, Prof. David Levinson, Prof. Sue McNeil, Prof. Jaime Miranda, Prof. John Nelson, Prof. John Newman, Prof. Alexander Paz, Prof. Christopher Pettit, Prof. Philayrath Phongsavan, Prof. Libby Porter, Prof. Carlo Prato, Prof. Jason Prior, Prof. Chris Rissel, Prof. Geoffrey Rose, Prof. Teresa Senserrick, Prof. Michael Small, Prof. Mark Stevenson, Prof. Susan Thompson, Prof. Zudo Zheng, Emeritus Prof. Michael Regan, Emeritus Prof. Barry Watson, Adjunct Prof. Judy Fleiter, Assoc. Prof. Tooran Alizadeh, Assoc. Prof. Phillippa Carnemolla, Assoc. Prof. Selby Coxon, Assoc. Prof. Alexa Delbosc, Assoc. Prof. Sarah Foster, Assoc. Prof. Adrienne Keane, Assoc. Prof. Crystal Legacy, Assoc. Prof. Nancy Marshall, Assoc. Prof. Robbie Napper, Assoc. Prof. Doina Olaru, Assoc. Prof. Mohsen Ramezani, Assoc. Prof. Deena Ridenour, Assoc. Prof. Paul Roberts, Assoc. Prof. Maeed Saberi, Assoc. Prof. Paul Tranter, Dr. Amanda Alderton, Dr. Courtney Babb, Dr. Maryam Bostanara, Dr. Jane Bryant, Dr. Caitlin Buckle, Dr. Linji Chen, Dr. Rebecca Clements, Dr. Chris De Gruyter, Dr. Kasun De Silva Wijayaratna, Dr. Chirag Deb, Dr. Andres Fielbaum, Dr. Elliot Fishman, Dr. Klaus Gebel, Dr. Milad Ghasrikhouzani, Dr. Catherine Gilbert, Dr. Hulya Gilbert, Dr. Giles Giles Thomson, Dr. Ori Gudes, Dr. Patrick Harris, Dr. Kristi Heesch, Dr. Elnaz Irannezhad, Dr. Afshin Jafari, Dr. Edward Jegasothy, Dr. Annette Kroen, Dr. Edgar Liu, Dr. Melanie Lowe, Dr. Miguel Loyola Borja, Dr. Xiao Ma, Dr. Sophia Maalsen, Dr. Erica McIntyre, Dr. Jamie McKenzie, Dr. Lara Mottee, Dr. Emily Moylan, Dr. Ali Najmi, Dr. Zahra Nasreen, Dr. Deepti Prasad, Dr. Lee Roberts, Dr. Rumana Sarker, Dr. Jan Scheurer, Dr. Chris Standen, Dr. John Stone, Dr. Chao Sun, Dr. Long Truong, Dr. Greta Wener, Dr. Ian Woodcock, Dr. Yuting Zhang, Mrs. Laya Hossein Rashidi, Ms. Laura Goh, Ms. Tracy Nau, Ms. Rebecca Weiner, Mr. Nathan Pittman
 }}
-</ref> Kobi Shetty is introducing an ambitious 30km/h bill in NSW Parliament on the 13th of November 2025.<ref>{{cite web
-|url=https://www.kobishetty.org.au/30km_h_2nd_read_rego_page
-|title=Join us in Parliament - Support Safer Speeds of 30km/h on Local Streets
+</ref> Kobi Shetty introduced an ambitious 30km/h bill in NSW Parliament on the 13th of November 2025.<ref>{{cite web
+|url=https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18826
+|title=Road Legislation Amendment (Speed Limits) Bill 2025
+|access-date=2025-11-14
+|publisher=Parliament of New South Wales
+}}</ref><ref>{{cite web
+|url=https://www.parliament.nsw.gov.au/bill/files/18826/First%20Print.pdf
+|title=Road Legislation Amendment (Speed Limits) Bill 2025 - First Print
+|ref=b2025-051.d10
+}}</ref><ref>{{cite web
+|title=Road Legislation Amendment (Speed Limits) Bill 2025 - Second Reading Speech
+|url=https://www.parliament.nsw.gov.au/Hansard/Pages/HansardResult.aspx#/docid/'HANSARD-1323879322-159670'/HANSARD-1323879322-159670
+|date=2025-11-13
 |author=Kobi Shetty
-|publisher=Kobi Shetty MP
-|access-date=2025-11-10
+|publisher=Parliament of New South Wales
 }}</ref>
 
 Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes.<ref>{{cite web |author=Petra Stock |date=2025-10-15 |title=Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes, research finds |url=https://www.theguardian.com/environment/2025/oct/15/switching-50kmh-speed-limits-to-30kmh-would-protect-cyclists-while-barely-affecting-commutes-research-finds |publisher=The Guardian}}</ref><ref>{{cite journal|url=https://www.sciencedirect.com/science/article/pii/S2950105925000294?via%3Dihub|author1=Afshin Jafari|author2=Steve Pemberton|author3=Sapan Tiwari|author4=Tayebeh Saghapour|author5=Nikhil Chand|author6=Belen Zapata-Diomedi|author7=Billie Giles-Corti|doi=10.1016/j.jcmr.2025.100085|date=2025-08-29|journal=Journal of Cycling and Micromobility Research
@@ -1365,13 +1374,19 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-11-13
 |url-status=dead
 |page=1
-}}</ref> || On 2025-11-10 a 63-year-old man driving a school bus struck an 87-year-old man walking at the intersection of Kingsway and Miranda Road, [[Miranda, New South Wales|Miranda]]. The man walking was taken to hospital in a serious condition. Police were informed on 2025-11-12 that the man walking had died.<ref>{{cite web
+}}</ref> || On 2025-11-10 a 63-year-old man driving a school bus struck 87-year-old man Tony Pesce walking at the intersection of Kingsway and Miranda Road, [[Miranda, New South Wales|Miranda]]. The man walking was taken to hospital in a serious condition. Police were informed on 2025-11-12 that the man walking had died.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODYyLmh0bWwmYWxsPTE%3D
 |title=Pedestrian dies after bus crash - Miranda
 |date=2025-11-12
 |publisher=NSW Police
 |archive-url=https://web.archive.org/web/20251113033046/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODYyLmh0bWwmYWxsPTE%3D
 |archive-date=2025-11-13
+}}</ref><ref>{{cite web
+|url=https://7news.com.au/news/sydney/pedestrian-hit-and-killed-by-bus-in-miranda-identified-as-father-of-former-sutherland-shire-mayor-carmelo-pesce-c-20663316
+|author=Freddy Pawle
+|date=2025-11-13
+|publisher=7News
+|title=Pedestrian hit and killed by bus in Miranda identified as father of former Sutherland Shire mayor Carmelo Pesce
 }}</ref>
 |}
 
