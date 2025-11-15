@@ -697,7 +697,15 @@ in this list.
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE4ODkxLmh0bWwmYWxsPTE%3D
 |publisher=NSW Police
 }}
-</ref>
+</ref><ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/06/03/elderly-pedestrian-hit-by-car/
+|archive-url=https://web.archive.org/web/20251115034608/https://www.northernbeachesadvocate.com.au/2025/06/03/elderly-pedestrian-hit-by-car/
+|archive-date=2025-11-15
+|url-status=live
+|title=Elderly pedestrian hit by car
+|date=2025-06-03
+|publisher=Northern Beaches Advocate
+}}</ref>
 |-
 | 2025-06-05 || 2 || - ||  -  || -  || On 2025-06-05 a 54-year-old woman was allegedly struck by a ute on Macquarie Avenue, [[Penrith, New South Wales|Penrith]]. The driver of the ute allegedly drove away without stopping. The woman walking died at the scene.<ref>{{cite web
 |title=Pedestrian dies after crash - Penrith
@@ -1436,8 +1444,19 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 }}</ref>
 |}
 
-==Serious Injuries of pedestrians, cyclists and personal mobility devices reported by NSW Police==
+==List of pedestrians, cyclists and personal mobility devices in NSW road injuries in 2025==
 
+''Note: This section is not complete or up to date, and it is likely impossible to ensure completeness. Some geographical areas may be over-represented due to availability of local media reports in the absence of press releases.''
+
+* 2025-01-27: On 2025-01-27 a person driving a car struck a 15-year-old boy at North Steyne, [[Manly, New South Wales|Manly]], at [[The Corso, Manly|The Corso]]. The person driving the car allegedly left the scene without stopping. The boy was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
+|archive-url=https://web.archive.org/web/20250128032837/https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
+|title=Hit-and-run at Manly Beach
+|date=2025-01-28
+|publisher=Northern Beaches Advocate
+|archive-date=2025-01-28
+|url-status=live
+}}</ref>
 * 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
 |url-status=dead
@@ -1468,7 +1487,7 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=Mirage News
 |date=2025-02-25
 }}</ref>
-* 2025-04-14: A woman standing was hospitalised (and a man driving was killed) after he was parking their car near the boat ramp at Manns Point in Greenwich. The car struck the woman and then entered the water.<ref>{{cite web
+* 2025-04-14: A woman standing was hospitalised, and a man driving was killed, while the man was parking their car near the boat ramp at Manns Point in Greenwich. The car struck the woman and then entered the water.<ref>{{cite web
 |url=https://www.smh.com.au/national/nsw/divers-search-parramatta-river-for-man-who-drove-into-water-at-popular-fishing-spot-20250414-p5lrp8.html
 |archive-url=http://web.archive.org/web/20250723022650/https://www.smh.com.au/national/nsw/divers-search-parramatta-river-for-man-who-drove-into-water-at-popular-fishing-spot-20250414-p5lrp8.html
 |title='They love this place': Grandparents' daily visit to north shore fishing spot turns to tragedy
@@ -1488,6 +1507,30 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-date=2025-05-23
 |url-status=live
 |access-date=2025-11-02
+}}</ref>
+* 2025-03-27: On 2025-03-27 a teenage boy riding an e-bike, who appeared to be around 15-years-old, struck a 7-year-old girl at Bungan Street, [[Mona Vale, New South Wales|Mona Vale]]. Bystanders said the boy had been riding through the arcade between Bungan Street and Akuna Lane. The girl was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
+|title=Girl knocked down by e-bike
+|date=2025-03-28
+|publisher=Northern Beaches Advocate
+|archive-url=https://web.archive.org/web/20250328090046/https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
+|archive-date=2025-03-28
+|url-status=live
+}}</ref>
+* 2025-03-31: On 2025-03-31 a young female driving a black 2012 Mercedes sedan struck a 62-year-old woman at Pittwater Road, [[Collaroy, New South Wales|Collaroy]], between Ramsay and Frazer Streets. The woman had been sent flying by the collision and was found unconscious on the road. The woman remained with the Intensive Care crew for transport to hospital in a stable condition. There are no pedestrian crossings on Pittwater Road between Collaroy Street, Collaroy, and Mactier Street, [[Narrabeen]], and it is common for people to cross the six lane road using the median strip as a pedestrian island.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
+|archive-url=https://web.archive.org/web/20250331042252/https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
+|archive-date=2025-03-31
+|url-status=live
+|title=Pedestrian hit at Collaroy
+|date=2025-03-31
+|publisher=Northern Beaches Advocate
+}}</ref>
+* 2025-04-23: On 2025-04-23 a person driving a grey 2012 Ford Falcon struck a 28-year-old woman at the traffic lights at Barrenjoey Road, [[Mona Vale, New South Wales|Mona Vale]], near Park Street. The woman walking was taken to hospital in a serious condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/04/23/pedestrian-hit-at-mona-vale/
+|title=Pedestrian hit at Mona Vale
+|date=2025-04-23
+|publisher=Northern Beaches Advocate
 }}</ref>
 * 2025-05-04: A woman, believed to be in her 20s, was struck by a car at Maxwells Avenue, [[Ashcroft, New South Wales|Ashcroft]]. The car had left the scene. The woman was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE4MjU4Lmh0bWwmYWxsPTE%3D
@@ -1691,6 +1734,15 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=NSW Police
 |url-status=live
 |archive-date=2025-11-13
+}}</ref>
+* 2025-11-14: On 2025-11-14, a person driving a car struck a 10-year-old boy riding a bicycle at Avalon Parade, [[Avalon Beach, New South Wales|Avalon Beach]]. The person driving was reversing out of a driveway. The boy was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/11/15/public-safety-round-up-278/#:~:text=9.15am%20Friday%2C%2014%20November
+|archive-url=https://archive.is/Kn1zl
+|archive-date=2025-11-15
+|url-status=live
+|title=Public safety round-up
+|date=2025-11-15
+|publisher=Northern Beaches Advocate
 }}</ref>
 * 2025-11-14: On 2025-11-14, a young person riding a moped struck a 3-year-old girl on a footpath at Popondetta Rd, [[Dharruk, New South Wales|Dharruk]]. At the time the child was in company with a 31-year-old woman who was uninjured. The young person riding the moped continued without stopping. The child was taken to hospital and treated for minor injuries. The moped was allegedly found abandoned at a reserve near Luxford Avenue, [[Whalan, New South Wales|Whalan]], and a 13-year-old boy was arrested nearby.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAzLmh0bWwmYWxsPTE%3D
