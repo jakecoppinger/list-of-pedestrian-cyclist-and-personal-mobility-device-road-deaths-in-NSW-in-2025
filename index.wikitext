@@ -265,7 +265,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics.
 
 ===List of deaths in 2025===
-As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-13.
+As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-15.
 
 <!-- Note:
 As of 2025-11, NSW Police press releases are deleted/disappear after some time.
@@ -935,7 +935,7 @@ in article is stated to be before the incident date which is impossible) -->
 |title=Fatal Hit And Run Crash Near Richmond
 |date=2025-08-12
 |publisher=Mirage News
-}}</ref>On 2025-11-10 a 39-year-old man was charged.<ref>{{cite web
+}}</ref> On 2025-11-10 a 39-year-old man was charged.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODM3Lmh0bWwmYWxsPTE%3D
 |archive-url=https://web.archive.org/web/20251111002903/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODM3Lmh0bWwmYWxsPTE%3D
 |archive-date=2025-11-11
@@ -1388,6 +1388,52 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=7News
 |title=Pedestrian hit and killed by bus in Miranda identified as father of former Sutherland Shire mayor Carmelo Pesce
 }}</ref>
+|-
+| 2025-11-13 || 1 || 0 || 0 || - || On 2025-11-13, Police were told a 91-year-old man driving a car struck a 92-year-old man walking at St Johns Avenue, [[Gordon, New South Wales|Gordon]]. The 92-year-old man walking was taken to hospital in a serious condition. On 2025-11-14 Police were informed the 92-year old man had died.<ref>{{cite web
+|archive-url=https://web.archive.org/web/20251115030405/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAyLmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-15
+|url-status=live
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAyLmh0bWwmYWxsPTE%3D
+|title=Pedestrian dies after crash - Gordon
+|date=2025-11-14
+|publisher=NSW Police
+}}</ref>
+|-
+| 2025-11-14 || 1 || 0 || 0 || - || On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia Carnival driven by a 48-year-old man, which then struck a 33-year-old woman walking at the entrance of a carpark on George Street, [[Hornsby, New South Wales|Hornsby]]. The woman walking was 8 months pregnant and was taken to hospital in a critical condition. The woman walking, and her unborn child, died in hospital.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA3Lmh0bWwmYWxsPTE%3D
+|title=Driver charged after fatal pedestrian crash - Hornsby
+|archive-url=https://web.archive.org/web/20251115024413/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA3Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-15
+|url-status=live
+|date=2025-11-15
+|publisher=NSW Police
+}}</ref><ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA0Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251115024744/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA0Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-15
+|url-status=live
+|title=Driver arrested after fatal pedestrian crash involving two vehicles - Hornsby
+|date=2025-11-15
+|publisher=NSW Police
+}}</ref><ref>{{cite web
+|url=https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
+|publisher=ABC News
+|author=David Hirst
+|date=2025-11-15
+|title=Man charged after pregnant woman struck by car and killed in Sydney
+|archive-url=https://web.archive.org/web/20251115024501/https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
+|archive-date=2025-11-15
+|url-status=live
+}}</ref><ref>{{cite web
+|url=https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
+|archive-url=https://web.archive.org/web/20251115030530/https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
+|archive-date=2025-11-15
+|url-status=live
+|title='Terrible': P-plate driver charged after pregnant woman killed in Sydney’s north
+|author=Kayla Olaya
+|date=2025-11-15
+|publisher=The Sydney Morning Herald
+}}</ref>
 |}
 
 ==Serious Injuries of pedestrians, cyclists and personal mobility devices reported by NSW Police==
@@ -1628,6 +1674,14 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |author=Yashee Sharma
 |date=2025-11-07
 |publisher=9News
+}}</ref> On 2025-11-12, one of the car drivers was arrested and charged.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODY2Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251115031313/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODY2Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-15
+|url-status=live
+|title=Driver charged after three pedestrians critically injured - Blacktown
+|date=2025-11-12
+|publisher=NSW Police
 }}</ref>
 * 2025-11-12: On 2025-11-12, police were told that a woman allegedly drove her car at a 14-year-old boy riding an e-bike at Elsdon Street, [[Redhead, New South Wales|Redhead]] (Lake Macquarie). The 14-year-old boy jumped from the bike to avoid the impact, however the e-bike was dragged for approximately 30 metres and extensively damaged. The boy sustained minor lacerations and bruising. The woman driving the car allegedly left the scene, and was later arrested.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODgzLmh0bWwmYWxsPTE%3D
@@ -1637,6 +1691,15 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=NSW Police
 |url-status=live
 |archive-date=2025-11-13
+}}</ref>
+* 2025-11-14: On 2025-11-14, a young person riding a moped struck a 3-year-old girl on a footpath at Popondetta Rd, [[Dharruk, New South Wales|Dharruk]]. At the time the child was in company with a 31-year-old woman who was uninjured. The young person riding the moped continued without stopping. The child was taken to hospital and treated for minor injuries. The moped was allegedly found abandoned at a reserve near Luxford Avenue, [[Whalan, New South Wales|Whalan]], and a 13-year-old boy was arrested nearby.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAzLmh0bWwmYWxsPTE%3D
+|title=Teenager charged after crash with young girl - Dharruk
+|date=2025-11-14
+|archive-url=https://web.archive.org/web/20251115025222/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAzLmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-15
+|url-status=live
+|publisher=NSW Police
 }}</ref>
 
 ==NSW Centre for Road Safety Statistics==
