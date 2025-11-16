@@ -1499,6 +1499,16 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-11-15
 |publisher=The Sydney Morning Herald
 }}</ref>
+|-
+| 2025-11-16 || 1 || 0 || 0 || - || On 2025-11-16 a man, believed to be in his 20s, was found lying on the side of the road at Old Kurrajong Road at [[Richmond, New South Wales|Richmond]]. The man died at the scene. Initial inquiries indicate the man may have been struck by a vehicle, which had not stopped.<ref>{{cite web
+|title=Man dies after suspected hit-and-run - Richmond
+|publisher=NSW Police
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI4Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251116132419/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI4Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-16
+|url-status=live
+|date=2025-11-16
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
@@ -1786,6 +1796,9 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |access-date=2025-11-16
 }}</ref> Thirteen people were injured. Police reported that one was injured critically and one man sustained serious injuries. 11 people were taken to hospital.<ref name="WalchaCrash2025">{{ cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI1Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251116131754/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI1Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-11-16
+|url-status=live
 |title=UPDATE: Thirteen injured, one critically, when speedway car crashes into crowd at Walcha
 |date=2025-11-16
 |publisher=NSW Police
