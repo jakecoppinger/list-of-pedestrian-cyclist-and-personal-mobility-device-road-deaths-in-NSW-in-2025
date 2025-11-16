@@ -1776,7 +1776,7 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |publisher=ABC News
 |date=2025-11-16
 |access-date=2025-11-16
-}}</ref> driving a car at the [[Walcha, New South Wales|Walcha]] showground on Derby Street crashed through a fence and hit a mobile grandstand. The driver may have been unconscious.<ref>{{cite web
+}}</ref> driving a car at the [[Walcha, New South Wales|Walcha]] showground on Derby Street crashed through a fence and hit a mobile grandstand, striking a crowd of people. The driver may have been unconscious.<ref>{{cite web
 |title=‘He’s blacked out’: Demolition derby car ploughs into crowd at NSW show
 |url=https://www.smh.com.au/national/nsw/demolition-derby-car-ploughs-into-crowd-two-critical-20251115-p5nfp2.html
 |author1=Josefine Ganko
@@ -1784,12 +1784,17 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-11-15
 |publisher=The Sydney Morning Herald
 |access-date=2025-11-16
-}}</ref> Police reported a 54-year-old man suffered critical injuries with another three people seriously injured, and that 7 men and 2 women were taken to hospital.<ref name="WalchaCrash2025">{{cite web
+}}</ref> Thirteen people were injured. Police reported that one was injured critically and one man sustained serious injuries. 11 people were taken to hospital.<ref name="WalchaCrash2025">{{ cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI1Lmh0bWwmYWxsPTE%3D
+|title=UPDATE: Thirteen injured, one critically, when speedway car crashes into crowd at Walcha
+|date=2025-11-16
+|publisher=NSW Police
+}}</ref><ref name="WalchaCrashOld2025">{{cite web
 |title=Nine injured, one critically, when speedway car crashes into crowd at Walcha
 |date=2025-11-15
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTE3Lmh0bWwmYWxsPTE%3D
 |archive-url=https://web.archive.org/web/20251116033925/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTE3Lmh0bWwmYWxsPTE%3D
-}}</ref>. A NSW Ambulance spokesperson, quoted in The Guardian, said 13 people were injured. The Guardian reported two people were in a critical condition and six had serious injuries. The 11 other victims, aged between 20 and 75, were transported to three nearby hospitals.<ref name="GuardianWalchaCrash2025">{{cite web
+}}</ref>. The Guardian reported two people were in a critical condition and six had serious injuries.<ref name="GuardianWalchaCrash2025">{{cite web
 |url=https://www.theguardian.com/australia-news/2025/nov/16/thirteen-people-injured-after-speedway-car-ploughs-into-grandstand-during-nsw-demolition-derby
 |title=Thirteen people injured after speedway car ploughs into grandstand during NSW demolition derby
 |author1=Josh Taylor
