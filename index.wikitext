@@ -125,11 +125,11 @@ By 11 November 2025, pedestrian fatalities in New South Wales had increased by '
 |date=2025-08-21
 }}</ref>
 
-More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<ref>{{cite web |title=Pedestrians |url=https://www.transport.nsw.gov.au/roadsafety/pedestrians |archive-url=http://web.archive.org/web/20251007062313/https://www.transport.nsw.gov.au/roadsafety/pedestrians
+More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<ref name="TfNSW1100Pedestrians">{{cite web |title=Pedestrians |url=https://www.transport.nsw.gov.au/roadsafety/pedestrians |archive-url=http://web.archive.org/web/20251007062313/https://www.transport.nsw.gov.au/roadsafety/pedestrians
 |archive-date=2025-10-07
 |url-status=live
 |publisher=Transport for NSW}}</ref> Speed management is embedded within all 3 themes of the National Road Safety Strategy 2021-30<ref>{{cite web
-|title=National Road Safety Strategy 2021–30
+|title=National Road Safety Strategy 2021-30
 |year=2021
 |publisher=Commonwealth of Australia
 |archive-url=https://web.archive.org/web/20250626044455/https://www.roadsafety.gov.au/sites/default/files/documents/National-Road-Safety-Strategy-2021-30.pdf
@@ -163,22 +163,7 @@ More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<
 |publisher=The Conversation
 |author=Dr Jennifer L. Kent, Prof. Marco Amati, Prof. Hannah Badland, Prof. Michael Bell, Prof. David Bissel, Prof. Matthew Burke, Prof. Graham Currie, Prof. Melanie Davern, Prof. Hussein Dia, Prof. Melody Ding, Prof. Jago Dodson, Prof. Rae Dufty-Jones, Prof. Stephen Greaves, Prof. Nicole Gurran, Prof. David Hensher, Prof. Taha Hossein Rashidi, Prof. Joe Hurley, Prof. Kurt Iveson, Prof. David Levinson, Prof. Sue McNeil, Prof. Jaime Miranda, Prof. John Nelson, Prof. John Newman, Prof. Alexander Paz, Prof. Christopher Pettit, Prof. Philayrath Phongsavan, Prof. Libby Porter, Prof. Carlo Prato, Prof. Jason Prior, Prof. Chris Rissel, Prof. Geoffrey Rose, Prof. Teresa Senserrick, Prof. Michael Small, Prof. Mark Stevenson, Prof. Susan Thompson, Prof. Zudo Zheng, Emeritus Prof. Michael Regan, Emeritus Prof. Barry Watson, Adjunct Prof. Judy Fleiter, Assoc. Prof. Tooran Alizadeh, Assoc. Prof. Phillippa Carnemolla, Assoc. Prof. Selby Coxon, Assoc. Prof. Alexa Delbosc, Assoc. Prof. Sarah Foster, Assoc. Prof. Adrienne Keane, Assoc. Prof. Crystal Legacy, Assoc. Prof. Nancy Marshall, Assoc. Prof. Robbie Napper, Assoc. Prof. Doina Olaru, Assoc. Prof. Mohsen Ramezani, Assoc. Prof. Deena Ridenour, Assoc. Prof. Paul Roberts, Assoc. Prof. Maeed Saberi, Assoc. Prof. Paul Tranter, Dr. Amanda Alderton, Dr. Courtney Babb, Dr. Maryam Bostanara, Dr. Jane Bryant, Dr. Caitlin Buckle, Dr. Linji Chen, Dr. Rebecca Clements, Dr. Chris De Gruyter, Dr. Kasun De Silva Wijayaratna, Dr. Chirag Deb, Dr. Andres Fielbaum, Dr. Elliot Fishman, Dr. Klaus Gebel, Dr. Milad Ghasrikhouzani, Dr. Catherine Gilbert, Dr. Hulya Gilbert, Dr. Giles Giles Thomson, Dr. Ori Gudes, Dr. Patrick Harris, Dr. Kristi Heesch, Dr. Elnaz Irannezhad, Dr. Afshin Jafari, Dr. Edward Jegasothy, Dr. Annette Kroen, Dr. Edgar Liu, Dr. Melanie Lowe, Dr. Miguel Loyola Borja, Dr. Xiao Ma, Dr. Sophia Maalsen, Dr. Erica McIntyre, Dr. Jamie McKenzie, Dr. Lara Mottee, Dr. Emily Moylan, Dr. Ali Najmi, Dr. Zahra Nasreen, Dr. Deepti Prasad, Dr. Lee Roberts, Dr. Rumana Sarker, Dr. Jan Scheurer, Dr. Chris Standen, Dr. John Stone, Dr. Chao Sun, Dr. Long Truong, Dr. Greta Wener, Dr. Ian Woodcock, Dr. Yuting Zhang, Mrs. Laya Hossein Rashidi, Ms. Laura Goh, Ms. Tracy Nau, Ms. Rebecca Weiner, Mr. Nathan Pittman
 }}
-</ref> Kobi Shetty introduced an ambitious 30km/h bill in NSW Parliament on the 13th of November 2025.<ref>{{cite web
-|url=https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18826
-|title=Road Legislation Amendment (Speed Limits) Bill 2025
-|access-date=2025-11-14
-|publisher=Parliament of New South Wales
-}}</ref><ref>{{cite web
-|url=https://www.parliament.nsw.gov.au/bill/files/18826/First%20Print.pdf
-|title=Road Legislation Amendment (Speed Limits) Bill 2025 - First Print
-|ref=b2025-051.d10
-}}</ref><ref>{{cite web
-|title=Road Legislation Amendment (Speed Limits) Bill 2025 - Second Reading Speech
-|url=https://www.parliament.nsw.gov.au/Hansard/Pages/HansardResult.aspx#/docid/'HANSARD-1323879322-159670'/HANSARD-1323879322-159670
-|date=2025-11-13
-|author=Kobi Shetty
-|publisher=Parliament of New South Wales
-}}</ref>
+</ref>
 
 Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes.<ref>{{cite web |author=Petra Stock |date=2025-10-15 |title=Switching 50km/h speed limits to 30km/h would protect cyclists while barely affecting commutes, research finds |url=https://www.theguardian.com/environment/2025/oct/15/switching-50kmh-speed-limits-to-30kmh-would-protect-cyclists-while-barely-affecting-commutes-research-finds |publisher=The Guardian}}</ref><ref>{{cite journal|url=https://www.sciencedirect.com/science/article/pii/S2950105925000294?via%3Dihub|author1=Afshin Jafari|author2=Steve Pemberton|author3=Sapan Tiwari|author4=Tayebeh Saghapour|author5=Nikhil Chand|author6=Belen Zapata-Diomedi|author7=Billie Giles-Corti|doi=10.1016/j.jcmr.2025.100085|date=2025-08-29|journal=Journal of Cycling and Micromobility Research
 |title=Modelling the impact of lower speed limits on residential streets for cyclist level of traffic stress and car travel time in Greater Melbourne
@@ -195,6 +180,83 @@ Switching 50km/h speed limits to 30km/h would protect cyclists while barely affe
 |url=https://www.northernbeachesadvocate.com.au/2020/06/18/manly-slows-down/
 |publisher=Northern Beaches Advocate
 }}</ref>
+
+Kobi Shetty introduced an ambitious 30km/h bill in NSW Parliament on the 13th of November 2025, endorsed by the [https://www.surgeons.org/ Royal Australasian College of Surgeons], the [https://acrs.org.au/ Australasian College of Road Safety], the [https://www.littlebluedinosaur.org/ Little Blue Dinosaur Foundation], [https://safe-streets-to-school.org/ Safe Streets to School], [https://30please.org/ 30Please], [https://www.betterstreets.org.au/ Better Streets], [https://bicyclensw.org.au/ Bicycle NSW], [http://walksydney.org/ WalkSydney], [https://roadsense.org.au/ Road Sense Australia] and [https://www.dea.org.au Doctors for the Environment Australia].<ref>{{cite web
+|url=https://www.parliament.nsw.gov.au/bills/Pages/bill-details.aspx?pk=18826
+|title=Road Legislation Amendment (Speed Limits) Bill 2025
+|access-date=2025-11-14
+|publisher=Parliament of New South Wales
+}}</ref><ref>{{cite web
+|url=https://www.parliament.nsw.gov.au/bill/files/18826/First%20Print.pdf
+|title=Road Legislation Amendment (Speed Limits) Bill 2025 - First Print
+|ref=b2025-051.d10
+}}</ref><ref>{{cite web
+|title=Road Legislation Amendment (Speed Limits) Bill 2025 - Second Reading Speech
+|url=https://www.parliament.nsw.gov.au/Hansard/Pages/HansardResult.aspx#/docid/'HANSARD-1323879322-159670'/HANSARD-1323879322-159670
+|date=2025-11-13
+|author=Kobi Shetty
+|publisher=Parliament of New South Wales
+}}</ref> Some commentators have misrepresented<ref>
+Quotes spoken by Clinton Maynard from the [https://en.wikipedia.org/wiki/Talk_radio talkback radio] segment at 15:23pm on 2GB Sydney:
+*''...Well we genuinely have a problem with the road toll going up year after year after years of going down. It doesn't make a lot of sense because cars are safer than they've ever been. It can't be the speed. '''Speed is 30% related to fatalities.''' But somebody's still putting the foot down and contributing to that 30%...''
+*''...The road toll is going up. We know that. ''Stats show speed amounts for 30%, contributes to 30% of fatal accidents'' but fatigue is a big issue. Distraction is a factor. Are we going to ban fatigue? How's that going to work? It's not....''
+*''...Road safety experts will tell you that '''there’s a lot less chance of being seriously injured or killed when cars are traveling at 30 than 50 or 60. Sure''', but there’s also less chance you’re going to be seriously injured if a car is traveling at 20 kilometers an hour or 10 kilometers an hour. You’ve got to draw the line somewhere. 30 is too low...''
+*''...It’s an absolutely bonkers idea cutting the speed limit to 30 and '''I cannot find any justification for it. Because sure it is going to be safer''' but it’s also going to be safer at 20 kilometers an hour so you’ve got to draw the line somewhere...''
+{{cite web
+|url=https://omny.fm/shows/the-drive-program/sydney-now-with-clinton-maynard-november-14th?t=13m5s
+|title=Sydney Now with Clinton Maynard - November 14th (13m5s / 15:23pm)
+|publisher=OmnyStudio
+|date=2025-11-14
+|author=Clinton Maynard
+}}
+{{cite web
+|url=https://pdst.fm/e/traffic.omny.fm/d/clips/88b564ea-a9a6-4751-910a-a5d800019396/627698af-6f84-4e21-b888-abc300496f3a/2c0d445d-39ed-44a8-911d-b3950086dc9c/audio.mp3
+|archive-url=https://web.archive.org/web/20251116071541/https://28783.mc.tritondigital.com/OMNY_THEDRIVEPROGRAM_P/media-session/012cda02-f062-424b-a324-def984a6b5da/d/clips/88b564ea-a9a6-4751-910a-a5d800019396/627698af-6f84-4e21-b888-abc300496f3a/2c0d445d-39ed-44a8-911d-b3950086dc9c/audio/direct/t1763108727/Sydney_Now_with_Clinton_Maynard_-_November_14th.mp3
+|archive-date=2025-11-16
+|url-status=live
+|title=Sydney Now with Clinton Maynard (mp3)
+|publisher=2GB
+|date=2025-11-14
+}}
+</ref> statistics of crashes in which speed 'is considered a factor'<ref>
+''Excess and inappropriate speed are responsible for a high proportion of the mortality and morbidity that result from road crashes. In high-income countries, speed contributes to about 30% of deaths on the road, while in some low-income and middle-income countries, speed is estimated to be the main contributory factor in about half of all road crashes.''
+{{cite web
+|title=Road safety - Speed
+|publisher=World Health Organization
+|year=2004
+|archive-url=http://web.archive.org/web/20150526144858/http://www.who.int/violence_injury_prevention/publications/road_traffic/world_report/speed_en.pdf
+|url=http://www.who.int/violence_injury_prevention/publications/road_traffic/world_report/speed_en.pdf
+|url-status=dead
+|page=2
+|archive-date=2015-05-26
+}}</ref><ref>{{cite letter
+|url=https://www.roadsafety.gov.au/sites/default/files/documents/49-nrss-submission-brian-fildes-monash-university.pdf
+|author=Brian Fildes
+|recipient=Office of Road Safety
+|date=2020-03-22
+|title=National Road Safety Strategy 2021-30 - have your say submission - Brian Fildes [SEC=OFFICIAL]
+|publisher=National Road Safety Strategy
+|archive-url=http://web.archive.org/web/20250330164303/https://www.roadsafety.gov.au/sites/default/files/documents/49-nrss-submission-brian-fildes-monash-university.pdf
+|archive-date=2025-03-30
+|url-status=live
+}}</ref> (ie. 'speeding'<ref>
+''Each year, speeding contributes to about 42% of road fatalities and 25% of serious injuries. Almost 128 lives are lost and 1050 people are seriously injured each year.''{{cite web
+|url=https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding
+|title=Speeding
+|publisher=Transport for NSW
+|access-date=2025-11-16
+|archive-url=http://web.archive.org/web/20250430031250/https://www.transport.nsw.gov.au/roadsafety/topics-tips/speeding
+|archive-date=2025-04-30
+|url-status=live
+}}</ref>) with the impact of speeds on fatalities (speed is not "30% related to fatalities"), the statistics of pedestrian fatalities occuring on streets with 50km/h speed limits<ref>
+''...The preliminary report on road fatalities in New South Wales for 2024 shows that 340 people lost their lives, and 51 of those deaths were vulnerable road users who were walking, cycling or scootering. Looking at the signposted speeds where these fatalities took place, 16 per cent were in 50 kilometres per hour zones.''
+{{cite web
+|title=Road Legislation Amendment (Speed Limits) Bill 2025 - Second Reading Speech
+|url=https://www.parliament.nsw.gov.au/Hansard/Pages/HansardResult.aspx#/docid/'HANSARD-1323879322-159670'/HANSARD-1323879322-159670
+|date=2025-11-13
+|author=Kobi Shetty
+|publisher=Parliament of New South Wales
+}}</ref>, and misrepresented the non-linear safety benefits of reducing speeds from 50km/h to 30km/h.
 
 Messaging and infrastructure also encourages cars to take a dominant position on the road.<ref>{{cite web
 |url=https://www.theguardian.com/australia-news/2023/jul/06/carmakers-double-spending-on-ads-in-australia-for-suvs-and-utes
@@ -261,24 +323,21 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 }}
 </ref>
 
-==List of pedestrian, cyclist and personal mobility device road deaths in NSW (active transport fatalities)==
+==List of pedestrian, cyclist and personal mobility device road deaths in NSW in 2025==
 The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics.
 
-===List of deaths in 2025===
-As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-15.
+As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-16. It is not possbile to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months and daily road toll statistics are deleted daily. There appear to be some fatalities with a Police press release<ref name="UlmarraFatalCrash20251028"/> which are not captured in the daily road toll statistics<ref name="RoadTollDailyIncluding20251027"/><ref name="RoadTollDailyIncluding20251028"/>, perhaps due to being outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
 
 <!-- Note:
 As of 2025-11, NSW Police press releases are deleted/disappear after some time.
 miragenews.com runs the press articles reprinting the NSW Police press release (with same title and
 date) with a link to the original NSW Police url, which can sometimes be found in web.archive.org.
 
-If adding a NSW Police press release, make sure to archive it.
-
 See recent NSW Police press releases under https://www.police.nsw.gov.au/news/latest_news or
 
 See https://web.archive.org/web/*/https://www.transport.nsw.gov.au/system/files/media/documents/2025/*
 and type in `road-toll` to find daily road toll statistics. It appears filenames archived using
-"archive with outlinkes" on https://www.transport.nsw.gov.au/roadsafety/statistics do not appear
+"archive with outlinks" on https://www.transport.nsw.gov.au/roadsafety/statistics do not appear
 in this list.
 -->
 {| class="wikitable sortable"
@@ -1124,17 +1183,14 @@ in article is stated to be before the incident date which is impossible) -->
 {{cite web
 |title=Road Fatalities for NSW up to and including Monday, 27 October 2025
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251028-2_0.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251028-2_0.pdf
+|archive-date=2025-10-28
 |url-status=dead
 |publisher=Transport for NSW
 |date=2025-10-28
 |page=1
 }}
-{{webarchive
-|format=addlarchives
-|date=2025-10-28
-|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251028-2_0.pdf
-}}
-</ref><ref name="RoadTollDailyIncluding20251028"/> (no change in pedestrian fatalities {{efn|The daily report states "The crash must have occurred within the surveyed road reserve" to be included in daily statistics. BITRE monthly bulletins state "...a death is classified as resulting from a road crash if the crash occurred on a public road..."}}) || On 2025-10-28 police were told a 55-year-old woman walking was struck by a four-wheel drive at a showground on Coldstream Street, [[Ulmarra]] – about 15km north of [[Grafton, New South Wales|Grafton]]. The woman walking died at the scene. A 50-year-old man was arrested and charged.<ref name="UlmarraFatalCrash20251028">{{cite web
+</ref><ref name="RoadTollDailyIncluding20251028"/> (no change in pedestrian fatalities {{efn|name="SurveyedRoadReserve"|The daily report states "The crash must have occurred within the surveyed road reserve" to be included in daily statistics. BITRE monthly bulletins state "...a death is classified as resulting from a road crash if the crash occurred on a public road..."}}) || On 2025-10-28 police were told a 55-year-old woman walking was struck by a four-wheel drive at a showground on Coldstream Street, [[Ulmarra]] – about 15km north of [[Grafton, New South Wales|Grafton]]. The woman walking died at the scene. A 50-year-old man was arrested and charged.<ref name="UlmarraFatalCrash20251028">{{cite web
 |archive-url=https://web.archive.org/web/20251103015941/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNjAxLmh0bWwmYWxsPTE%3D
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNjAxLmh0bWwmYWxsPTE%3D
 |title=Man charged following fatal crash - Ulmarra
@@ -1445,19 +1501,11 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 }}</ref>
 |}
 
-==List of pedestrians, cyclists and personal mobility devices in NSW road injuries in 2025==
+==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
+===Incidents with NSW Police press releases===
 
-''Note: This section is not complete or up to date, and it is likely impossible to ensure completeness. Some geographical areas may be over-represented due to availability of local media reports in the absence of press releases.''
+This list was last updated on 2025-11-16. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
 
-* 2025-01-27: On 2025-01-27 a person driving a car struck a 15-year-old boy at North Steyne, [[Manly, New South Wales|Manly]], at [[The Corso, Manly|The Corso]]. The person driving the car allegedly left the scene without stopping. The boy was taken to hospital in a stable condition.<ref>{{cite web
-|url=https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
-|archive-url=https://web.archive.org/web/20250128032837/https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
-|title=Hit-and-run at Manly Beach
-|date=2025-01-28
-|publisher=Northern Beaches Advocate
-|archive-date=2025-01-28
-|url-status=live
-}}</ref>
 * 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
 |url-status=dead
@@ -1508,24 +1556,6 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-date=2025-05-23
 |url-status=live
 |access-date=2025-11-02
-}}</ref>
-* 2025-03-27: On 2025-03-27 a teenage boy riding an e-bike, who appeared to be around 15-years-old, struck a 7-year-old girl at Bungan Street, [[Mona Vale, New South Wales|Mona Vale]]. Bystanders said the boy had been riding through the arcade between Bungan Street and Akuna Lane. The girl was taken to hospital in a stable condition.<ref>{{cite web
-|url=https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
-|title=Girl knocked down by e-bike
-|date=2025-03-28
-|publisher=Northern Beaches Advocate
-|archive-url=https://web.archive.org/web/20250328090046/https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
-|archive-date=2025-03-28
-|url-status=live
-}}</ref>
-* 2025-03-31: On 2025-03-31 a young female driving a black 2012 Mercedes sedan struck a 62-year-old woman at Pittwater Road, [[Collaroy, New South Wales|Collaroy]], between Ramsay and Frazer Streets. The woman had been sent flying by the collision and was found unconscious on the road. The woman remained with the Intensive Care crew for transport to hospital in a stable condition. There are no pedestrian crossings on Pittwater Road between Collaroy Street, Collaroy, and Mactier Street, [[Narrabeen]], and it is common for people to cross the six lane road using the median strip as a pedestrian island.<ref>{{cite web
-|url=https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
-|archive-url=https://web.archive.org/web/20250331042252/https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
-|archive-date=2025-03-31
-|url-status=live
-|title=Pedestrian hit at Collaroy
-|date=2025-03-31
-|publisher=Northern Beaches Advocate
 }}</ref>
 * 2025-04-23: On 2025-04-23 a person driving a grey 2012 Ford Falcon struck a 28-year-old woman at the traffic lights at Barrenjoey Road, [[Mona Vale, New South Wales|Mona Vale]], near Park Street. The woman walking was taken to hospital in a serious condition.<ref>{{cite web
 |url=https://www.northernbeachesadvocate.com.au/2025/04/23/pedestrian-hit-at-mona-vale/
@@ -1657,11 +1687,6 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-09-26
 |publisher=Mirage News
 }}</ref>
-* 2025-10-03: On 2025-10-03 a 28-year-old man driving a motorcycle struck a 53-year-old man crossing the road at Condamine Street, [[Manly Vale]], near Koorala Street. The man walking was in a critical condition and placed into an induced coma. The man driving the motorcycle had minor injuries.<ref>{{cite web
-|title=Pedestrian hit at Manly Vale
-|date=2025-10-04
-|url=https://www.northernbeachesadvocate.com.au/2025/10/04/pedestrian-hit-at-manly-vale/
-}}</ref>
 * 2025-10-28: A 36-year-old man driving an A-Double truck struck a 12-year-old boy riding a bicycle at King Street, [[Warrawong, New South Wales|Warrawong]].<ref>{{cite web
 |title=Appeal for information following bicycle crash- South of Wollongong
 |date=2025-10-28
@@ -1736,15 +1761,6 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |url-status=live
 |archive-date=2025-11-13
 }}</ref>
-* 2025-11-14: On 2025-11-14, a person driving a car struck a 10-year-old boy riding a bicycle at Avalon Parade, [[Avalon Beach, New South Wales|Avalon Beach]]. The person driving was reversing out of a driveway. The boy was taken to hospital in a stable condition.<ref>{{cite web
-|url=https://www.northernbeachesadvocate.com.au/2025/11/15/public-safety-round-up-278/#:~:text=9.15am%20Friday%2C%2014%20November
-|archive-url=https://archive.is/Kn1zl
-|archive-date=2025-11-15
-|url-status=live
-|title=Public safety round-up
-|date=2025-11-15
-|publisher=Northern Beaches Advocate
-}}</ref>
 * 2025-11-14: On 2025-11-14, a young person riding a moped struck a 3-year-old girl on a footpath at Popondetta Rd, [[Dharruk, New South Wales|Dharruk]]. At the time the child was in company with a 31-year-old woman who was uninjured. The young person riding the moped continued without stopping. The child was taken to hospital and treated for minor injuries. The moped was allegedly found abandoned at a reserve near Luxford Avenue, [[Whalan, New South Wales|Whalan]], and a 13-year-old boy was arrested nearby.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAzLmh0bWwmYWxsPTE%3D
 |title=Teenager charged after crash with young girl - Dharruk
@@ -1753,6 +1769,83 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |archive-date=2025-11-15
 |url-status=live
 |publisher=NSW Police
+}}</ref>
+* 2025-11-15: On 2025-11-15 a 27-year-old man<ref>{{cite web
+|url=https://www.abc.net.au/news/2025-11-16/walcha-derby-rally-rash-nine-injured/106014754
+|title=Spectators injured when car crashes into crowd at Walcha showground rally
+|publisher=ABC News
+|date=2025-11-16
+|access-date=2025-11-16
+}}</ref> driving a car at the [[Walcha, New South Wales|Walcha]] showground on Derby Street crashed through a fence and hit a mobile grandstand. The driver may have been unconscious.<ref>{{cite web
+|title=‘He’s blacked out’: Demolition derby car ploughs into crowd at NSW show
+|url=https://www.smh.com.au/national/nsw/demolition-derby-car-ploughs-into-crowd-two-critical-20251115-p5nfp2.html
+|author1=Josefine Ganko
+|author2=Ben Cubby
+|date=2025-11-15
+|publisher=The Sydney Morning Herald
+|access-date=2025-11-16
+}}</ref> Police reported a 54-year-old man suffered critical injuries with another three people seriously injured, and that 7 men and 2 women were taken to hospital.<ref name="WalchaCrash2025">{{cite web
+|title=Nine injured, one critically, when speedway car crashes into crowd at Walcha
+|date=2025-11-15
+|url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTE3Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251116033925/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTE3Lmh0bWwmYWxsPTE%3D
+}}</ref>. A NSW Ambulance spokesperson, quoted in The Guardian, said 13 people were injured. The Guardian reported two people were in a critical condition and six had serious injuries. The 11 other victims, aged between 20 and 75, were transported to three nearby hospitals.<ref name="GuardianWalchaCrash2025">{{cite web
+|url=https://www.theguardian.com/australia-news/2025/nov/16/thirteen-people-injured-after-speedway-car-ploughs-into-grandstand-during-nsw-demolition-derby
+|title=Thirteen people injured after speedway car ploughs into grandstand during NSW demolition derby
+|author1=Josh Taylor
+|author2=AAP
+|date=2025-11-16
+|publisher=The Guardian
+|access-date=2025-11-16
+|archive-url=https://web.archive.org/web/20251116035406/https://www.theguardian.com/australia-news/2025/nov/16/thirteen-people-injured-after-speedway-car-ploughs-into-grandstand-during-nsw-demolition-derby
+|archive-date=2025-11-16
+|url-status=live
+}}</ref>
+
+===Incidents reported in the media===
+
+''Note: This section is not complete or up to date, and it is impossible to ensure completeness. Some geographical areas may be over-represented due to availability of local media reports in the absence of press releases. It is less complete than the above lists - Transport for NSW states that more than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<ref name="TfNSW1100Pedestrians"/>''
+
+* 2025-01-27: On 2025-01-27 a person driving a car struck a 15-year-old boy at North Steyne, [[Manly, New South Wales|Manly]], at [[The Corso, Manly|The Corso]]. The person driving the car allegedly left the scene without stopping. The boy was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
+|archive-url=https://web.archive.org/web/20250128032837/https://www.northernbeachesadvocate.com.au/2025/01/28/hit-and-run-at-manly-beach/
+|title=Hit-and-run at Manly Beach
+|date=2025-01-28
+|publisher=Northern Beaches Advocate
+|archive-date=2025-01-28
+|url-status=live
+}}</ref>
+* 2025-03-27: On 2025-03-27 a teenage boy riding an e-bike, who appeared to be around 15-years-old, struck a 7-year-old girl at Bungan Street, [[Mona Vale, New South Wales|Mona Vale]]. Bystanders said the boy had been riding through the arcade between Bungan Street and Akuna Lane. The girl was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
+|title=Girl knocked down by e-bike
+|date=2025-03-28
+|publisher=Northern Beaches Advocate
+|archive-url=https://web.archive.org/web/20250328090046/https://www.northernbeachesadvocate.com.au/2025/03/28/girl-knocked-down-by-e-bike/
+|archive-date=2025-03-28
+|url-status=live
+}}</ref>
+* 2025-03-31: On 2025-03-31 a young female driving a black 2012 Mercedes sedan struck a 62-year-old woman at Pittwater Road, [[Collaroy, New South Wales|Collaroy]], between Ramsay and Frazer Streets. The woman had been sent flying by the collision and was found unconscious on the road. The woman remained with the Intensive Care crew for transport to hospital in a stable condition. There are no pedestrian crossings on Pittwater Road between Collaroy Street, Collaroy, and Mactier Street, [[Narrabeen]], and it is common for people to cross the six lane road using the median strip as a pedestrian island.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
+|archive-url=https://web.archive.org/web/20250331042252/https://www.northernbeachesadvocate.com.au/2025/03/31/pedestrian-hit-at-collaroy/
+|archive-date=2025-03-31
+|url-status=live
+|title=Pedestrian hit at Collaroy
+|date=2025-03-31
+|publisher=Northern Beaches Advocate
+}}</ref>
+* 2025-10-03: On 2025-10-03 a 28-year-old man driving a motorcycle struck a 53-year-old man crossing the road at Condamine Street, [[Manly Vale]], near Koorala Street. The man walking was in a critical condition and placed into an induced coma. The man driving the motorcycle had minor injuries.<ref>{{cite web
+|title=Pedestrian hit at Manly Vale
+|date=2025-10-04
+|url=https://www.northernbeachesadvocate.com.au/2025/10/04/pedestrian-hit-at-manly-vale/
+}}</ref>
+* 2025-11-14: On 2025-11-14, a person driving a car struck a 10-year-old boy riding a bicycle at Avalon Parade, [[Avalon Beach, New South Wales|Avalon Beach]]. The person driving was reversing out of a driveway. The boy was taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/11/15/public-safety-round-up-278/#:~:text=9.15am%20Friday%2C%2014%20November
+|archive-url=https://archive.is/Kn1zl
+|archive-date=2025-11-15
+|url-status=live
+|title=Public safety round-up
+|date=2025-11-15
+|publisher=Northern Beaches Advocate
 }}</ref>
 
 ==NSW Centre for Road Safety Statistics==
