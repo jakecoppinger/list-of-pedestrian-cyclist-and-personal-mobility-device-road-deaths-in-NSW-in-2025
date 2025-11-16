@@ -1407,7 +1407,17 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |publisher=NSW Police
 }}</ref>
 |-
-| 2025-11-14 || 1 || 0 || 0 || - || On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia Carnival driven by a 48-year-old man, which then struck a 33-year-old woman walking at the entrance of a carpark on George Street, [[Hornsby, New South Wales|Hornsby]]. The woman walking was 8 months pregnant and was taken to hospital in a critical condition. The woman walking, and her unborn child, died in hospital.<ref>{{cite web
+| 2025-11-14 || 1 || 0 || 0 || - || On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia Carnival driven by a 48-year-old man, which then struck a 33-year-old woman walking at the entrance of the [[Hornsby railway station]] carpark<ref>{{cite web
+|url=https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
+|publisher=ABC News
+|author=David Hirst
+|date=2025-11-15
+|title=Man charged after pregnant woman struck by car and killed in Sydney
+|archive-url=https://web.archive.org/web/20251115024501/https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
+|archive-date=2025-11-15
+|access-date=2025-11-15
+|url-status=live
+}}</ref> on George Street, [[Hornsby, New South Wales|Hornsby]]. The woman walking was 8 months pregnant and was taken to hospital in a critical condition. The woman walking, and her unborn child, died in hospital.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA3Lmh0bWwmYWxsPTE%3D
 |title=Driver charged after fatal pedestrian crash - Hornsby
 |archive-url=https://web.archive.org/web/20251115024413/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA3Lmh0bWwmYWxsPTE%3D
@@ -1423,15 +1433,6 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |title=Driver arrested after fatal pedestrian crash involving two vehicles - Hornsby
 |date=2025-11-15
 |publisher=NSW Police
-}}</ref><ref>{{cite web
-|url=https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
-|publisher=ABC News
-|author=David Hirst
-|date=2025-11-15
-|title=Man charged after pregnant woman struck by car and killed in Sydney
-|archive-url=https://web.archive.org/web/20251115024501/https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
-|archive-date=2025-11-15
-|url-status=live
 }}</ref><ref>{{cite web
 |url=https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
 |archive-url=https://web.archive.org/web/20251115030530/https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
