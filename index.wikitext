@@ -326,7 +326,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 ==List of pedestrian, cyclist and personal mobility device road deaths in NSW in 2025==
 The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics.
 
-As of 2025-11-12, 49 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 12th).<ref name="RoadTollDailyIncluding20251112"/> This table was last updated on 2025-11-16. It is not possbile to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months and daily road toll statistics are deleted daily. There appear to be some fatalities with a Police press release<ref name="UlmarraFatalCrash20251028"/> which are not captured in the daily road toll statistics<ref name="RoadTollDailyIncluding20251027"/><ref name="RoadTollDailyIncluding20251028"/>, perhaps due to being outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
+As of 2025-11-16, 51 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 16th).<ref name="RoadTollDailyIncluding20251116"/> This table was last updated on 2025-11-17. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months and daily road toll statistics are deleted daily. There appear to be some fatalities with a Police press release<ref name="UlmarraFatalCrash20251028"/> which are not captured in the daily road toll statistics<ref name="RoadTollDailyIncluding20251027"/><ref name="RoadTollDailyIncluding20251028"/>, perhaps due to being outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
 
 <!-- Note:
 As of 2025-11, NSW Police press releases are deleted/disappear after some time.
@@ -1409,7 +1409,14 @@ archived in archive.is if needed.
 |title=Road Fatalities for NSW up to and including Tuesday, 11 November 2025
 |publisher=Transport for NSW
 |date=2025-11-12
-}}</ref> || On 2025-11-11 a 33-year-old man driving a truck allegedly struck a 50-year-old man walking at the intersection of Copeland Street and Elizabeth Drive, [[Liverpool, New South Wales|Liverpool]]. The man walking died at the scene.<ref>{{cite web
+}}
+{{webarchive
+|format=addlarchives
+|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251112-2.pdf
+|date=2025-11-12
+}}
+
+</ref> || On 2025-11-11 a 33-year-old man driving a truck allegedly struck a 50-year-old man walking at the intersection of Copeland Street and Elizabeth Drive, [[Liverpool, New South Wales|Liverpool]]. The man walking died at the scene.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODUyLmh0bWwmYWxsPTE%3D
 |title=Pedestrian dies following crash - Liverpool
 |date=2025-11-11
@@ -1438,7 +1445,13 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-11-13
 |url-status=dead
 |page=1
-}}</ref> || On 2025-11-10 a 63-year-old man driving a school bus struck 87-year-old man Tony Pesce walking at the intersection of Kingsway and Miranda Road, [[Miranda, New South Wales|Miranda]]. The man walking was taken to hospital in a serious condition. Police were informed on 2025-11-12 that the man walking had died.<ref>{{cite web
+}}
+{{webarchive
+|format=addlarchives
+|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251113-2.pdf
+|date=2025-11-13
+}}
+</ref> || On 2025-11-10 a 63-year-old man driving a school bus struck 87-year-old man Tony Pesce walking at the intersection of Kingsway and Miranda Road, [[Miranda, New South Wales|Miranda]]. The man walking was taken to hospital in a serious condition. Police were informed on 2025-11-12 that the man walking had died.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODYyLmh0bWwmYWxsPTE%3D
 |title=Pedestrian dies after bus crash - Miranda
 |date=2025-11-12
@@ -1453,7 +1466,21 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |title=Pedestrian hit and killed by bus in Miranda identified as father of former Sutherland Shire mayor Carmelo Pesce
 }}</ref>
 |-
-| 2025-11-13 || 1 || 0 || 0 || - || On 2025-11-13, Police were told a 91-year-old man driving a car struck a 92-year-old man walking at St Johns Avenue, [[Gordon, New South Wales|Gordon]]. The 92-year-old man walking was taken to hospital in a serious condition. On 2025-11-14 Police were informed the 92-year old man had died.<ref>{{cite web
+| 2025-11-16 || 2{{efn|This doesn't appear to include all three fatalities in police reports over the weekend}} || 0 || 0 || <ref name="RoadTollDailyIncluding202512"/><ref name="RoadTollDailyIncluding20251116">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251117-1.pdf
+|archive-url=https://web.archive.org/web/20251117000458/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251117-1.pdf
+|archive-date=2025-11-17
+|title=Road Fatalities for NSW up to and including Sunday, 16 November 2025
+|publisher=Transport for NSW
+|date=2025-11-17
+|url-status=dead
+}}
+{{webarchive
+|format=addlarchives
+|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251117-1.pdf
+|date=2025-11-17
+}}
+</ref> || On 2025-11-13, Police were told a 91-year-old man driving a car struck a 92-year-old man walking at St Johns Avenue, [[Gordon, New South Wales|Gordon]]. The 92-year-old man walking was taken to hospital in a serious condition. On 2025-11-14 Police were informed the 92-year old man had died.<ref>{{cite web
 |archive-url=https://web.archive.org/web/20251115030405/https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTAyLmh0bWwmYWxsPTE%3D
 |archive-date=2025-11-15
 |url-status=live
@@ -1462,8 +1489,8 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-11-14
 |publisher=NSW Police
 }}</ref>
-|-
-| 2025-11-14 || 1 || 0 || 0 || - || On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia Carnival driven by a 48-year-old man, which then struck a 33-year-old woman walking at the entrance of the [[Hornsby railway station]] carpark<ref>{{cite web
+
+On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia Carnival driven by a 48-year-old man, which then struck a 33-year-old woman walking at the entrance of the [[Hornsby railway station]] carpark<ref>{{cite web
 |url=https://www.abc.net.au/news/2025-11-15/pregnant-woman-killed-struck-by-car-hornsby/106013262
 |publisher=ABC News
 |author=David Hirst
@@ -1499,8 +1526,8 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 |date=2025-11-15
 |publisher=The Sydney Morning Herald
 }}</ref>
-|-
-| 2025-11-16 || 1 || 0 || 0 || - || On 2025-11-16 a man, believed to be in his 20s, was found lying on the side of the road at Old Kurrajong Road at [[Richmond, New South Wales|Richmond]]. The man died at the scene. Initial inquiries indicate the man may have been struck by a vehicle, which had not stopped.<ref>{{cite web
+
+On 2025-11-16 a man, believed to be in his 20s, was found lying on the side of the road at Old Kurrajong Road at [[Richmond, New South Wales|Richmond]]. The man died at the scene. Initial inquiries indicate the man may have been struck by a vehicle, which had not stopped.<ref>{{cite web
 |title=Man dies after suspected hit-and-run - Richmond
 |publisher=NSW Police
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTI4Lmh0bWwmYWxsPTE%3D
