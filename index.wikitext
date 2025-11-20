@@ -1499,7 +1499,7 @@ On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles 
 }}
 {{webarchive
 |format=addlarchives
-|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251117-1.pdf
+|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251117-2.pdf
 |date=2025-11-17
 }}
 </ref> || On 2025-11-13, Police were told a 91-year-old man driving a car struck a 92-year-old man walking at St Johns Avenue, [[Gordon, New South Wales|Gordon]]. The 92-year-old man walking was taken to hospital in a serious condition. On 2025-11-14 Police were informed the 92-year old man had died.<ref>{{cite web
@@ -2045,6 +2045,235 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 </ref> and media reporting guidelines suggest not using the term.<ref name="InjuryMattersGuidelines">{{Cite web |date=2022 |title=Media guidelines for reporting road traffic incidents |url=https://www.injurymatters.org.au/wp-content/uploads/2022/08/Injury-Matters-Media-Guidelines-for-Reporting-Road-Incidents-2022-1.pdf |url-status=live
 |access-date=2025-11-02 |archive-url=https://web.archive.org/web/20240626120410/https://www.injurymatters.org.au/wp-content/uploads/2022/08/Injury-Matters-Media-Guidelines-for-Reporting-Road-Incidents-2022-1.pdf |archive-date=2024-06-26
 |website=Injury Matters |publisher=Injury Matters, Road Trauma Support WA |page=6}}</ref>
+
+===Use of the term 'jaywalking'===
+
+The term [https://en.wikipedia.org/wiki/Jaywalking 'jaywalking'] has plenty of historical, derogatory and racial baggage. The term jaywalk [https://slate.com/human-interest/2009/11/a-defense-of-jaywalking.html "is not a historically neutral—one"]. In the 1920s, the term "jaywalking" was created by the auto industry to shift blame for pedestrian deaths from cars to the pedestrians themselves..<ref name="Norton2008"/><ref>{{cite web
+|url=https://www.merriam-webster.com/wordplay/why-is-it-called-jaywalking
+|title=Why Jaywalking is Called Jaywalking
+|date=2025-04-28
+|publisher=Merriam-Webster
+|archive-url=https://web.archive.org/web/20250920184228/https://www.merriam-webster.com/wordplay/why-is-it-called-jaywalking
+|archive-date=2025-09-20
+|url-status=live
+}}</ref><ref>{{cite web
+|url=https://www.counterpunch.org/2018/03/13/the-classist-racist-history-of-jaywalking/
+|title=The (Classist, Racist) History of Jaywalking
+|author=Brian Addison
+|date=2018-03-13
+|publisher=Counterpunch
+|archive-url=http://web.archive.org/web/20250727115518/https://www.counterpunch.org/2018/03/13/the-classist-racist-history-of-jaywalking/
+|archive-date=2025-07-27
+|url-status=live
+}}</ref><ref>{{cite web
+|url=https://www.bloomberg.com/news/newsletters/2022-08-13/navigator-inventing-jaywalking-and-battling-to-reclaim-the-streets
+|title=Navigator: The Etymology of Jaywalking
+|author=Sarah Holder
+|publisher=Bloomberg
+|date=2022-08-13
+}}</ref><ref>{{cite web
+|url=https://www.bloomberg.com/news/articles/2012-04-24/the-invention-of-jaywalking
+|title=The Invention of Jaywalking
+|author=Sarah Goodyear
+|date=2012-04-25
+|publisher=Bloomberg CityLab
+}}</ref><ref name="SlateJaywalking">{{cite web
+|url=https://slate.com/human-interest/2009/11/a-defense-of-jaywalking.html
+|title=In Defense of Jaywalking
+|author=Tom Vanderbilt
+|date=2009-11-02
+|publisher=Slate
+|url-status=live
+}}</ref><ref>{{cite web
+|url=https://www.bbc.co.uk/news/magazine-26073797
+|title=Jaywalking: How the car industry outlawed crossing the road
+|date=2014-02-12
+|publisher=BBC
+|author=Aidan Lewis
+}}</ref><ref>{{cite web
+|url=https://www.vox.com/2015/1/15/7551873/jaywalking-history 
+|title=The forgotten history of how automakers invented the crime of “jaywalking”
+|author=Joseph Stromberg
+|publisher=Slate
+|date=2015-01-15
+}}</ref><ref>{{cite web
+|url=https://www.abc.net.au/listen/programs/latenightlive/jaywalking-law-america-history/104920168
+|title=Is it time to decriminalise jaywalking?
+|author=David Marr
+|publisher=ABC Radio National
+|date=2025-02-10
+}}</ref> Originally an insult against bumptious "jays" from the country who ineptly gamboled on city sidewalks, it was taken up by a coalition of pro-automobile interests in the 1920s.<ref name="Norton2008">{{cite book
+ | last         = Norton
+ | first        = Peter D.
+ | author-link  = Peter Norton (historian)
+ | year         = 2008
+ | title        = Fighting Traffic: The Dawn of the Motor Age in the American City
+ | url          = http://www.jstor.org/stable/j.ctt5hhckp
+ | location     = 
+ | publisher    = [[MIT Press]]
+ | series       = Inside Technology
+ | pages        = 408
+ | jstor = j.ctt5hhckp
+ | isbn         = 978-0-262-28075-4
+}}
+</ref><ref name="SlateJaywalking"/> In 1915, when New York City’s police commissioner Arthur Woods sought to apply the word "jaywalker" to anyone who crossed the street at mid-block, the New York Times protested, calling it “highly opprobrious” and “a truly shocking name.”<ref name="Norton paper">{{cite journal
+ | last1        = Norton
+ | first1       = Peter D.
+ | date         = 2007-04-02
+ | title        = Street Rivals: Jaywalking and the Invention of the Motor Age Street.
+ | url          = https://muse.jhu.edu/article/215409
+ | publisher    = [[Johns Hopkins University Press]]
+ | department   = [[Project MUSE]]
+ | journal      = Technology and Culture
+ | volume       = 48
+ | issue        = 2
+ | pages        = 331–359
+ | doi          = 10.1353/tech.2007.0085
+ | s2cid = 144015588
+ | access-date  = 2021-05-27
+| url-access= subscription
+ }}</ref>{{rp|15}}<ref>{{cite news
+|title=Middle-Block Crossing Is Defended
+|publisher=New York Times
+|date=1915-12-02
+|page=10
+ }}</ref><ref>{{cite news
+|title=Crossing at the Corners
+|publisher=New York Times
+|date=1915-11-11
+|page=12
+}}</ref>
+
+The term “jaywalking” is an American term used for when pedestrians illegally cross the road at places other than intersections and zebra crossing, which is not illegal in NSW or Australia<ref>{{cite web
+|title=Phone Zombies: Distracted walking or distracting discussion?
+|author=Rudy Botha
+|date=2019-06-17
+|publisher=WalkSydney
+|url=https://walksydney.org/2019/06/17/phone-zombies-distracted-walking-or-distracting-discussion/
+}}</ref> (for the exact details of the rules, see [https://www.legislation.nsw.gov.au/#/view/regulation/2014/758/part14 part 14 of the NSW road rules]). "Jaywalking" is not a legal term in NSW<ref>
+''I am advised by the NSW Police Force that `jaywalking' is not a specific legal term used in the Road Rules 2008. The COPS system is an operational database not a statistical one.''
+{{cite web
+|url=https://www.parliament.nsw.gov.au/lc/papers/pages/qanda-tracking-details.aspx?pk=58381
+|title=5972 - Police and Emergency Services - JAYWALKING IN WOLLONGONG
+|publisher=Parliament of New South Wales
+|date=2014-08-06
+}}</ref> or Australia.<ref name="SBSGoodReasonsToObserveThePedestrianRoadRules">{{cite web
+|title=Good reasons to observe the pedestrian road rules
+|url=https://www.sbs.com.au/language/english/en/podcast-episode/good-reasons-to-observe-the-pedestrian-road-rules/1rluy62p1
+|publisher=SBS News
+|author=Melissa Compagnoni
+|date=2024-07-30
+}}</ref> Victoria Walks have stated "No-one in Australia should use the word 'jaywalking.'"<ref>{{cite web
+|url=https://nitter.net/victoriawalks/status/1095150293719732224
+|archive-url=https://web.archive.org/web/20251119010136/https://nitter.net/victoriawalks/status/1095150293719732224
+|archive-date=2025-11-19
+|url-status=live
+|title=(Untitled X / Twitter post)
+|author=Victoria Walks
+|publisher=X
+|date=2019-02-12
+}}</ref>
+
+Australian writers should describe the specific pedestrian offence defined in the NSW Road Rules<ref>{{cite web
+|url=https://legislation.nsw.gov.au/view/whole/html/2016-07-01/sl-2014-0758#sec.234
+|title=NSW Road Rules 2014 - Part 14 Rule 232 - Crossing a road at traffic lights
+|publisher=NSW Legislation
+}}</ref><ref>{{cite web
+|url=https://legislation.nsw.gov.au/view/whole/html/2016-07-01/sl-2014-0758#sec.234
+|title=NSW Road Rules 2014 - Part 14 Rule 234 - Crossing a road on or near a crossing for pedestrians
+|publisher=NSW Legislation
+}}</ref> if possible, or use perhaps use the term 'crossing against the light'<ref name="SBSGoodReasonsToObserveThePedestrianRoadRules"/><ref>{{cite web
+|url=https://www.smh.com.au/national/nsw/sydney-pedestrians-stroll-straight-into-police-jaywalking-sting-20151015-gk9k5a.html
+|author=Eamonn Duff
+|date=2015-09-17
+|title=Sydney pedestrian crackdown: more than 10,000 fined
+|publisher=Sydney Morning Herald
+}}</ref><ref>{{cite journal
+|url=https://australasianroadsafetyconference.com.au/wp-content/uploads/2023/12/ARSC2022-Christchurch-Proceedings.pdf
+|doi=10.33492/ARSC-2022
+|title=Interplay between intersection design, risky behaviours and pedestrian safety
+|author1=Moylan, E
+|author2=Ramezani, M
+|author3=Kay, J
+|author4=Levinson, D
+|publisher=Australasian Road Safety Conference
+|date=September 2022
+|isbn=9780648184850
+}}</ref><ref>{{cite web
+|url=https://www.parliament.nsw.gov.au/ladocs/submissions/47239/Submission%2011%20-%20Walking%20Volunteers.pdf
+|title=INQUIRY INTO PEDESTRIAN SAFETY (MINISTERIAL REFERENCE) Walking Volunteers submission. 
+|author=Mr Bill Orme
+|date=2009-06-17
+|publisher=Parliament of New South Wales
+}}</ref><ref>{{cite web
+|title=New campaign urges shoppers to cross with care
+|date=2016-12-01
+|url=https://yoursay.orange.nsw.gov.au/news/news_feed/new-campaign-urges-shoppers-to-cross-with-care?utm_source=chatgpt.com
+|publisher=Orange City Council
+}}</ref><ref>{{cite web
+|title=How much time is spent at traffic signals?
+|author=David Levinson
+|date=2018-03-06
+|url=https://transportist.org/2018/03/06/how-much-time-is-spent-at-traffic-signals/
+|publisher=Transportist
+}}</ref> or 'illegal pedestrian crossing'.<ref>{{cite web
+|url=https://pubmed.ncbi.nlm.nih.gov/19393797/
+|title=Illegal pedestrian crossing at signalised intersections: incidence and relative risk
+|author=King MJ, Soole D, Ghafourian A
+|publisher=PubMed Central
+|date=2009-05-01
+|doi=10.1016/j.aap.2009.01.008
+}}</ref> Other terms in use are 'unsafe crossing'<ref>{{cite web
+|url=https://www.transport.nsw.gov.au/roadsafety/community/schools/safety-around-schools
+|title=Safety around schools
+|publisher=Transport for NSW
+|access-date=2025-11-19
+|archive-url=http://web.archive.org/web/20231001213655/https://www.transport.nsw.gov.au/roadsafety/community/schools/safety-around-schools
+|archive-date=2023-10-01
+|url-status=live
+}}</ref><ref name="TfNSWPedestrianBridge">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2023/Dobroyd-Parade-pedestrian-bridge_Review-of-Environmental-Factors_v4_November-2023.pdf
+|ref=EMF-PA-PR-0070-TT04
+|title=Pedestrian Bridge – across Dobroyd Parade at Waratah Street intersection
+|publisher=Transport for NSW
+|archive-url=https://web.archive.org/web/20250813154015/https://www.transport.nsw.gov.au/system/files/media/documents/2023/Dobroyd-Parade-pedestrian-bridge_Review-of-Environmental-Factors_v4_November-2023.pdf
+|archive-date=2025-08-13
+|url-status=live
+}}</ref>{{rp|200}}<ref>{{cite web
+|url=https://www.tmr.qld.gov.au/-/media/busind/techstdpubs/Road-Safety/RSP-Fact-Sheet_03_Intersection---Pedestrian---Pedestrian-Crossings.pdf
+|title=Intersection – Signalised Pedestrian crossings
+|publisher=Department of Transport and Main Roads Queensland
+}}</ref> and 'unsafe crossing behaviour'.<ref>{{cite journal
+|url=https://link.springer.com/article/10.1007/s40864-015-0022-9
+|title=Direct Observations of Pedestrian Unsafe Crossing at Urban Australian Level Crossing
+|journal=Urban Rail Transit
+|doi=10.1007/s40864-015-0022-9
+|year=2015
+|author1=Stefanova, Teodora
+|author2=Burkhardt, Jean-Marie
+|author3=Wullems, Christian
+|author4=Freeman, James
+|author5=Rakotonirainy, Andry
+|author6=Delhomme, Patricia
+|pages=112–130
+|volume=1
+}}</ref><ref name="TfNSWPedestrianBridge"/>{{rp|60}}<ref>{{cite journal
+|title=Examining the Factors Influencing Pedestrian Behaviour and Safety: A Review with a Focus on Culturally and Linguistically Diverse Communities
+|url=https://researchers-admin.westernsydney.edu.au/ws/portalfiles/portal/311296542/Examining_the_factors_influencing_pedestrian_behaviour_and_safety.pdf#page=9
+|author=Yang, J.; Gauli, N.; Shiwakoti, N.; Tay, R.; Deng, H.; Chen, J.; Nepal, B.; Li, J.
+|journal=Sustainability
+|doi=10.3390/su17136007
+|year=2025
+|pages=9
+|volume=17
+|issue=13
+}}</ref><ref>{{cite web
+|url=https://imoveaustralia.com/wp-content/uploads/2025/10/Desire-Lines-User-Behaviour-Research-Initial-Scoping-and-Feasibility.pdf
+|title=Desire Lines User Behaviour Research: Initial Scoping and Feasibility 
+|author=Maziar Yazdani, Elnaz Irannezhad, Taha Rashidi
+|date=May 2023
+|publisher=iMove Australia
+}}</ref>
 
 ==Footnotes==
 {{notelist}}
