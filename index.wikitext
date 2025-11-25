@@ -1593,6 +1593,22 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |date=2025-11-19
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251119-2.pdf
 }}</ref> || 
+|-
+| 2025-11-20 || (1 fatality over 2 days) || - || - || (archive.org outage)<ref name="RoadTollDailyIncluding20251120">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251121-2.pdf
+|archive-url=https://archive.is/nra3t
+|url-status=dead
+|archive-date=2025-11-21
+|title=Road Fatalities for NSW up to and including Monday, 20 November 2025
+|publisher=Transport for NSW
+|date=2025-11-21
+|page=1
+}}
+{{webarchive
+|format=addlarchives
+|date=2025-11-21
+|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251121-2.pdf
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
@@ -2151,7 +2167,7 @@ The term “jaywalking” is an American term used for when pedestrians illegall
 |publisher=WalkSydney
 |url=https://walksydney.org/2019/06/17/phone-zombies-distracted-walking-or-distracting-discussion/
 }}</ref> (for the exact details of the rules, see [https://www.legislation.nsw.gov.au/#/view/regulation/2014/758/part14 part 14 of the NSW road rules]). "Jaywalking" is not a legal term in NSW<ref>
-''I am advised by the NSW Police Force that `jaywalking' is not a specific legal term used in the Road Rules 2008. The COPS system is an operational database not a statistical one.''
+''I am advised by the NSW Police Force that `jaywalking' is not a specific legal term used in the Road Rules 2008.''
 {{cite web
 |url=https://www.parliament.nsw.gov.au/lc/papers/pages/qanda-tracking-details.aspx?pk=58381
 |title=5972 - Police and Emergency Services - JAYWALKING IN WOLLONGONG
