@@ -1977,6 +1977,12 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-10-04
 |url=https://www.northernbeachesadvocate.com.au/2025/10/04/pedestrian-hit-at-manly-vale/
 }}</ref>
+* 2025-11-03: On 2025-11-03 a person driving a car struck a man in his 80s walking at the intersection of Pittwater Road and Mitchell Road, [[Brookvale, New South Wales|Brookvale]]. NSW Police and NSW Ambulance attended. After assessment by paramedics he was taken to hospital in a stable condition.<ref>{{cite web
+|title=Pedestrian hit at Brookvale
+|date=2025-11-08
+|url=https://www.northernbeachesadvocate.com.au/2025/11/08/public-safety-round-up-277/
+|publisher=Northern Beaches Advocate
+}}</ref>
 * 2025-11-14: On 2025-11-14, a person driving a car struck a 10-year-old boy riding a bicycle at Avalon Parade, [[Avalon Beach, New South Wales|Avalon Beach]]. The person driving was reversing out of a driveway. The boy was taken to hospital in a stable condition.<ref>{{cite web
 |url=https://www.northernbeachesadvocate.com.au/2025/11/15/public-safety-round-up-278/#:~:text=9.15am%20Friday%2C%2014%20November
 |archive-url=https://archive.is/Kn1zl
@@ -1986,7 +1992,7 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-11-15
 |publisher=Northern Beaches Advocate
 }}</ref>
-* 2025-11-15: On 2025-11-15 a person driving a vehicle struck at female pedestrian in their 50s walking at Ferguson Street, [[Forestville, New South Wales|Forestville]]. The female walking was assessed by paramedics for possible hip and spinal injuries, and taken to hospital in a stable condition. NSW Police and NSW Ambulance attended.<ref>{{cite web
+* 2025-11-15: On 2025-11-15 a person driving a vehicle struck at woman, in their 50s, walking at Ferguson Street, [[Forestville, New South Wales|Forestville]]. The woman walking was assessed by paramedics for possible hip and spinal injuries, and taken to hospital in a stable condition. NSW Police and NSW Ambulance attended.<ref>{{cite web
 |url=https://www.northernbeachesadvocate.com.au/2025/11/22/public-safety-round-up-279/
 |title=Public safety round-up
 |date=2025-11-22
@@ -2083,7 +2089,7 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 
 ===Use of the term 'jaywalking'===
 
-The term [https://en.wikipedia.org/wiki/Jaywalking 'jaywalking'] has plenty of historical, derogatory and racial baggage. The term jaywalk [https://slate.com/human-interest/2009/11/a-defense-of-jaywalking.html "is not a historically neutral—one"]. In the 1920s, the term "jaywalking" was created by the auto industry to shift blame for pedestrian deaths from cars to the pedestrians themselves..<ref name="Norton2008"/><ref>{{cite web
+The term [https://en.wikipedia.org/wiki/Jaywalking 'jaywalking'] has plenty of historical, derogatory and racial baggage. The term jaywalk [https://slate.com/human-interest/2009/11/a-defense-of-jaywalking.html "is not a historically neutral—one"]. In the 1920s, the term "jaywalking" was created by the auto industry to shift blame for pedestrian deaths from cars to the pedestrians themselves.<ref name="Norton2008"/><ref>{{cite web
 |url=https://www.merriam-webster.com/wordplay/why-is-it-called-jaywalking
 |title=Why Jaywalking is Called Jaywalking
 |date=2025-04-28
@@ -2223,7 +2229,10 @@ Australian writers should describe the specific pedestrian offence defined in th
 |date=2015-09-17
 |title=Sydney pedestrian crackdown: more than 10,000 fined
 |publisher=Sydney Morning Herald
-}}</ref><ref>{{cite journal
+}}</ref><ref>{{cite conference
+|archive-url=https://web.archive.org/web/20241028232601/http://australasianroadsafetyconference.com.au/wp-content/uploads/2023/12/ARSC2022-Christchurch-Proceedings.pdf
+|url-status=dead
+|archive-date=2024-10-28
 |url=https://australasianroadsafetyconference.com.au/wp-content/uploads/2023/12/ARSC2022-Christchurch-Proceedings.pdf
 |doi=10.33492/ARSC-2022
 |title=Interplay between intersection design, risky behaviours and pedestrian safety
