@@ -209,7 +209,7 @@ Kobi Shetty introduced an ambitious 30km/h bill in NSW Parliament on the 13th of
 |date=2025-11-13
 |author=Kobi Shetty
 |publisher=Parliament of New South Wales
-}}</ref> Some commentators have misrepresented<ref>
+}}</ref> Some commentators have misrepresented<ref name="Maynard2GBNov14th">
 Quotes spoken by Clinton Maynard from the [https://en.wikipedia.org/wiki/Talk_radio talkback radio] segment at 15:23pm on 2GB Sydney:
 *''...Well we genuinely have a problem with the road toll going up year after year after years of going down. It doesn't make a lot of sense because cars are safer than they've ever been. It can't be the speed. '''Speed is 30% related to fatalities.''' But somebody's still putting the foot down and contributing to that 30%...''
 *''...The road toll is going up. We know that. ''Stats show speed amounts for 30%, contributes to 30% of fatal accidents'' but fatigue is a big issue. Distraction is a factor. Are we going to ban fatigue? How's that going to work? It's not....''
@@ -269,7 +269,36 @@ Quotes spoken by Clinton Maynard from the [https://en.wikipedia.org/wiki/Talk_ra
 |date=2025-11-13
 |author=Kobi Shetty
 |publisher=Parliament of New South Wales
-}}</ref>, and misrepresented the non-linear safety benefits of reducing speeds from 50km/h to 30km/h.
+}}</ref>, and misrepresented the non-linear safety benefits of reducing speeds from 50km/h to 30km/h.<ref name="Maynard2GBNov14th"/> After previously supporting 30km/h to increase economic activity,<ref>''"At 30 the amenity killing noise finally becomes acceptable for outdoor dining, public space activation and encourages people spurs economic activity by encouraging people to linger longer to enjoy what the Street has to offer."''
+{{cite web
+|url=https://www.businesssydney.com/getmedia/d48dc4ce-0343-46c6-8c68-0ebd9c44aab2/high-time-the-future-of-oxford-street.pdf#page=12
+|title=High time - the future of Oxford Street
+|date=November 2020
+|publisher=Business Sydney, Robertsday
+|page=12
+|archive-url=http://web.archive.org/web/20240705152713/https://businesssydney.com/getmedia/d48dc4ce-0343-46c6-8c68-0ebd9c44aab2/high-time-the-future-of-oxford-street.pdf
+|archive-date=2024-07-05
+|url-status=live
+}}
+</ref> Business Sydney now oppose safer speed limits on residential streets, climaing they would cause "red tape and confusion".<ref>{{cite web
+|author=Paul Nicolaou
+|title=(Untitled LinkedIn Post)
+|url=https://www.linkedin.com/posts/paul-nicolaou-131114129_sydney-nsw-transportpolicy-activity-7399881328684617728-XF9z
+|archive-url=https://archive.is/zPGdb
+|archive-date=2025-11-30
+|url-status=live
+|date=2025-11-18
+|publisher=LinkedIn
+}}</ref><ref>{{cite web
+|archive-url=https://archive.is/Q3C6t
+|archive-date=2025-11-25
+|url-status=dead
+|url=https://www.dailytelegraph.com.au/newslocal/central-sydney/sydney-business-fears-greens-mp-kobi-shettys-reduced-speed-limit-bill-will-halt-the-city/news-story/a3810dae437a7062cef703485b63ab4c?amp
+|title=Sydney Business fears Greens MP Kobi Shetty’s reduced speed limit bill will halt the city
+|author=Savannah Pocock
+|date=2025-11-25
+|publisher=Daily Telegraph
+}}</ref>
 
 Messaging and infrastructure also encourages cars to take a dominant position on the road.<ref>{{cite web
 |url=https://www.theguardian.com/australia-news/2023/jul/06/carmakers-double-spending-on-ads-in-australia-for-suvs-and-utes
@@ -332,6 +361,12 @@ Messaging and infrastructure also encourages cars to take a dominant position on
 |archive-date=2025-11-16
 |url-status=live
 |access-date=2025-11-17
+}}</ref><ref>{{cite web
+|url=https://snug.org.nz/wp-content/uploads/2025/11/2025_D1_13-SNUG-2025-SCATS-Presentation-1.pdf
+|author=Roy Brown
+|title=SCATS SNUG Update September 2025
+|date=September 2025
+|publisher=Signals New Zealand User Group
 }}</ref>, however I am not aware of plans for wide-area improvements like in 2018<ref>
 {{cite web |author=Jake Coppinger |date=2025-09-24 |title=Green Lights More Often: The Secret 2018 Study of Sydney’s Traffic Signals |url=https://jakecoppinger.com/2025/09/green-lights-more-often-the-secret-2018-study-of-sydneys-traffic-signals/}}</ref> (or open data on signals<ref>{{cite web |author=Jake Coppinger |date=2025-05-15 |title=No Signal for Pedestrian Safety: TfNSW Refuses Signal Data During National Road Safety Week |url=https://jakecoppinger.com/2025/05/no-signal-for-pedestrian-safety-tfnsw-refuses-signal-data-during-national-road-safety-week/}}</ref>).
 
@@ -993,6 +1028,12 @@ in article is stated to be before the incident date which is impossible) -->
 |access-date=2025-11-02
 |date=2025-07-13
 |publisher=Mirage News
+}}</ref>. The man driving the car allegedly drove through a red light.<ref>{{cite web
+|url=https://7news.com.au/news/teen-pedestrian-dies-at-intersection-after-driver-allegedly-runs-red-light-in-padstow-c-19338818
+|title=Teen pedestrian dies at intersection after driver allegedly runs red light in Padstow
+|author=Caleb Taylor
+|date=2025-07-13
+|publisher=7News
 }}</ref>
 |-
 | 2025-08-03 || 1 || - ||  -  || -  || On 2025-08-03 a 21-year-old man driving a car struck a man, believed to be in his 30s, at Medowie Road, [[Medowie, New South Wales|Medowie]]. The man walking died at the scene.<ref>{{cite web
@@ -1607,7 +1648,7 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251119-2.pdf
 }}</ref> || 
 |-
-| 2025-11-20 || (1 fatality over 2 days) || - || - || (archive.org outage)<ref name="RoadTollDailyIncluding20251120">{{cite web
+| 2025-11-20 || (1 fatality over 2 days) || - || - || <ref name="RoadTollDailyIncluding20251118"/>(archive.org outage)<ref name="RoadTollDailyIncluding20251120">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251121-2.pdf
 |archive-url=https://archive.is/nra3t
 |url-status=dead
@@ -1621,6 +1662,24 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |format=addlarchives
 |date=2025-11-21
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251121-2.pdf
+}}</ref>
+|-
+| 2025-11-26 || 1 || - || - || <ref name="RoadTollDailyIncluding20251124">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251125-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251125-2.pdf
+|archive-date=2025-11-25
+|url-status=dead
+|title=Road Fatalities for NSW up to and including Wednesday, 25 November 2025
+|publisher=Transport for NSW
+|date=2025-11-25
+|page=1
+}}</ref>(missing data - 1 fatality over 2 days)<ref>{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251127-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251127-2.pdf
+|title=Road Fatalities for NSW up to and including Wednesday, 27 November 2025
+|publisher=Transport for NSW
+|date=2025-11-27
+|page=1
 }}</ref>
 |}
 
@@ -1972,6 +2031,13 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-03-31
 |publisher=Northern Beaches Advocate
 }}</ref>
+* 2025-07-11: On 2025-07-11 a person driving a car struck a 6-year-old boy riding an e-scooter at Musgrove Crescent in [[Doonside, New South Wales|Doonside]]. The boy riding the scooter was taken to hospital in a serious condition.<ref>{{cite web
+|url=https://7news.com.au/news/young-boy-fighting-for-life-after-being-hit-by-car-while-riding-e-scooter-in-western-sydney-c-19324503
+|title=Young boy fighting for life after being hit by car while riding e-scooter
+|author=Demi Huang
+|publisher=7News
+|date=2025-07-11
+}}</ref>
 * 2025-10-03: On 2025-10-03 a 28-year-old man driving a motorcycle struck a 53-year-old man crossing the road at Condamine Street, [[Manly Vale]], near Koorala Street. The man walking was in a critical condition and placed into an induced coma. The man driving the motorcycle had minor injuries.<ref>{{cite web
 |title=Pedestrian hit at Manly Vale
 |date=2025-10-04
@@ -1992,12 +2058,31 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-11-15
 |publisher=Northern Beaches Advocate
 }}</ref>
+* 2025-11-14: On 2025-11-14 a person driving a motorbike struck a 4-year-old girl walking at Popondetta Road in [[Dharruk, New South Wales|Dharruk]]. Officers allege a young person on the trail bike continued riding without stopping. The girl was taken to hospital.<ref>{{cite web
+|url=https://www.9news.com.au/national/motorbike-collides-with-four-year-old-girl-in-sydneys-west/d95da552-40ff-4bc5-b712-566e34e108f7
+|archive-url=http://web.archive.org/web/20251130005628/https://www.9news.com.au/national/motorbike-collides-with-four-year-old-girl-in-sydneys-west/d95da552-40ff-4bc5-b712-566e34e108f7
+|archive-date=2025-11-30
+|url-status=live
+|access-date=2025-11-30
+|title=Four-year-old girl rushed to hospital after being hit by motorbike
+|author=Emily Bennett
+|date=2025-11-14
+|publisher=9News
+}}</ref>
 * 2025-11-15: On 2025-11-15 a person driving a vehicle struck at woman, in their 50s, walking at Ferguson Street, [[Forestville, New South Wales|Forestville]]. The woman walking was assessed by paramedics for possible hip and spinal injuries, and taken to hospital in a stable condition. NSW Police and NSW Ambulance attended.<ref>{{cite web
 |url=https://www.northernbeachesadvocate.com.au/2025/11/22/public-safety-round-up-279/
 |title=Public safety round-up
 |date=2025-11-22
 |publisher=Northern Beaches Advocate
 }}</ref>
+* 2025-11-16: On 2025-11-16 a 35-year-old man riding an e-bike struck a 25-year-old person walking at Flood St in [[Bondi, New South Wales|Bondi]]. The woman walking was taken to hospital in a serious but stable condition.<ref>{{cite web
+|url=https://7news.com.au/news/sydney/woman-rushed-to-hospital-with-head-injuries-after-being-hit-by-e-bike-in-bondi-c-20692856
+|title=Woman rushed to hospital with head injuries after being hit by e-bike in Bondi
+|author=Freddy Pawle
+|publisher=7News
+|date=2025-11-16
+}}</ref>
+
 
 ==NSW Centre for Road Safety Statistics==
 ===Eligibility of fatalities reporting in daily statistics===
@@ -2252,7 +2337,7 @@ Australian writers should describe the specific pedestrian offence defined in th
 }}</ref><ref>{{cite web
 |title=New campaign urges shoppers to cross with care
 |date=2016-12-01
-|url=https://yoursay.orange.nsw.gov.au/news/news_feed/new-campaign-urges-shoppers-to-cross-with-care?utm_source=chatgpt.com
+|url=https://yoursay.orange.nsw.gov.au/news/news_feed/new-campaign-urges-shoppers-to-cross-with-care
 |publisher=Orange City Council
 }}</ref><ref>{{cite web
 |title=How much time is spent at traffic signals?
