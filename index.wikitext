@@ -126,7 +126,7 @@ By 11 November 2025, pedestrian fatalities in New South Wales had increased by '
 }}</ref> In the combined 384 pages of the 2024-2025 TfNSW Annual Report there was one sentence on road fatalities.<ref>
 ''"Road fatalities and serious injuries have continued to trend upwards."''<br>
 {{cite web
-|https://www.transport.nsw.gov.au/system/files/media/documents/2025/transport-for-nsw-annual-report-2024–25-volume-1.pdf
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/transport-for-nsw-annual-report-2024–25-volume-1.pdf
 |date=2025-11-21
 |title=Transport for NSW Annual Report 2024–25 Volume 1
 |publisher=Transport for NSW
@@ -280,7 +280,7 @@ Quotes spoken by Clinton Maynard from the [https://en.wikipedia.org/wiki/Talk_ra
 |archive-date=2024-07-05
 |url-status=live
 }}
-</ref> Business Sydney now oppose safer speed limits on residential streets, climaing they would cause "red tape and confusion".<ref>{{cite web
+</ref> Business Sydney now oppose safer speed limits on residential streets, claiming they would cause "red tape and confusion".<ref>{{cite web
 |author=Paul Nicolaou
 |title=(Untitled LinkedIn Post)
 |url=https://www.linkedin.com/posts/paul-nicolaou-131114129_sydney-nsw-transportpolicy-activity-7399881328684617728-XF9z
@@ -577,6 +577,27 @@ in this list.
 }}
 </ref>
 |-
+| 2025-03-18 || - || 1 ||  -  || -  || On 2025-03-18 a 68-year-old man driving a ute struck a 44-year-old man riding a bicycle at the Pacific Highway, [[Tuggerah]]. The man riding the bicycle later died.<ref>{{cite web
+|archive-url=http://web.archive.org/web/20250319070516/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzOi8vZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdS9tZWRpYS8xMTc0NjEuaHRtbCZhbGw9MQ==
+|archive-date=2025-03-19
+|url-status=dead
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzOi8vZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdS9tZWRpYS8xMTc0NjEuaHRtbCZhbGw9MQ==
+|title=Cyclist dies following crash - Tuggerah
+|date=2025-03-19
+|publisher=NSW Police
+}}
+</ref><ref>{{cite web
+|title=Tuggerah: Nathan Scott Parker, 43, farewelled in moving funeral after tragic cycling crash
+|url=https://www.dailytelegraph.com.au/newslocal/central-coast/tuggerah-nathan-scott-parker-43-farewelled-in-moving-funeral-after-tragic-cycling-crash/news-story/08f2d772b2f4693f1e4e3660af642e35?amp
+|archive-url=https://archive.is/OPzDY
+|archive-date=2025-04-04
+|url-status=live
+|access-date=2025-11-02
+|publisher=Daily Telegraph
+|date=2025-04-04
+}}
+</ref>
+|-
 | 2025-03-19 || 1 || - ||  -  || -  || On 2025-03-19 a 77-year-old man driving a car struck an 80-year old man walking at Croudace Bay Road, Valentine (Lake Macquarie). The man walking later died.<ref>{{cite web
 |title=Fatal pedestrian crash - Lake Macquarie
 |archive-url=http://web.archive.org/web/20250428090458/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE3NDUyLmh0bWwmYWxsPTE%3D
@@ -665,27 +686,6 @@ in this list.
 |title=$10,000, drugs found on e-bike rider hit and killed by police car, detectives hunting CCTV of incident
 |publisher=Sydney Morning Herald
 }}</ref>
-|-
-| 2025-03-19 || - || 1 ||  -  || -  || On 2025-03-18 a 68-year-old man driving a ute struck a 44-year-old man riding a bicycle at the Pacific Highway, [[Tuggerah]]. The man riding the bicycle later died.<ref>{{cite web
-|archive-url=http://web.archive.org/web/20250319070516/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzOi8vZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdS9tZWRpYS8xMTc0NjEuaHRtbCZhbGw9MQ==
-|archive-date=2025-03-19
-|url-status=dead
-|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzOi8vZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdS9tZWRpYS8xMTc0NjEuaHRtbCZhbGw9MQ==
-|title=Cyclist dies following crash - Tuggerah
-|date=2025-03-19
-|publisher=NSW Police
-}}
-</ref><ref>{{cite web
-|title=Tuggerah: Nathan Scott Parker, 43, farewelled in moving funeral after tragic cycling crash
-|url=https://www.dailytelegraph.com.au/newslocal/central-coast/tuggerah-nathan-scott-parker-43-farewelled-in-moving-funeral-after-tragic-cycling-crash/news-story/08f2d772b2f4693f1e4e3660af642e35?amp
-|archive-url=https://archive.is/OPzDY
-|archive-date=2025-04-04
-|url-status=live
-|access-date=2025-11-02
-|publisher=Daily Telegraph
-|date=2025-04-04
-}}
-</ref>
 |-
 | 2025-04-28 || 1 || - ||  -  || -  || On 2025-04-28 a 34-year-old man was found dead on the roadside on Watkins Avenue in Griffith. Police stated he may have been walking to work.<ref>
 {{cite web
@@ -1028,7 +1028,7 @@ in article is stated to be before the incident date which is impossible) -->
 |access-date=2025-11-02
 |date=2025-07-13
 |publisher=Mirage News
-}}</ref>. The man driving the car allegedly drove through a red light.<ref>{{cite web
+}}</ref> The man driving the car allegedly drove through a red light.<ref>{{cite web
 |url=https://7news.com.au/news/teen-pedestrian-dies-at-intersection-after-driver-allegedly-runs-red-light-in-padstow-c-19338818
 |title=Teen pedestrian dies at intersection after driver allegedly runs red light in Padstow
 |author=Caleb Taylor
@@ -1355,7 +1355,7 @@ archived in archive.is if needed.
 |date=2025-10-31
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251031-2_0.pdf
 }}
-</ref> || On 2025-10-30 a 42-year-old man driving a ute struck a five-year-old girl riding a scooter on the footpath outside her school at Clower Avenue, [[Rouse Hill]]. The girl later died.<ref name="20251031FatalityPolice">{{cite web
+</ref> || On 2025-10-30 a 42-year-old man driving a ute struck a 5-year-old girl riding a scooter on the footpath outside her school at Clower Avenue, [[Rouse Hill]]. The girl later died.<ref name="20251031FatalityPolice">{{cite web
 |title=Child dies following crash - Rouse Hill
 |date=2025-10-31
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNjIwLmh0bWwmYWxsPTE%3D
@@ -1502,7 +1502,7 @@ archived in archive.is if needed.
 |archive-date=2025-11-12
 }}</ref>
 
-On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding biycles in a group, collided at Kangaloon Road, East Kangaloon, about 4km northeast of [[Robertson, New South Wales|Robertson]]. The 51-year-old man suffered minor injuries and a possible concussion. On 2025-11-11, police were notified that the 54-year-old man had died.<ref>{{cite web
+On 2025-11-08, a 51-year-old man and a 54-year-old man, who were riding bicycles in a group, collided at Kangaloon Road, East Kangaloon, about 4km northeast of [[Robertson, New South Wales|Robertson]]. The 51-year-old man suffered minor injuries and a possible concussion. On 2025-11-11, police were notified that the 54-year-old man had died.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxODQ3Lmh0bWwmYWxsPTE%3D
 |title=Man dies following bicycle crash - Southern Highlands
 |date=2025-11-11
@@ -1592,7 +1592,15 @@ On 2025-11-14, Police will allege a 19-year-old man driving a BMW struck a Kia C
 |title=Driver arrested after fatal pedestrian crash involving two vehicles - Hornsby
 |date=2025-11-15
 |publisher=NSW Police
-}}</ref><ref>{{cite web
+}};
+{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxOTA0Lmh0bWwmYWxsPTE%3D
+|url-status=live
+|title=Driver arrested after fatal pedestrian crash involving two vehicles - Hornsby
+|date=2025-11-15
+|publisher=NSW Police
+}}
+</ref><ref>{{cite web
 |url=https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
 |archive-url=https://web.archive.org/web/20251115030530/https://www.smh.com.au/national/nsw/p-plater-arrested-after-fatal-crash-involving-pregnant-woman-20251115-p5nfmm.html
 |archive-date=2025-11-15
@@ -1632,7 +1640,7 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |publisher=The Sydney Morning Herald
 }}</ref>
 |-
-| 2025-11-18 || 1 (missing 2025-11-17 - 1 fatality over 2 days) || - || - || <ref name="RoadTollDailyIncluding20251116"/><ref name="RoadTollDailyIncluding20251118">{{ cite web
+| 2025-11-18 || 1 (missing 2025-11-17 - 1 fatality over 2 days) || 0 || 0 || <ref name="RoadTollDailyIncluding20251116"/><ref name="RoadTollDailyIncluding20251118">{{ cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251119-2.pdf
 |archive-url=https://web.archive.org/web/20251118234546/https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251119-2.pdf
 |archive-date=2025-11-18
@@ -1648,39 +1656,56 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251119-2.pdf
 }}</ref> || 
 |-
-| 2025-11-20 || (1 fatality over 2 days) || - || - || <ref name="RoadTollDailyIncluding20251118"/>(archive.org outage)<ref name="RoadTollDailyIncluding20251120">{{cite web
+| 2025-11-20 || (1 fatality over 2 days) || 0 || 0 || <ref name="RoadTollDailyIncluding20251118"/>(archive.org outage)<ref name="RoadTollDailyIncluding20251120">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251121-2.pdf
-|archive-url=https://archive.is/nra3t
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251121-2.pdf
 |url-status=dead
 |archive-date=2025-11-21
 |title=Road Fatalities for NSW up to and including Monday, 20 November 2025
 |publisher=Transport for NSW
 |date=2025-11-21
 |page=1
-}}
-{{webarchive
-|format=addlarchives
-|date=2025-11-21
-|url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251121-2.pdf
-}}</ref>
+}}</ref> ||
 |-
-| 2025-11-26 || 1 || - || - || <ref name="RoadTollDailyIncluding20251124">{{cite web
+| 2025-11-26 || 1 || 0 || 0 || <ref name="RoadTollDailyIncluding20251124">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251125-2.pdf
 |archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251125-2.pdf
 |archive-date=2025-11-25
 |url-status=dead
-|title=Road Fatalities for NSW up to and including Wednesday, 25 November 2025
+|title=Road Fatalities for NSW up to and including Wednesday, 24 November 2025
 |publisher=Transport for NSW
 |date=2025-11-25
 |page=1
-}}</ref>(missing data - 1 fatality over 2 days)<ref>{{cite web
+}}</ref>(missing data - 1 fatality over 2 days)<ref name="RoadTollDailyIncluding20251126">{{cite web
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251127-2.pdf
 |archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251127-2.pdf
-|title=Road Fatalities for NSW up to and including Wednesday, 27 November 2025
+|archive-date=2025-11-27
+|url-status=dead
+|title=Road Fatalities for NSW up to and including Wednesday, 26 November 2025
 |publisher=Transport for NSW
 |date=2025-11-27
 |page=1
-}}</ref>
+}}</ref>||
+|-
+| 2025-11-30 || 1 || 0 || 0 || <ref>{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251128-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251128-2.pdf
+|archive-date=2025-11-28
+|url-status=dead
+|title=Road Fatalities for NSW up to and including Thursday, 27 November 2025
+|publisher=Transport for NSW
+|date=2025-11-28
+|page=1
+}}</ref><ref>{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251201-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251201-2.pdf
+|archive-date=2025-12-01
+|url-status=dead
+|title=Road Fatalities for NSW up to and including Sunday, 30 November 2025
+|publisher=Transport for NSW
+|date=2025-12-01
+|page=1
+}}</ref> ||
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
@@ -1702,7 +1727,7 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |date=2025-02-18
 |publisher=Mirage News
 }}</ref>
-* 2025-02-24: On 2025-02-24 a car struck a 63-year-old man riding a bicycle at the intersection of Sackville Street and Hamilton Road, [[Fairfield, New South Wales|Fairfield]]. The car left the scene following the crash. A 69-year-old woman was later arrested. The man riding the bicycle was taken to hospital in a crticial condition.<ref>{{cite web
+* 2025-02-24: On 2025-02-24 a car struck a 63-year-old man riding a bicycle at the intersection of Sackville Street and Hamilton Road, [[Fairfield, New South Wales|Fairfield]]. The car left the scene following the crash. A 69-year-old woman was later arrested. The man riding the bicycle was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE3MDM0Lmh0bWwmYWxsPTE%3D
 |title=Push Bike Rider Seriously Injured In Crash At Fairfield
 |publisher=NSW Police
@@ -1826,7 +1851,7 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |url-status=live
 |access-date=2025-11-02
 }}</ref>
-* 2025-07-14: A 29-year-old woman walking was struck by a car at the intersection of Woodville Road and Kirrang Avenue, Villawood. She was taken to hospital in a critical condition. Police were informed "that the woman was allegedly on a pedestrian crossing facing a green walk signal when she was struck by a blue Hyundai hatch back that had proceeded through a red traffic control signal."  The driver allegedly failed to stop. A 34-year-old man was later arrested.<ref>{{cite web
+* 2025-07-14: A 29-year-old woman walking was struck by a car at the intersection of Woodville Road and Kirrang Avenue, [[Villawood, New South Wales|Villawood]]. She was taken to hospital in a critical condition. Police were informed "that the woman was allegedly on a pedestrian crossing facing a green walk signal when she was struck by a blue Hyundai hatch back that had proceeded through a red traffic control signal."  The driver allegedly failed to stop. A 34-year-old man was later arrested.<ref>{{cite web
 |title=Man charged over hit-and-run - Villawood
 |date=2025-09-23
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwOTUwLmh0bWwmYWxsPTE%3D
@@ -1835,6 +1860,23 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |url-status=live
 |access-date=2025-11-02
 |publisher=NSW Police
+}}</ref>
+* 2025-07-19: On 2025-07-19 a 33-year-old man driving a car struck a 86-year-old man walking at Botany Road, [[Botany, New South Wales|Botany]]. The man walking was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE5Njg4Lmh0bWwmYWxsPTE%3D
+|title=Pedestrian Hit By Car In Sydney's South
+|date=2025-07-19
+|publisher=NSW Police
+|url-status=dead
+}}
+{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/pedestrian-hit-by-car-in-sydneys-south-1499519/
+|title=Pedestrian Hit By Car In Sydney's South
+|date=2025-07-19
+|publisher=Mirage News
+|url-status=live
 }}</ref>
 * 2025-08-07: On 2025-08-07 a 32-year-old man driving a car struck a 29-year-old man walking. Police were told the vehicle was allegedly performing burnouts. The man walking was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwMzQ3Lmh0bWwmYWxsPTE%3D
@@ -1851,6 +1893,23 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |title=Driver Charged After Pedestrian Injured in Mt Druitt
 |date=2025-08-23
 |publisher=Mirage News
+}}</ref>
+* 2025-09-03: On 2025-09-03 a 24-year-old man driving a car struck a women, believed to be in her 60s, at Taber Place, [[Bradbury, New South Wales|Bradbury]]. The woman walking was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwNTU4Lmh0bWwmYWxsPTE%3D
+|title=Pedestrian Seriously Injured - Bradbury
+|url-status=dead
+|publisher=NSW Police
+|date=2025-09-03
+}}{{Dead link
+|fix-attempted=yes
+|date=November 2025
+}}
+</ref><ref>{{cite web
+|url=https://www.miragenews.com/pedestrian-seriously-injured-bradbury-1526383/
+|title=Pedestrian Seriously Injured - Bradbury
+|date=2025-09-03
+|publisher=Mirage News
+|url-status=live
 }}</ref>
 * 2025-09-25: On 2025-09-25 a 56-year-old man driving a car struck a 61-year-old man crossing Victoria Road, [[Rozelle]]. The man walking was taken to hospital in a stable condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwOTkzLmh0bWwmYWxsPTE%3D
@@ -2049,6 +2108,37 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |url=https://www.northernbeachesadvocate.com.au/2025/11/08/public-safety-round-up-277/
 |publisher=Northern Beaches Advocate
 }}</ref>
+* 2025-09-15: On 2025-09-15 a person driving a car struck a person walking near Yerin Bridge, [[Springfield, New South Wales|Springfield]]. The person walking was taken to hospital.<ref>{{cite web
+|url=https://www.facebook.com/nswccincidentalerts/photos/pedestrian-hit-springfieldupdate-patient-has-been-transported-to-royal-north-sho/1116227373949776/
+|title=PEDESTRIAN HIT Springfield
+|publisher=Facebook
+|author=NSW Central Coast Incident Alerts, News & Information
+|date=2025-09-15
+|access-date=2025-12-01
+}}</ref>
+* 2025-10-17: On 2025-10-17 an 81-year-old man driving a car struck a 14-year-old girl and a 16-year-old girl walking at Main Street, [[Lithgow, New South Wales|Lithgow]]. Both girls were taken to hospital. One girl was transferred via helicopter from a local hospital to Westmead Children's Hospital.<ref>{{cite web
+|url=https://www.westernadvocate.com.au/story/9090727/two-teenagers-on-way-to-hospital-after-hit-by-car-in-lithgow/
+|title=New details: driver tested by police after two teenage girls hit by car
+|date=2025-10-17
+|author1=Bradley Jurd
+|author2=Rachel Chamberlain
+|publisher=Western Advocate
+|access-date=2025-12-01
+}}</ref><ref>{{cite web
+|url=https://www.facebook.com/bathurstscan/posts/two-teenage-girls-were-taken-to-the-hospital-after-a-pedestrian-incident-this-mo/1394337296025129/
+|title=(Untitled Facebook post)
+|publisher=Facebook
+|author=Bathurst Scan
+}}</ref>
+* 2025-11-06: On 2025-11-06, a person driving a car struck a 34-year-old man at Kite Street, outside Factory Espresso, [[Orange, New South Wales|Orange]]. The man walking was pinned against a wall and was taken to hospital in a serious but stable condition.<ref>{{cite web
+|url=https://www.centralwesterndaily.com.au/story/9105594/man-injured-in-crash-outside-orange-cafe/
+|archive-url=https://archive.is/iaRJx
+|archive-date=2025-11-06
+|title=Police launch investigation after pedestrian hit by car and pinned against wall
+|publisher=Central Western Daily
+|date=2025-11-06
+|author=Riley Krause
+}}</ref>
 * 2025-11-14: On 2025-11-14, a person driving a car struck a 10-year-old boy riding a bicycle at Avalon Parade, [[Avalon Beach, New South Wales|Avalon Beach]]. The person driving was reversing out of a driveway. The boy was taken to hospital in a stable condition.<ref>{{cite web
 |url=https://www.northernbeachesadvocate.com.au/2025/11/15/public-safety-round-up-278/#:~:text=9.15am%20Friday%2C%2014%20November
 |archive-url=https://archive.is/Kn1zl
@@ -2136,7 +2226,7 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 
 ===Use of the term 'road toll'===
 
-'Road toll' is a legacy term. While the term is still sometime used, most agencies instead using the phase "road deaths"<ref name="BitreMonthlyRoadDeaths">{{cite web
+'Road toll' is a legacy term. While the term is still sometimes used, most agencies instead using the phase "road deaths"<ref name="BitreMonthlyRoadDeaths">{{cite web
 |url=https://datahub.roadsafety.gov.au/progress-reporting/monthly-road-deaths
 |title=Monthly road deaths
 |author=Bureau of Infrastructure and Transport Research Economics
