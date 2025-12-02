@@ -1829,7 +1829,9 @@ On the same morning on 2GB radio, NSW Premier Chris Minns announced new regulati
 |url=https://www.skynews.com.au/australia-news/crime/man-riding-ebike-killed-after-crash-with-garbage-truck-in-ultimo-in-sydney-cbd/news-story/0c8c87daf05064d548d38832db6c535f
 }}</ref>
 
-Sunrise (Liam Tapper) stated the person on the bike was "potentially a delivery driver" and "...a man believed to be in his 30s, a delivery driver, ...". No other news outlets (or the Police press release) reported this. The Sunrise segment spent a significant amount of time focusing on traffic disruption.<ref>{{cite web
+Sunrise (Liam Tapper) stated the person on the bike was "potentially a delivery driver" and "...a man believed to be in his 30s, a delivery driver, ...". The Police press release does not mention this, and with the exception of an image caption on The Nightly, no other news outlets reported this.<ref name="SunriseUltimoLime"/>
+
+The Sunrise segment spent a significant amount of time focusing on traffic disruption.<ref name="SunriseUltimoLime">{{cite web
 |author=Liam Tapper
 |url=https://www.youtube.com/watch?v=DanOFsI5w1I
 |title=E-bike rider killed in Sydney CBD crash
@@ -1837,12 +1839,20 @@ Sunrise (Liam Tapper) stated the person on the bike was "potentially a delivery 
 |date=2025-12-02
 |url-status=live
 |access-date=2025-12-02
-}}</ref> The Daily Mail headline focused on the traffic impact before even mentioning the death.<ref>{{cite web
+}}</ref> The Daily Mail and The Nightly headlines focused on the traffic impact before even mentioning the rider's death.<ref>{{cite web
 |url=https://www.dailymail.co.uk/news/article-15343149/ebike-fatal-crash-Sydney.html
 |title=Sydney CBD traffic grinds to a halt after e-bike rider dies in crash with garbage truck
 |author=Lylie Stevens
 |date=2025-12-02
 |publisher=Daily Mail
+|url-status=live
+|access-date=2025-12-02
+}}</ref><ref>{{cite web
+|url=https://thenightly.com.au/australia/nsw/ultimo-e-bike-rider-dies-after-horror-crash-with-garbage-truck-near-central-station-in-sydneys-cbd-c-20861674
+|title=Ultimo: Traffic chaos after e-bike rider killed in garbage truck collision near Sydney’s Central Station
+|author=Amy Lee
+|date=2025-12-02
+|publisher=The Nightly
 |url-status=live
 |access-date=2025-12-02
 }}</ref>
