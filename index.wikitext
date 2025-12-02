@@ -1706,6 +1706,146 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |date=2025-12-01
 |page=1
 }}</ref> ||
+|-
+| 2025-12-02 || - || 1 || - || || On 2025-12-02 a 28-year-old man driving a garbage truck struck<ref name="SMHUltimoLime">{{cite web
+|url=https://www.smh.com.au/national/nsw/e-bike-rider-killed-in-sydney-s-cbd-after-collision-with-garbage-truck-20251202-p5nk0h.html
+|title=E-bike rider killed in Sydney’s CBD after collision with garbage truck
+|author=Jessica McSweeney
+|date=2025-12-02
+|publisher=The Sydney Morning Herald
+|url-status=live
+|access-date=2025-12-02
+|archive-url=https://web.archive.org/web/20251201223554/https://www.smh.com.au/national/nsw/e-bike-rider-killed-in-sydney-s-cbd-after-collision-with-garbage-truck-20251202-p5nk0h.html
+|archive-date=2025-12-01
+}}</ref> a man in his 30s riding an e-bike at Little Regent Street and Broadway, [[Ultimo, New South Wales|Ultimo]]. The man riding the e-bike died at the scene.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjA1Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251201222421/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjA1Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-01
+|url-status=live
+|title=E-bike rider dies after crash with garbage truck - Ultimo
+|date=2025-12-02
+|publisher=NSW Police
+}}</ref><ref>{{cite web
+|url=https://www.news.com.au/national/nsw-act/news/ebike-rider-killed-in-garbage-truck-crash-in-sydneys-cbd/news-story/f5a54fd49e646da39f02837fc4011c5d
+|title=E-bike rider killed in garbage truck crash in Sydney’s CBD
+|author=Hannah Moore
+|date=2025-12-02
+|publisher=News.com.au
+|url-status=live
+|access-date=2025-12-02
+}}</ref><ref>{{cite web
+|author=Molly Magennis
+|url=https://7news.com.au/news/7news-live-updates-200000-luxury-car-set-alight-c-20861136
+|title=E-bike rider killed in collision with garbage truck
+|publisher=7News
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}}</ref><ref>{{cite web
+|archive-url=https://web.archive.org/web/20251201232632/https://www.theguardian.com/australia-news/live/2025/dec/02/australia-news-live-one-nation-liberal-coalition-barnaby-joyce-pauline-hanson-budget-estimates-labor-ai-plan-ntwnfb?CMP=share_btn_url&page=with%3Ablock-692dfbce8f082fcf62706962#block-692dfbce8f082fcf62706962
+|url=https://www.theguardian.com/australia-news/live/2025/dec/02/australia-news-live-one-nation-liberal-coalition-barnaby-joyce-pauline-hanson-budget-estimates-labor-ai-plan-ntwnfb?CMP=share_btn_url&page=with%3Ablock-692dfbce8f082fcf62706962
+|archive-date=2025-12-02
+|publisher=The Guardian
+|title=Chris Minns says NSW considering 'serious' change to maximum power of ebikes amid safety concerns
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}}</ref>
+
+At Little Regent Street, George Street (Broadway) is a dual-carrageway state road with 8 road lanes reserved for motor vehicles. The state government has not provided any bike lane along George Street / Parramatta Road / Broadway. Little Regent Street is a one-way street southbound at the intersection of George Street (Broadway). Neither the Police report or media articles state if the garbage truck was exiting (against the one-way street), or reversing, into Little Regent Street.
+
+A Lime e-bike (appearing to be a Gen4) was at the scene with the front wheel separated from the front fork.<ref name="UltimoAAP"/> The bike was taken away from the scene on a truck.<ref name="GuardianUltimoLimeGarbage"/> Gen4 Lime e-bikes have a maximum continued power rating of 350W and have a power assist speed limiter at 25km/h.<ref>{{cite web
+|url=https://www.li.me/en-au/nsw-fair-trading-vehicle-information
+|title=Information Standard for the supply of e-micromobility vehicles under clause 6B of the Fair Trading Regulation 2019
+|author=Lime
+|access-date=2025-12-02
+|url-status=live
+}}</ref>
+
+On the same morning on 2GB radio, NSW Premier Chris Minns announced new regulations on e-bikes in NSW to lower the maximum power of legally purchased e-bikes to 250 watts, from 500 watts.<ref name="2GBMinns250W">{{cite web
+|title=EXCLUSIVE - Speed limits coming for electric bikes
+|author=Ben Fordham
+|publisher=2GB
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+|url=https://omny.fm/shows/ben-fordham-full-show/exclusive-speed-limits-coming-for-electric-bikes
+}}</ref> News of this incident appeared to be relayed to the Premier mid-interview.{{efn|'' Ben Fordham, 4m10s into snippet:<ref name="2GBMinns250W"/> ...This has just come through right now and it's timely considering the conversation we're having. This is New South Wales Police communicating to us that an e-bike rider has just died in a collision involving a garbage truck in Sydney CBD this morning. So that's the one that I mentioned just after 6 a.m. We're now being told that an e-bike is involved...
+}} While "It is unclear how fast the rider and garbage truck were travelling in Tuesday’s incident."<ref name="SMHUltimoLime"/> and "We don't know the circumstances of that crash"<ref name="2GBMinns250W"/>, the title of several news articles made possibly misleading inferences about this death of a person riding a legal e-bike:
+
+* ''Speed limits urged after e-bike rider dies in crash'' (AAP News)<ref name="UltimoAAP">{{cite web
+|title=Speed limits urged after e-bike rider dies in crash
+|url=https://aapnews.aap.com.au/news/speed-limits-urged-after-e-bike-rider-dies-in-crash
+|author=Kat Wong
+|publisher=AAP News
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}};
+{{cite web
+|title=Speed limits urged after e-bike rider dies in crash
+|url=https://www.theleader.com.au/story/9124640/speed-limits-urged-after-e-bike-rider-dies-in-crash/
+|date=2025-12-02
+|author=Kat Wong (AAP)
+|publisher=The Leader
+|url-status=live
+|access-date=2025-12-02
+}}</ref>
+* ''NSW Premier Chris Minns considers reducing e-bike speed limits after fatal Sydney crash'' (9News)<ref>{{cite web
+|url=https://www.9news.com.au/national/nsw-ebike-speed-limits-chris-minns-fatal-crash-ultimo/a8672b97-9e85-43d8-bfc2-04371cf5c7fa
+|title=NSW Premier Chris Minns considers reducing e-bike speed limits after fatal Sydney crash
+|author=Patrick Brischetto
+|publisher=9News
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}}</ref>
+* ''E-bike laws: Chris Minns announces 250-watt limit after rider killed in Sydney’s CBD after collision with garbage truck'' (webpage title / previous article title), ''‘Terrible’: Minns announces 250-watt e-bike limit after rider killed in Sydney CBD'' (home page title<ref>{{cite web
+|archive-url=https://web.archive.org/web/20251201233138/https://www.smh.com.au/
+|url=https://www.smh.com.au/
+|archive-date=2025-12-01
+|url-status=dead
+|title=SMH Homepage ('Terrible': Minns announces 250-watt e-bike limit after rider killed in Sydney CBD)
+|publisher=Sydney Morning Herald
+|date=2025-12-02
+|access-date=2025-12-02
+}}</ref>) - Sydney Morning Herald<ref name="SMHUltimoLime"/>
+* ''NSW considering plan to halve power and top speed of ebikes as rider dies in collision with garbage truck'' (The Guardian)<ref name="GuardianUltimoLimeGarbage">{{cite web
+|url=https://www.theguardian.com/australia-news/2025/dec/02/nsw-conto-halve-power-and-top-speed-of-ebikes-as-rider-dies-in-collision-with-garbage-truck
+|title=NSW considering plan to halve power and top speed of ebikes as rider dies in collision with garbage truck
+|author=Nick Visser
+|publisher=The Guardian
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}}</ref>
+* ''NSW Premier Chris Minns flags new e-bike regulations after man killed in 'terrible' collision with garbage truck in Sydney'' (Sky News)<ref>{{cite web
+|url=Laurence Karacsony
+|date=2025-12-02
+|publisher=Sky News
+|url-status=live
+|access-date=2025-12-02
+|title=NSW Premier Chris Minns flags new e-bike regulations after man killed in 'terrible' collision with garbage truck in Sydney
+|url=https://www.skynews.com.au/australia-news/crime/man-riding-ebike-killed-after-crash-with-garbage-truck-in-ultimo-in-sydney-cbd/news-story/0c8c87daf05064d548d38832db6c535f
+}}</ref>
+
+Sunrise (Liam Tapper) stated the person on the bike was "potentially a delivery driver" and "...a man believed to be in his 30s, a delivery driver, ...". No other news outlets (or the Police press release) reported this. The Sunrise segment spent a significant amount of time focusing on traffic disruption.<ref>{{cite web
+|author=Liam Tapper
+|url=https://www.youtube.com/watch?v=DanOFsI5w1I
+|title=E-bike rider killed in Sydney CBD crash
+|publisher=Sunrise
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}}</ref> The Daily Mail headline focused on the traffic impact before even mentioning the death.<ref>{{cite web
+|url=https://www.dailymail.co.uk/news/article-15343149/ebike-fatal-crash-Sydney.html
+|title=Sydney CBD traffic grinds to a halt after e-bike rider dies in crash with garbage truck
+|author=Lylie Stevens
+|date=2025-12-02
+|publisher=Daily Mail
+|url-status=live
+|access-date=2025-12-02
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
