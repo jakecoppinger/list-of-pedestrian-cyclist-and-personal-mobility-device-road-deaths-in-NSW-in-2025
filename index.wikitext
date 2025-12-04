@@ -1768,7 +1768,6 @@ Full summary (critique) of media reporting on this death was published under the
 |title=Why Won’t the Media Report Accurately on Road Deaths?
 |url=https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/
 |url-status=live
-}}</ref>
 <!-- <ref name="RoadTollDailyIncluding20251203">{{cite web
 |archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251204-2.pdf
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251204-2.pdf
@@ -1776,13 +1775,21 @@ Full summary (critique) of media reporting on this death was published under the
 |publisher=Transport for NSW
 |date=2025-12-04
 |page=1
+}}</ref><ref name="RoadTollDailyIncluding20251204">{{cite web
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251205-2.pdf
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251205-2.pdf
+|title=Road Fatalities for NSW up to and including Thursday, 04 December 2025
+|publisher=Transport for NSW
+|date=2025-12-04
+|page=1
 }}</ref> -->
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
 ===Incidents with NSW Police press releases===
 
-This list was last updated on 2025-11-16. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
+This list was last updated on 2025-12-05. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
 
 * 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
@@ -2128,6 +2135,24 @@ This list was last updated on 2025-11-16. It is not possible to ensure completen
 |title=Additional charges laid over alleged road-rage incident - Forster
 |date=2025-11-17
 |publisher=NSW Police
+}}</ref>
+* 2025-12-04: On 2025-12-04 man, in his 20s, driving a truck stuck a man in his 50s riding an e-bike at Barrenjoey Road, [[Mona Vale, New South Wales|Mona Vale]]. The man riding was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjY2Lmh0bWwmYWxsPTE%3D
+|title=E-bike rider critically injured following crash - Mona Vale
+|date=2025-12-04
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251204225512/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjY2Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-04
+|url-status=live
+}}</ref> "multiple Triple Zero (000) calls were made to report a man riding an e-bike had been hit by a four-tonne (4t) delivery truck"<ref>
+{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/12/04/e-bike-rider-critically-injured/
+|archive-url=https://web.archive.org/web/20251204230640/https://www.northernbeachesadvocate.com.au/2025/12/04/e-bike-rider-critically-injured/
+|archive-date=2025-12-04
+|url-status=live
+|title=E-bike rider critically injured
+|date=2025-12-04
+|publisher=Northern Beaches Advocate
 }}</ref>
 
 ===Incidents reported in the media===
