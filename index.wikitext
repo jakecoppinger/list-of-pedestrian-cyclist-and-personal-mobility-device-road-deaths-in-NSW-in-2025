@@ -1709,8 +1709,8 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |page=1
 }}</ref> ||
 |-
-| 2025-12-02 || -1{{efn|Note that Preliminary pedestrian fatalities changed from 55 to 54. See Preliminary Data for why this occurs.}} || 1 || 0 || <ref name="RoadTollDailyIncluding20251203">{{cite web
-|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251203-2.pdf
+| 2025-12-02 || -1{{efn|Note that Preliminary pedestrian fatalities changed from 55 to 54. See the Preliminary Data heading in either document for why this occurs.}} || 1 || 0 || <ref name="RoadTollDailyIncluding20251202">{{cite web
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251202-2.pdf
 |url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251202-2.pdf
 |title=Road Fatalities for NSW up to and including Monday, 01 December 2025
 |archive-date=2025-12-02
@@ -1727,7 +1727,56 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |publisher=Transport for NSW
 |date=2025-12-03
 |page=1
-}}</ref> || On 2025-12-02 a 28-year-old man driving a garbage truck [https://web.archive.org/web/20251201223554/https://www.smh.com.au/national/nsw/e-bike-rider-killed-in-sydney-s-cbd-after-collision-with-garbage-truck-20251202-p5nk0h.html struck]{{efn|AAP News changed their wording from the rider "...slamming into a garbage truck..." to "An e-bike rider is dead after being hit by a garbage truck..." at 2025-12-02 13:14<ref name="UltimoAAP"/>}} a man in his 30s riding an e-bike at Little Regent Street and Broadway, [[Ultimo, New South Wales|Ultimo]]. The man riding the e-bike died at the scene.<ref>{{cite web
+}}</ref> || On 2025-12-02 a 28-year-old man driving a garbage truck [https://web.archive.org/web/20251201223554/https://www.smh.com.au/national/nsw/e-bike-rider-killed-in-sydney-s-cbd-after-collision-with-garbage-truck-20251202-p5nk0h.html struck]<ref name="DailyTelegraphUltimoLime">{{cite web
+|url=https://www.dailytelegraph.com.au/news/nsw/man-dies-after-being-struck-by-garbage-truck-while-riding-an-ebike-in-sydneys-inner-city/news-story/e4b334e288ab690aa5bbd13864424703?amp
+|title=Man dies after being struck by garbage truck while riding an e-bike in Sydney’s inner city
+|author1=William Tyson
+|author2=Rory Williams
+|date=2025-12-02
+|publisher=Daily Telegraph
+|url-status=live
+|access-date=2025-12-02
+}}</ref><ref name="UltimoAAP"/>{{efn|AAP News changed their wording from the rider "...slamming into a garbage truck..." to "An e-bike rider is dead after being hit by a garbage truck..." at 2025-12-02 13:14<ref name="UltimoAAP">{{cite web
+|title=Speed limits urged after e-bike rider dies in crash
+|url=https://aapnews.aap.com.au/news/speed-limits-urged-after-e-bike-rider-dies-in-crash
+|author=Kat Wong
+|publisher=AAP News
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}};
+{{cite web
+|title=Speed limits urged after e-bike rider dies in crash
+|url=https://www.theleader.com.au/story/9124640/speed-limits-urged-after-e-bike-rider-dies-in-crash/
+|archive-url=https://archive.is/u9HVG
+|url-status=live
+|date=2025-12-02
+|author=Kat Wong (AAP)
+|publisher=The Leader
+|url-status=live
+|access-date=2025-12-02
+|archive-date=2025-12-03
+}};
+{{cite web
+|url=https://au.news.yahoo.com/speed-limits-urged-e-bike-232530609.html
+|title=E-bike rider killed in crash as safety warning sounds
+|author=Kat Wong (AAP)
+|publisher=Yahoo News
+|date=2025-12-02
+|url-status=live
+|access-date=2025-12-02
+}};
+{{cite web
+|archive-url=https://web.archive.org/web/20251202082152/https://www.thenewdaily.com.au/life/tech/2025/12/02/e-bike-rider-dies-garbage-truck
+|archive-date=2025-12-02
+|date=2025-12-02
+|url-status=dead
+|title=Speed limits urged after e-bike rider dies in crash
+|url=https://www.thenewdaily.com.au/life/tech/2025/12/02/e-bike-rider-dies-garbage-truck
+|author=Kat Wong (AAP)
+|publisher=The New Daily
+}}
+</ref>}} a man in his 30s riding an e-bike at Little Regent Street and Broadway, [[Ultimo, New South Wales|Ultimo]]. The man riding the e-bike died at the scene.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjA1Lmh0bWwmYWxsPTE%3D
 |archive-url=https://web.archive.org/web/20251201222421/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjA1Lmh0bWwmYWxsPTE%3D
 |archive-date=2025-12-01
@@ -1768,21 +1817,6 @@ Full summary (critique) of media reporting on this death was published under the
 |title=Why Won’t the Media Report Accurately on Road Deaths?
 |url=https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/
 |url-status=live
-<!-- <ref name="RoadTollDailyIncluding20251203">{{cite web
-|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251204-2.pdf
-|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251204-2.pdf
-|title=Road Fatalities for NSW up to and including Wednesday, 03 December 2025
-|publisher=Transport for NSW
-|date=2025-12-04
-|page=1
-}}</ref><ref name="RoadTollDailyIncluding20251204">{{cite web
-|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251205-2.pdf
-|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251205-2.pdf
-|title=Road Fatalities for NSW up to and including Thursday, 04 December 2025
-|publisher=Transport for NSW
-|date=2025-12-04
-|page=1
-}}</ref> -->
 }}</ref>
 |}
 
