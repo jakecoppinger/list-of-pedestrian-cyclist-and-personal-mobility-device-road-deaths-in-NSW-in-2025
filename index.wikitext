@@ -1818,6 +1818,35 @@ Full summary (critique) of media reporting on this death was published under the
 |url=https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/
 |url-status=live
 }}</ref>
+|-
+| 2025-12-09 || 1 || 0 || 0 || <ref name="RoadTollDailyIncluding20251208">{{cite web
+|title=Road Fatalities for NSW up to and including Monday, 08 December 2025
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251209-2_0.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251209-2_0.pdf
+|archive-date=2025-12-09
+|publisher=Transport for NSW
+|date=2025-12-08
+|url-status=dead
+|page=1
+}}</ref><ref name="RoadTollDailyIncluding20251209">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251210-2_0.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251210-2_0.pdf
+|archive-date=2025-12-10
+|title=Road Fatalities for NSW up to and including Tuesday, 09 December 2025
+|publisher=Transport for NSW
+|date=2025-12-09
+|url-status=dead
+|page=1
+}}</ref> || On 2025-12-09 a 25-year-old man driving a Toyota ute struck a one-year-old girl on the property of a home at Lloyd George Grove, [[Tanilba Bay, New South Wales|Tanilba Bay]]. The toddler was taken to hospital in a critical condition where she later died.<ref>{{cite web
+|title=Toddler dies after crash - Port Stephens
+|date=2025-12-10
+|publisher=NSW Police
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzQ4Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251210050554/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzQ4Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-10
+|url-status=live
+|access-date=2025-12-10
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
@@ -2170,6 +2199,22 @@ This list was last updated on 2025-12-05. It is not possible to ensure completen
 |date=2025-11-17
 |publisher=NSW Police 
 }}</ref>
+* 2025-12-01: On 2025-12-01 a person driving a vehicle struck a 10-year-old boy riding an e-scooter at Broughton Street and Stanley Street, [[Concord, New South Wales|Concord]]. Police were informed the boy was on a crossing at this location.<ref name="BurwoodScooterCrossing">{{cite web
+|url=https://www.facebook.com/BurwoodPAC/posts/just-after-715-pm-on-monday-1-december-2025-police-and-emergency-services-were-c/1315652077268383/
+|archive-url=https://archive.is/MUl4B
+|archive-date=2025-12-07
+|author=Burwood Police Area Command
+|date=2025-12-07
+|publisher=Facebook
+}}</ref>
+**At the junction of Broughton Street and Stanley Street there is a raised zebra crossing, and a (segregated) cycleway crossing next to it ([https://www.openstreetmap.org/way/1424303112#map=19/-33.863114/151.105425 OSM Map], [https://www.google.com/maps/place/Stanley+St+%26+Broughton+St,+Concord+NSW+2137/@-33.8629784,151.1050763,3a,90y,38.09h,64.09t/data=!3m7!1e1!3m5!1sd66dmXau5SbVPfsN9sbPaA!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D25.914825498889982%26panoid%3Dd66dmXau5SbVPfsN9sbPaA%26yaw%3D38.08704824890068!7i16384!8i8192!4m6!3m5!1s0x6b12bad2a948804f:0xf483c0ec0b6d3ff3!8m2!3d-33.8630156!4d151.1050972!16s%2Fg%2F11h9rsgyyh?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D Google Street View]). Cycling or scooting across a bike lane crossing (ie. a green painted crossing) without dismounting (walking) is legal.
+** The Burwood Policy Area Command used the post announcing the crash to remind "the public to exercise caution when using e-scooters and to ensure they are operated safely and legally", to "obey road rules, and avoid high-risk areas".<ref name="BurwoodScooterCrossing"/>
+** A new raised pedestrian and cyclist crossing was constructed on Broughton Street in early 2024.<ref>{{cite web
+|url=https://collaborate.canadabay.nsw.gov.au/ewcycleway/ewcycleway-route
+|title=The Cycleway Route - Concord to the Bay Run
+|publisher=Canada Bay Council
+|date=2025-12-07
+}}</ref>
 * 2025-12-04: On 2025-12-04 a man, in his 20s, driving a truck struck a man in his 50s riding an e-bike at Barrenjoey Road, [[Mona Vale, New South Wales|Mona Vale]]. The man riding the e-bike was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMjY2Lmh0bWwmYWxsPTE%3D
 |title=E-bike rider critically injured following crash - Mona Vale
@@ -2187,6 +2232,42 @@ This list was last updated on 2025-12-05. It is not possible to ensure completen
 |title=E-bike rider critically injured
 |date=2025-12-04
 |publisher=Northern Beaches Advocate
+}}</ref>
+* 2025-12-08: On 2025-12-08 a man driving a 48-year-old man was involved in a "minor crash" with two 15-year-old boys riding e-bikes at the intersection of New South Head Road and Newcastle Street, [[Rose Bay, New South Wales|Rose Bay]]. All parties then allegedly became involved in a physical altercation where a number of bystanders intervened. NSW Ambulance paramedics treated the driver at the scene before he was taken to hospital for minor head injuries. One of the boys has been charged with destroy or damage property and common assault.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzMwLmh0bWwmYWxsPTE%3D
+|title=Teenager charged following alleged malicious damage, assault - Rose Bay
+|date=2025-12-09
+|publisher=NSW Police
+|url-status=live
+|archive-url=https://web.archive.org/web/20251210042957/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzMwLmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-10
+|url-status=live
+}}</ref>
+** Further details of the crash are unclear. The Sydney Morning Herald reported "Police were called to Rose Bay following reports two 15-year-old boys on bikes had crashed into a car driven by a 48-year-old man, sparking a physical altercation with bystanders."<ref>{{cite web
+|url=https://www.smh.com.au/national/nsw/teen-faces-court-after-eastern-suburbs-e-bike-altercation-20251210-p5nmdv.html
+|title=Teen faces court after eastern suburbs e-bike altercation
+|date=2025-12-10
+|author=Emily Kaine
+|publisher=Sydney Morning Herald
+|url-status=live
+|access-date=2025-12-10
+}}</ref> Contradictory eyewitness accounts were published on a [https://www.facebook.com/groups/OnSceneBondiCommunity/posts/1928586838068729/ ''OnScene Bondi Community News Group''] post. One included "Near Parisi the car driver did not give the 1 meter distance from the bikes which lead to arguments with one of the two boys. The driver tried to run over one of the boys and he did even reverse into the bike which led to retaliation by the older boy".<ref>{{cite web
+|title=(Untitled Facebook comment)
+|publisher=OnScene Bondi Community News Group (Facebook)
+|author=Massimiliano Rodella
+|url=https://www.facebook.com/groups/OnSceneBondiCommunity/posts/1928586838068729/?comment_id=1928607214733358&reply_comment_id=1929323477995065
+|date=2025-12-09
+|url-status=live
+|access-date=2025-12-10
+}}</ref>
+* 2025-12-09: On 2025-12-09 a man driving a ute (believed to be in his 20s) struck a man (believed to be in his 40s) riding a bicycle at the intersection of Ramsgate Road and The Promenade, [[Sans Souci, New South Wales|Sans Souci]]. The man riding the bicycle was treated for serious injuries before being taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzM4Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251210045043/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzM4Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-10
+|url-status=live
+|title=Cyclist critical following serious crash - Sans Souci
+|date=2025-12-09
+|publisher=NSW Police
 }}</ref>
 
 ===Incidents reported in the media===
