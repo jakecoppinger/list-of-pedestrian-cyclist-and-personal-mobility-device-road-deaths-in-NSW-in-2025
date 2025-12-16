@@ -2419,7 +2419,15 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |publisher=7News
 |date=2025-11-16
 }}</ref>
-
+* 2025-12-10: On 2025-12-10 at 19:04:58, a person riding a motorbike was recorded allegedly pushing Daas Jabbour off his bicycle while he was riding on the M7 cycleway (an off-road bike path) at Rooty Hill. Daas stated one motorbike rider filmed while a second motorbike rider used his leg to push him off his bike, and footage of him in hospital is shown. 7 News reported 3 other cyclists reported being attacked on the same night, one of which suffered serious injuries.<ref>{{cite web
+|author=Clementine Cuneo
+|publisher=7News
+|url=https://www.youtube.com/watch?v=_LxFQGu9Qqw
+|title=Motorbike gang terrorises Sydney cyclists
+|date=2025-12-14
+|url-status=live
+|access-date=2025-12-15
+}}</ref>
 
 ==NSW Centre for Road Safety Statistics==
 ===Eligibility of fatalities reporting in daily statistics===
