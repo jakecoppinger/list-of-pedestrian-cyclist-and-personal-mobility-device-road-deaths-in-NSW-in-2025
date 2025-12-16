@@ -1,4 +1,4 @@
-''See also: [https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/ "Why Won’t the Media Report Accurately on Road Deaths?"] (Coppinger, 2025)<ref name="WhyWontTheMediaReportAccuratelyOnRoadDeaths"/>''
+''See also: [https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/ "Why Won’t the Media Report Accurately on Road Deaths?"] (2025-12-04)<ref name="WhyWontTheMediaReportAccuratelyOnRoadDeaths"/>''
 
 This page is a list of pedestrian, cyclist and personal mobility device road deaths across New South Wales (Australia) in 2025, sourced from NSW Police press releases and daily government statistics. It is not guaranteed to be complete or up to date; BITRE monthly bulletins should be referenced for complete statistics (though preliminary and subject to revision).<ref>{{cite web
 |url=https://www.bitre.gov.au/publications/ongoing/road_deaths_australia_monthly_bulletins
@@ -384,7 +384,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 </ref>
 
 ==List of pedestrian, cyclist and personal mobility device road deaths in NSW in 2025==
-The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics. This table was last updated on 2025-12-04.
+The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics. This table was last updated on 2025-12-16.
 
 As of 2025-11-16, 51 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 16th).<ref name="RoadTollDailyIncluding20251116"/> It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months and daily road toll statistics are deleted daily. There appear to be some fatalities with a Police press release<ref name="UlmarraFatalCrash20251028"/> which are not captured in the daily road toll statistics<ref name="RoadTollDailyIncluding20251027"/><ref name="RoadTollDailyIncluding20251028"/>, perhaps due to being outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
 
@@ -1811,7 +1811,7 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 |access-date=2025-12-02
 }}</ref>
 
-Full summary (critique) of media reporting on this death was published under the title [https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/ ''"Why Won’t the Media Report Accurately on Road Deaths?"''] (Coppinger, 2025)<ref name="WhyWontTheMediaReportAccuratelyOnRoadDeaths">{{cite web
+Full summary (critique) of media reporting on this death was published under the title [https://jakecoppinger.com/2025/12/why-wont-the-media-report-accurately-on-road-deaths/ ''"Why Won’t the Media Report Accurately on Road Deaths?"'']<ref name="WhyWontTheMediaReportAccuratelyOnRoadDeaths">{{cite web
 |date=2025-12-04
 |author=Jake Coppinger
 |title=Why Won’t the Media Report Accurately on Road Deaths?
@@ -1847,12 +1847,41 @@ Full summary (critique) of media reporting on this death was published under the
 |url-status=live
 |access-date=2025-12-10
 }}</ref>
+|-
+| 2025-12-15 || 1 || 0{{efn|name="Note20251215"}} || 0 || <ref name="RoadTollDailyIncluding20251211">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251212-2.pdf
+|title=Road Fatalities for NSW up to and including Thursday, 11 December 2025
+|publisher=Transport for NSW
+|date=2025-12-12
+|url-status=dead
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251212-2.pdf
+|archive-date=2025-12-12
+|page=1
+}}</ref><ref name="RoadTollDailyIncluding20251215">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251216-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251216-2.pdf
+|archive-date=2025-12-16
+|title=Road Fatalities for NSW up to and including Monday, 15 December 2025
+|publisher=Transport for NSW
+|date=2025-12-16
+|url-status=dead
+|page=1
+}}</ref>{{efn|name="Note20251215"|TfNSW daily stats show 1 pedestrian fatality and zero cyclist fatalities between 2025-12-12 and 2025-12-15 (inclusive), however Police were notified of cyclist fatality 2025-12-15 9:15. It is unclear why this fatality appears to be excluded from statistics.}}|| On 2025-12-14 a person driving a Toyota FJ Cruiser struck a 42-year-old man riding a bicycle at the intersection of the Pacific Highway and Awabakal Drive, [[Nords Wharf, New South Wales|Nords Wharf]] in [[Lake Macquarie, New South Wales|Lake Macquarie]]. The man riding the bicycle was taken to hospital in a critical condition and died on 2025-12-15. The driver of the car failed to stop after the crash and left the scene.<ref>{{cite web
+|title=Cyclist dies following fail to stop crash - Nords Wharf
+|date=2025-12-16
+|publisher=NSW Police
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNDg0Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251216004327/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNDg0Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-16
+|url-status=live
+|access-date=2025-12-16
+}}</ref>
 |}
 
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
 ===Incidents with NSW Police press releases===
 
-This list was last updated on 2025-12-05. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
+This list was last updated on 2025-12-16. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
 
 * 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
@@ -2201,6 +2230,7 @@ This list was last updated on 2025-12-05. It is not possible to ensure completen
 }}</ref>
 * 2025-12-01: On 2025-12-01 a person driving a vehicle struck a 10-year-old boy riding an e-scooter at Broughton Street and Stanley Street, [[Concord, New South Wales|Concord]]. Police were informed the boy was on a crossing at this location.<ref name="BurwoodScooterCrossing">{{cite web
 |url=https://www.facebook.com/BurwoodPAC/posts/just-after-715-pm-on-monday-1-december-2025-police-and-emergency-services-were-c/1315652077268383/
+|title=(Untitled Facebook Post)
 |archive-url=https://archive.is/MUl4B
 |archive-date=2025-12-07
 |author=Burwood Police Area Command
@@ -2252,7 +2282,7 @@ This list was last updated on 2025-12-05. It is not possible to ensure completen
 |url-status=live
 |access-date=2025-12-10
 }}</ref> Contradictory eyewitness accounts were published on an [https://www.facebook.com/groups/OnSceneBondiCommunity/posts/1928586838068729/ ''OnScene Bondi Community News Group''] post. One claimed "Near Parisi the car driver did not give the 1 meter distance from the bikes which lead to arguments with one of the two boys. The driver tried to run over one of the boys and he did even reverse into the bike which led to retaliation by the older boy".<ref>{{cite web
-|title=(Untitled Facebook comment)
+|title=(Untitled Facebook comment, 2025-12-09 14:52)
 |publisher=OnScene Bondi Community News Group (Facebook)
 |author=Massimiliano Rodella
 |url=https://www.facebook.com/groups/OnSceneBondiCommunity/posts/1928586838068729/?comment_id=1928607214733358&reply_comment_id=1929323477995065
@@ -2317,6 +2347,12 @@ This list was last updated on 2025-12-05. It is not possible to ensure completen
 |title=Pedestrian hit at Brookvale
 |date=2025-11-08
 |url=https://www.northernbeachesadvocate.com.au/2025/11/08/public-safety-round-up-277/
+|publisher=Northern Beaches Advocate
+}}</ref>
+* 2025-09-15: On 2025-09-15 a 20-year-old male riding a bicycle downhill struck a roadside barrier and was knocked unconscious near West Head lookout at Ku-ring-gai Chase National Park. The man was taken to hospital in a serious but stable condition. There is no indication a motor vehicle was involved.<ref>{{cite web
+|url=https://www.northernbeachesadvocate.com.au/2025/09/15/rider-crashes-into-railing/
+|title=Rider crashes into railing
+|date=2025-09-15
 |publisher=Northern Beaches Advocate
 }}</ref>
 * 2025-09-15: On 2025-09-15 a person driving a car struck a person walking near Yerin Bridge, [[Springfield, New South Wales|Springfield]]. The person walking was taken to hospital.<ref>{{cite web
