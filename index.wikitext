@@ -160,7 +160,25 @@ More than 1100 pedestrians are struck by motor vehicles on NSW roads each year.<
 |archive-date=2025-08-30
 |url-status=live
 |url=https://www.roadsafety.gov.au/nrss/fact-sheets/vision-zero-safe-system#:~:text=ROAD%20USERS-,SPEED,-FUNCTION%20OF%20THE
-}}</ref>). If you are struck by a car at 50km/h there is just a 10% chance you will survive. Your chance of survival increases to 60% if the car is travelling at 40km/h, and to 90% if struck at 30km/h.<ref name="CoSAITPM">{{cite web |author=City of Sydney |date=2025-08-19 |title=Safe Speeds: The role of speed reduction and lower speed limits in reducing road trauma |url=https://files.jakecoppinger.com/speed_limits/AITPM%20Safe%20Speeds%20presentation%2019%20August%202025.pdf |publisher=AITPM}}</ref> Wales cut local speed limits to 20mph (~30km/h), with a reduction in casualties of 26%<ref>
+}}</ref>).
+
+In December 2025 a federal proposal to reduce default speed limits on poor-quality country roads was released for public comment after consideration for 7 years.<ref name="SMH11Days"/> A paper by the federal Office of Road Safety argued a reduction in default speed limits from 100km/h to 80km/h on unsignposted roads would save 123 lives and prevent 4,182 serious injuries ''per year''<ref name="ConsultationRegulatoryImpactAnalysis"/>{{rp|11}} and save the economy $2.697 billion per year.<ref name="ConsultationRegulatoryImpactAnalysis">{{cite web
+|title=Consultation Regulatory Impact Analysis: Reducing default speed limits outside of builtup areas
+|date=September 2025
+|publisher=Australian Government Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts
+|url=https://www.infrastructure.gov.au/sites/default/files/documents/consultation-regulatory-impact-analysis-reducing-default-speed-limits-outside-of-built-up-areas-september-2025.pdf
+|archive-url=http://web.archive.org/web/20251113164701/https://www.infrastructure.gov.au/sites/default/files/documents/consultation-regulatory-impact-analysis-reducing-default-speed-limits-outside-of-built-up-areas-september-2025.pdf
+|archive-date=2025-11-13
+|url-status=live
+}}</ref>{{rp|67}} More than 150 experts sent an open letter to government supporting the speed limit proposal. Only 11 days after consultation concluded, with about 11,000 submissions, the proposal was scrapped by state and federal transport ministers. The proposal attracted opposition from farmers, truckers and rural residents who said it would decrease productivity and rob them of valuable time with their families.<ref name="SMH11Days">{{cite web
+|title=It took years to come up with a plan to cut road deaths, and just 11 days to kill it
+|author=Julie Power
+|publisher=Sydney Morning Herald
+|date=2025-12-12
+|url=https://www.smh.com.au/national/nsw/it-took-years-to-come-up-with-a-plan-to-cut-road-deaths-and-just-11-days-to-kill-it-20251129-p5njg5.html
+}}</ref>
+
+If you are struck by a car at 50km/h there is just a 10% chance you will survive. Your chance of survival increases to 60% if the car is travelling at 40km/h, and to 90% if struck at 30km/h.<ref name="CoSAITPM">{{cite web |author=City of Sydney |date=2025-08-19 |title=Safe Speeds: The role of speed reduction and lower speed limits in reducing road trauma |url=https://files.jakecoppinger.com/speed_limits/AITPM%20Safe%20Speeds%20presentation%2019%20August%202025.pdf |publisher=AITPM}}</ref> Wales cut local speed limits to 20mph (~30km/h), with a reduction in casualties of 26%<ref>
 {{cite web
 |url=https://theconversation.com/lower-speeds-on-local-streets-cut-deaths-and-injuries-by-a-quarter-in-wales-over-100-experts-want-australia-to-do-the-same-237330
 |author=Jennifer L. Kent
@@ -1058,6 +1076,20 @@ in article is stated to be before the incident date which is impossible) -->
 |publisher=Mirage News
 }}</ref>
 |-
+| 2025-08-05 || 1 || - ||  -  || -  || On 2025-08-05 a 73-year-old man struck a 91-year-old man and a 70-year-old woman walking at Sproule Street, [[Lakemba, New South Wales|Lakemba]]. The 91-year-old man was taken to hospital in a critical condition, and had died by 2025-08-09. The 70-year-old woman was taken to hospital with minor injuries.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwMTA3Lmh0bWwmYWxsPTE%3D
+|title=Pedestrian dies after crash - Lakemba
+|date=2025-08-05
+|publisher=NSW Police
+|url-status=dead
+|fix-attempted=yes
+}}</ref><ref>{{cite web
+|url=https://www.miragenews.com/pedestrian-dies-after-crash-lakemba-1512515/
+|title=Pedestrian Dies After Crash - Lakemba
+|date=2025-08-11
+|publisher=Mirage News
+}}</ref>
+|-
 | 2025-08-12 || 1 || - ||  -  || -  || On 2025-08-11 a 51-year-old man<ref>{{cite web
 |url=https://www.miragenews.com/man-identified-after-fatal-crash-at-richmond-1513261/
 |date=2025-08-12
@@ -1128,7 +1160,7 @@ in article is stated to be before the incident date which is impossible) -->
 |access-date=2025-11-02
 }}</ref>
 |-
-| 2025-09-07 || 1 || - ||  -  || -  || On 2025-09-06 a 46-year-old man driving a car struck a man, believed to be in his 40s, at M1 Princes Highway, [[Croom, New South Wales|Croom]], about 8km west of [[Shellharbour, New South Wales|Shellharbour]]. The man walking died at the scene.<ref>{{cite web
+| 2025-09-06 || 1 || - ||  -  || -  || On 2025-09-06 a 46-year-old man driving a car struck a man, believed to be in his 40s, at M1 Princes Highway, [[Croom, New South Wales|Croom]], about 8km west of [[Shellharbour, New South Wales|Shellharbour]]. The man walking died at the scene.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwNjMxLmh0bWwmYWxsPTE%3D
 |publisher=NSW Police
 |date=2025-09-07
@@ -1234,7 +1266,7 @@ in article is stated to be before the incident date which is impossible) -->
 |date=2025-10-11
 }}</ref>
 |-
-| 2025-10-24 || 1 || - ||  -  || -  || On 2025-10-22, a 65-year-old man was struck by an "E-bike" on Settlers Walk, near Greenmeadows Crescent, Toongabbie. The man later died. The rider allegedly left the scene following the crash. Following inquiries, the alleged rider (a 45-year-old man) was arrested, and "has since been released without charge pending further inquiries".<ref>{{cite web
+| 2025-10-22 || 1 || - ||  -  || -  || On 2025-10-22, a 65-year-old man was struck by an "E-bike" on Settlers Walk, near Greenmeadows Crescent, Toongabbie. The man later died. The rider allegedly left the scene following the crash. Following inquiries, the alleged rider (a 45-year-old man) was arrested, and "has since been released without charge pending further inquiries".<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNDk2Lmh0bWwmYWxsPTE%3D
 |archive-url=http://web.archive.org/web/20251102074755/https://www.police.nsw.gov.au/news/news?sq_content_src=+dXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNDk2Lmh0bWwmYWxsPTE=
 |title=Pedestrian dies, rider arrested following crash - Toongabbie
@@ -1803,7 +1835,7 @@ On 2025-11-16 a 23-year-old man was found unresponsive on the side of Old Kurraj
 }}</ref><ref>{{cite web
 |archive-url=https://web.archive.org/web/20251201232632/https://www.theguardian.com/australia-news/live/2025/dec/02/australia-news-live-one-nation-liberal-coalition-barnaby-joyce-pauline-hanson-budget-estimates-labor-ai-plan-ntwnfb?CMP=share_btn_url&page=with%3Ablock-692dfbce8f082fcf62706962#block-692dfbce8f082fcf62706962
 |url=https://www.theguardian.com/australia-news/live/2025/dec/02/australia-news-live-one-nation-liberal-coalition-barnaby-joyce-pauline-hanson-budget-estimates-labor-ai-plan-ntwnfb?CMP=share_btn_url&page=with%3Ablock-692dfbce8f082fcf62706962
-|archive-date=2025-12-02
+|archive-date=2025-12-01
 |publisher=The Guardian
 |title=Chris Minns says NSW considering 'serious' change to maximum power of ebikes amid safety concerns
 |date=2025-12-02
@@ -1875,6 +1907,27 @@ Full summary (critique) of media reporting on this death was published under the
 |archive-date=2025-12-16
 |url-status=live
 |access-date=2025-12-16
+}}</ref>
+|-
+| 2025-12-18 || 0 || 1 || 0 || <ref name="RoadTollDailyIncluding20251217">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251218-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251218-2.pdf
+|archive-date=2025-12-18
+|title=Road Fatalities for NSW up to and including Wednesday, 17 December 2025
+|publisher=Transport for NSW
+|date=2025-12-18
+|url-status=dead
+|page=1
+}}</ref>{{efn|Note: pedal cyclist fatality statistic reduced from 12 on 2025-12-11<ref name="RoadTollDailyIncluding20251211"/> to 11 on 2025-12-18.<ref name="RoadTollDailyIncluding20251218"/> This may be due to the crash occurring outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
+}}<ref name="RoadTollDailyIncluding20251218">{{cite web
+|url=https://www.transport.nsw.gov.au/system/files/media/documents/2025/nsw-road-toll-daily-20251219-2.pdf
+|archive-url=https://files.jakecoppinger.com/nsw-road-deaths-daily/nsw-road-toll-daily-20251219-2.pdf
+|archive-date=2025-12-19
+|title=Road Fatalities for NSW up to and including Thursday, 18 December 2025
+|publisher=Transport for NSW
+|date=2025-12-19
+|url-status=dead
+|page=1
 }}</ref>
 |}
 
@@ -2048,6 +2101,14 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |publisher=Mirage News
 |url-status=live
 }}</ref>
+* 2025-07-25: Police charged that on 2025-07-25 a 39-year-old male constable struck a 55-year-old woman walking in a carpark in Dubbo before driving from the scene.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNTQwLmh0bWwmYWxsPTE%3D
+|title=Officer charged after allegedly hitting pedestrian - Western Region
+|date=2025-12-19
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251219085258/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNTQwLmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-19
+}}</ref>
 * 2025-08-07: On 2025-08-07 a 32-year-old man driving a car struck a 29-year-old man walking. Police were told the vehicle was allegedly performing burnouts. The man walking was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwMzQ3Lmh0bWwmYWxsPTE%3D
 |title=Driver Charged After Pedestrian Injured in Mt Druitt
@@ -2080,6 +2141,27 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |date=2025-09-03
 |publisher=Mirage News
 |url-status=live
+}}</ref>
+* 2025-09-06: On 2025-09-06 police were told 37-year-old man driving a car crashed into another vehicle before continuing into a fence at Bourke Street, [[Dubbo, New South Wales|Dubbo]], and then collided with an 87-year-old and 85-year-old woman. The 87-year-old pedestrian was found laying on the road with serious internal injuries and a hand injury. The 85-year-old woman had suffered a head injury. Both people walking were taken to hospital in a stable condition.<ref>{{cite web
+|url=https://www.miragenews.com/driver-charged-after-pedestrian-hurt-in-dubbo-1528442/
+|title=Driver Charged After Pedestrian Hurt in Dubbo
+|date=2025-09-07
+|publisher=Mirage News
+}}</ref><ref>{{cite web
+|title=Driver Charged After Pedestrian Hurt in Dubbo
+|date=2025-09-07
+|publisher=NSW Police
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwNjMwLmh0bWwmYWxsPTE%3D
+|url-status=dead
+|fix-attempted=yes
+}}</ref><ref>{{cite web
+|url=https://7news.com.au/news/pedestrians-struck-in-separate-nsw-crashes-on-dubbo-footpath-and-m1-near-wollongong-c-19936126
+|title=Pedestrians struck in separate NSW crashes on Dubbo footpath and M1 near Wollongong
+|author=Hayley Taylor
+|date=2025-09-07
+|publisher=7News
+|url-status=live
+|access-date=2025-12-19
 }}</ref>
 * 2025-09-25: On 2025-09-25 a 56-year-old man driving a car struck a 61-year-old man crossing Victoria Road, [[Rozelle]]. The man walking was taken to hospital in a stable condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIwOTkzLmh0bWwmYWxsPTE%3D
@@ -2136,6 +2218,14 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |title=Two pedestrians seriously injured in crash - Concord
 |date=2025-11-05
 |publisher=NSW Police
+}}</ref>
+* 2025-11-06: On 2025-11-06 police received reports of a car striking a 53-year-old male walking at the intersection of Endeavour Place and Solander Street, [[North Albury, New South Wales|North Albury]]. The man walking suffered serious injuries to his leg and was taken to hospital. The car allegedly left the scene. On 2025-12-17 a 24-year-old man was arrested in Victoria on unrelated matters, extradicted to NSW on 2025-12-18 and changed with relevant offences.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNTMwLmh0bWwmYWxsPTE%3D
+|title=Man charged following alleged hit and run in North Albury
+|date=2025-12-19
+|publisher=NSW Police
+|archive-url=https://web.archive.org/web/20251219091336/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyNTMwLmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-19
 }}</ref>
 * 2025-11-07: On 2025-11-07, two people in their 20s or 30s driving an SUV and a sedan car crashed at the intersection of Bungaribee Road and Lock Street, [[Blacktown]]. One car mounted the kerb and struck three people standing. All three people standing were believed to be in their 20s and 30s. All people who were standing are in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIxNzgwLmh0bWwmYWxsPTE%3D
@@ -2299,6 +2389,15 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |date=2025-12-09
 |publisher=NSW Police
 }}</ref>
+* 2025-12-10: On 2025-12-10 a 17-year-old boy driving a ute struck a 86-year-old man at Pioneer Drive, [[Blackbutt, New South Wales|Blackbutt]] (Shellharbour). The man walking was struck while crossing a driveway, and was taken to hospital in a critical condition.<ref>{{cite web
+|url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzc4Lmh0bWwmYWxsPTE%3D
+|archive-url=https://web.archive.org/web/20251219093136/https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTIyMzc4Lmh0bWwmYWxsPTE%3D
+|archive-date=2025-12-19
+|title=Appeal for information after elderly man critically injured in crash - Blackbutt
+|date=2025-12-11
+|access-date=2025-12-19
+|publisher=NSW Police
+}}</ref>
 
 ===Incidents reported in the media===
 
@@ -2428,7 +2527,13 @@ This list was last updated on 2025-12-16. It is not possible to ensure completen
 |url-status=live
 |access-date=2025-12-15
 }}</ref>
-
+* 2025-12-13: On 2025-12-13 a 78-year-old person driving a car crashed into a busy Vietnamese restaurant in [[Campbelltown, New South Wales|Campbelltown]]. A 45-year-old woman walking past was struck. Eyewitness accounts describe the woman being face down and unable to move, and was taken to hospital with minor injuries. No people were dining in the car's path when it crashed through the restaurant.<ref>{{cite web
+|url=https://7news.com.au/news/car-crashes-through-vietnamese-restaurant-after-hitting-woman-at-campbelltown-western-sydney-c-20996285
+|title=Car crashes through Vietnamese restaurant after hitting woman at Campbelltown, Western Sydney
+|author=Brianna Jackson
+|publisher=7News
+|date=2025-12-14
+}}</ref>
 ==NSW Centre for Road Safety Statistics==
 ===Eligibility of fatalities reporting in daily statistics===
 Fatalities are removed from daily NSW Centre for Road Safety statistics<ref>{{cite web
@@ -2513,7 +2618,16 @@ It is my goal to use accurate, factually correct and appropriate language in thi
 |access-date=2025-11-02
 |author=Cary Grant
 }}
-</ref> and media reporting guidelines suggest not using the term.<ref name="InjuryMattersGuidelines">{{Cite web |date=2022 |title=Media guidelines for reporting road traffic incidents |url=https://www.injurymatters.org.au/wp-content/uploads/2022/08/Injury-Matters-Media-Guidelines-for-Reporting-Road-Incidents-2022-1.pdf |url-status=live
+</ref><ref>
+''..."But the nature of Australia's road toll has changed a lot since we used to obsess over it 20 years ago, including the terminology — we call it “road deaths” now. Tolls are an unavoidable price of using roads, while we need to be more ambitious in fighting road deaths."...''<br>
+{{cite web
+|title=Road deaths may be rising again after falling for years. Why?
+|author=Jason Murphy
+|publisher=Crikey
+|date=2025-12-19
+|url=https://www.crikey.com.au/2025/12/19/road-deaths-toll-rising-driving-cars/
+|access-date=2025-12-19
+}}</ref> and media reporting guidelines suggest not using the term.<ref name="InjuryMattersGuidelines">{{Cite web |date=2022 |title=Media guidelines for reporting road traffic incidents |url=https://www.injurymatters.org.au/wp-content/uploads/2022/08/Injury-Matters-Media-Guidelines-for-Reporting-Road-Incidents-2022-1.pdf |url-status=live
 |access-date=2025-11-02 |archive-url=https://web.archive.org/web/20240626120410/https://www.injurymatters.org.au/wp-content/uploads/2022/08/Injury-Matters-Media-Guidelines-for-Reporting-Road-Incidents-2022-1.pdf |archive-date=2024-06-26
 |website=Injury Matters |publisher=Injury Matters, Road Trauma Support WA |page=6}}</ref>
 
