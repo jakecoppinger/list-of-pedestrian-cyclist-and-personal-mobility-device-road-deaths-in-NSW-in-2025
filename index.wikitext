@@ -402,7 +402,7 @@ The NSW Government wants walking and bike riding to be the preferred way to make
 </ref>
 
 ==List of pedestrian, cyclist and personal mobility device road deaths in NSW in 2025==
-The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics. This table was last updated on 2025-12-16.
+The following table includes media reports for fatalities of people walking, riding bicycles or using personal mobility devices, or as recorded in daily NSW Centre for Road Safety statistics. This table was last updated on 2025-12-19.
 
 As of 2025-11-16, 51 pedestrians and 11 pedal cyclists were killed in the calendar year to midnight (up to and including November 16th).<ref name="RoadTollDailyIncluding20251116"/> It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months and daily road toll statistics are deleted daily. There appear to be some fatalities with a Police press release<ref name="UlmarraFatalCrash20251028"/> which are not captured in the daily road toll statistics<ref name="RoadTollDailyIncluding20251027"/><ref name="RoadTollDailyIncluding20251028"/>, perhaps due to being outside a surveyed road reserve.{{efn|name="SurveyedRoadReserve"}}
 
@@ -1934,7 +1934,7 @@ Full summary (critique) of media reporting on this death was published under the
 ==List of pedestrians, cyclists and personal mobility devices road injuries in NSW in 2025==
 ===Incidents with NSW Police press releases===
 
-This list was last updated on 2025-12-16. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
+This list was last updated on 2025-12-19. It is not possible to ensure completeness as past NSW Police press releases are currently deleted or disappear after some months.
 
 * 2025-02-18: On 2025-02-18 a 35-year-old woman driving an SUV struck a 10-year-old boy at North Liverpool Road, [[Mount Pritchard]]. The boy was taken to hospital in a critical condition.<ref>{{cite web
 |url=https://www.police.nsw.gov.au/news/news_article?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGZWJpenByZC5wb2xpY2UubnN3Lmdvdi5hdSUyRm1lZGlhJTJGMTE2OTIwLmh0bWwmYWxsPTE%3D
